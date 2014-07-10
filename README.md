@@ -3,7 +3,7 @@
 This repository is a collection of all necessary configuration files and
 related data to run my setup.
 
-![snapshot of b52's setup](http://reaktor42.de/~b52/shots/2013-09-21-223903_1280x800_scrot.png)
+![snapshot of b52's setup](https://raw.githubusercontent.com/localhost8080/dotfiles/master/screenshot.png)
 
 The README shall also be a reminder of how to properly set it up, involving
 the needed packages and configuration steps.
