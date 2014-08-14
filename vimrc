@@ -30,7 +30,7 @@ set noshowmode
 
 " syntax highlighting
 syntax enable
-set background=light
+set background=dark
 colorscheme solarized
 
 " also yank to X clipboard, requires +X11 +clipboard

@@ -1,0 +1,7 @@
+#!/bin/sh
+
+~/dotfiles/install.py --submodules
+~/dotfiles/install.py -sf vim
+~/dotfiles/install.py -sf *
+
+
