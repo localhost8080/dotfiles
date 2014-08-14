@@ -6,5 +6,6 @@
 
 xrdb ~/.Xresources
 eval `dircolors ~/.dircolors`
-~/dotfiles/gnome-terminal-colors-solarized/set_light.sh
+~/dotfiles/gnome-terminal-colors-solarized/set_dark.sh
+export MC_SKIN=$HOME/.mc/solarized.ini
 
