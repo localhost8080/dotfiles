@@ -17,7 +17,6 @@ Bundle 'tpope/vim-markdown'
 Bundle 'pbrisbin/html-template-syntax'
 Bundle 'scrooloose/syntastic'
 Bundle 'kien/ctrlp.vim'
-Bundle 'Valloric/YouCompleteMe'
 Bundle 'Lokaltog/powerline'
 Bundle 'derekwyatt/vim-scala'
 Bundle 'b4winckler/vim-objc'
@@ -30,8 +29,9 @@ set laststatus=2
 set noshowmode
 
 " syntax highlighting
-syntax on
-colorscheme awesomeness
+syntax enable
+set background=light
+colorscheme solarized
 
 " also yank to X clipboard, requires +X11 +clipboard
 set clipboard=unnamedplus
