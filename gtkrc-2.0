@@ -1,15 +1,6 @@
-gtk-theme-name="Adwaita-X-light"
-gtk-icon-theme-name="elementary"
-gtk-font-name="DejaVu Sans 8"
-gtk-cursor-theme-name="Vanilla-DMZ-AA"
-gtk-cursor-theme-size=0
-gtk-toolbar-style=GTK_TOOLBAR_ICONS
-gtk-toolbar-icon-size=GTK_ICON_SIZE_SMALL_TOOLBAR
-gtk-button-images=0
-gtk-menu-images=1
-gtk-enable-event-sounds=0
-gtk-enable-input-feedback-sounds=0
-gtk-xft-antialias=1
-gtk-xft-hinting=1
-gtk-xft-hintstyle="hintslight"
-gtk-xft-rgba="rgb"
+# -- THEME AUTO-WRITTEN BY gtk-theme-switch2 DO NOT EDIT
+include "/usr/share/themes/Numix/gtk-2.0/gtkrc"
+
+include "/root/.gtkrc-2.0.mine"
+
+# -- THEME AUTO-WRITTEN BY gtk-theme-switch2 DO NOT EDIT
