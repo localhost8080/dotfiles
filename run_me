@@ -4,4 +4,7 @@
 ~/dotfiles/install.py -sf vim
 ~/dotfiles/install.py -sf *
 
+xrdb ~/.Xresources
+eval `dircolors ~/.dircolors`
+~/dotfiles/gnome-terminal-colors-solarized/set_light.sh
 
