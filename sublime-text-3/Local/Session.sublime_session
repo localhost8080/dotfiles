@@ -1,0 +1,581 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3059,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 716.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/localhost/Desktop/integral_form.html",
+				"/home/localhost/Desktop/template.xml",
+				"/home/localhost/dumps/fpsg.sql",
+				"/home/localhost/Desktop/rsi_style.xslt",
+				"/home/localhost/Desktop/tident_template.csv",
+				"/home/localhost/Desktop/barcodes.sql.csv",
+				"/home/localhost/Desktop/computer-megastore.csv",
+				"/home/localhost/Desktop/build steps for email class:",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_tagadab_subdomain",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_local",
+				"/home/localhost/Desktop/Redirects.txt",
+				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/Redirects.txt",
+				"/home/localhost/Desktop/information needed",
+				"/home/localhost/Downloads/uni/q4b.txt",
+				"/home/localhost/Downloads/uni/q4a.txt",
+				"/home/localhost/Downloads/uni/q3.txt",
+				"/home/localhost/Downloads/uni/q2a.txt",
+				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
+				"/home/localhost/Desktop/snag_list.csv",
+				"/home/localhost/Desktop/301-bbb.csv"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"	",
+					"		",
+					"£",
+					"/",
+					"£",
+					"and",
+					"_gaq",
+					"function n",
+					","
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"-",
+					"",
+					"or",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1261.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "todo:\n\n\nhappybus - orders screen is shit\n\n\nadd in the index page to the admin core\nadd in the login classes from the tagadab server \n(though these are actually not part of the core for other sites, might be best to replace the symlinks with the static versions)\n\n\n\n\n2) tag based pushing to remote servers scripts or something\n3) push to live domain\n4) pull form live domain and update the gitlab (without the images or shit though)\n5) create project in gitlab from a script and tie it all in....\n\n\n\nIntegral OH – Create the form\n\nHighland New Features\nwinepalate things -- various in the trello board\nunited sports things\n\n\n\n\n\n\n\n\nalso, mod the remote launch script to run the admin symlink script too\nmake an admin symlink script for subdomains too\n\n\n",
+					"file": "/home/localhost/Desktop/todo:",
+					"file_size": 725,
+					"file_write_time": 130512981928082488,
+					"settings":
+					{
+						"buffer_size": 751,
+						"line_ending": "Unix",
+						"name": "todo:"
+					}
+				},
+				{
+					"contents": "ALTER TABLE `shp_disc` \nCHANGE COLUMN `disc` `disc` DOUBLE(10,10) NULL DEFAULT NULL ,\nCHANGE COLUMN `brand` `brand` DOUBLE(10,10) NULL DEFAULT NULL ,\nCHANGE COLUMN `brandp` `brandp` DOUBLE(10,10) NULL DEFAULT NULL ,\nCHANGE COLUMN `productp` `productp` DOUBLE(10,10) NULL DEFAULT NULL ;\n\n\nALTER TABLE `shp_cart` \nCHANGE COLUMN `dis` `dis` DOUBLE(10,10) NULL DEFAULT '0' ,\nCHANGE COLUMN `dis_code` `dis_code` DOUBLE(10,10) NULL DEFAULT NULL ;\n\nALTER TABLE `shp_ord_line` \nCHANGE COLUMN `dis` `dis` DOUBLE(10,10) NOT NULL ;\n\nALTER TABLE `dis_shp` \nCHANGE COLUMN `dis` `dis` DOUBLE(10,10) NOT NULL ;NULL - need some UTF-8 scripts in here\n-- would be best to do this with a single php script and update everything in one go -- all databases, all admins, all header files",
+					"file": "/home/localhost/Desktop/ALTER TABLE `shp_disc`",
+					"file_size": 765,
+					"file_write_time": 130512981830882490,
+					"settings":
+					{
+						"buffer_size": 765,
+						"line_ending": "Unix",
+						"name": "ALTER TABLE `shp_disc`"
+					}
+				},
+				{
+					"file": "/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
+					"settings":
+					{
+						"buffer_size": 1543,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/localhost/Desktop/need to prune the tagadab server of old sites:",
+					"settings":
+					{
+						"buffer_size": 805,
+						"line_ending": "Unix",
+						"name": "need to prune the tagadab server of old sites:"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 369.0,
+				"selected_items":
+				[
+					[
+						"package ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/localhost/dumps/ecommerce-test.sql",
+				"/home/localhost/dumps/ecommerce-test/ecommerce_test_shp_sku_brand.sql",
+				"/home/localhost/Desktop/spf records to check",
+				"/home/localhost/Desktop/cosmo/cosmositebackup11-7-14/.htaccess",
+				"/home/localhost/Downloads/alexshanks (1).txt",
+				"/home/localhost/Downloads/alexshanks.txt",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/web.config.txt",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/README.txt",
+				"/home/localhost/Downloads/ATT00001.txt",
+				"/home/localhost/Downloads/giglab email log.txt",
+				"/home/localhost/dumps/kelly.sql",
+				"/home/localhost/Desktop/error_log",
+				"/home/localhost/Desktop/fpsg-dev-functions.php",
+				"/home/localhost/Desktop/fpsg-live-functions.php",
+				"/home/localhost/zend-eclipse-php/workspace/computer-megastore/lib/basket_cl.php",
+				"/home/localhost/dumps/hb_blog.sql",
+				"/home/localhost/dumps/smiths.sql",
+				"/home/localhost/dumps/happy_updated.sql",
+				"/home/localhost/dumps/ict.sql",
+				"/home/localhost/dumps/zdf.sql",
+				"/home/localhost/Desktop/cat7.html",
+				"/home/localhost/Desktop/integral_form.html",
+				"/home/localhost/Desktop/template.xml",
+				"/home/localhost/dumps/fpsg.sql",
+				"/home/localhost/Desktop/rsi_style.xslt",
+				"/home/localhost/Desktop/tident_template.csv",
+				"/home/localhost/Desktop/barcodes.sql.csv",
+				"/home/localhost/Desktop/computer-megastore.csv",
+				"/home/localhost/Desktop/build steps for email class:",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_tagadab_subdomain",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_local",
+				"/home/localhost/Desktop/Redirects.txt",
+				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/Redirects.txt",
+				"/home/localhost/Desktop/information needed",
+				"/home/localhost/Downloads/uni/q4b.txt",
+				"/home/localhost/Downloads/uni/q4a.txt",
+				"/home/localhost/Downloads/uni/q3.txt",
+				"/home/localhost/Downloads/uni/q2a.txt",
+				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
+				"/home/localhost/Desktop/snag_list.csv",
+				"/home/localhost/Desktop/301-bbb.csv"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"	",
+					"		",
+					"	",
+					"		",
+					"\n",
+					"  ",
+					"	",
+					"		",
+					"div",
+					"<span></span>",
+					"<div></div>",
+					"<span></span>",
+					"<span><div></div></span>",
+					"&nbsp;",
+					"<div><span><div>&nbsp;</div></span></div>",
+					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
+					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
+					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
+					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
+					"<span >",
+					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
+					"    ",
+					"www_page",
+					"	",
+					"		",
+					"£",
+					"/",
+					"£",
+					"and",
+					"_gaq",
+					"function n",
+					","
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					" ",
+					"p",
+					"",
+					"<span>",
+					"",
+					"-",
+					"",
+					"or",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/localhost/Desktop/todo:",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 751,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										42,
+										42
+									]
+								],
+								"settings":
+								{
+									"auto_name": "todo:",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/localhost/Desktop/ALTER TABLE `shp_disc`",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 765,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										286,
+										286
+									]
+								],
+								"settings":
+								{
+									"auto_name": "ALTER TABLE `shp_disc`",
+									"syntax": "Packages/SQL/SQL.tmLanguage",
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": -0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1543,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1096,
+										1096
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 378.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/localhost/Desktop/need to prune the tagadab server of old sites:",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 805,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										500,
+										500
+									]
+								],
+								"settings":
+								{
+									"auto_name": "need to prune the tagadab server of old sites:",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,0,0,0,1669,292,2787,881,3280,1200",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
