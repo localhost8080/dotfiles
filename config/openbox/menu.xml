@@ -39,49 +39,45 @@
 		<!-- This requires the presence of the 'menu' package to work -->
 		<menu id="/Debian"/>
 		<separator/>
-		<menu id="client-list-menu"/>
+		<menu execute="openbox-xdgmenu /etc/xdg/menus/gnome-applications.menu" id="pipe-94425" label="Apps"/>
+		<file>~/.config/openbox/menu_gnome.xml</file>
 		<separator/>
-		<menu id="root-menu-593534" label="New Menu">
-			<item label="New Item">
+		<menu id="root-menu-593534" label="Settings">
+			<item label="gtk-theme-switch2">
 				<action name="Execute">
-					<execute>command</execute>
+					<execute>gtk-theme-switch2</execute>
 				</action>
 			</item>
+			<item label="gnome-tweak-tool">
+				<action name="Execute">
+					<execute>gnome-tweak-tool</execute>
+				</action>
+			</item>
+			<item label="Tint Config">
+				<action name="Execute">
+					<execute>~/bin/tintwizard.py</execute>
+				</action>
+			</item>
+			<item label="ObMenu">
+				<action name="Execute">
+					<execute>obmenu</execute>
+				</action>
+			</item>
+			<item label="ObConf">
+				<action name="Execute">
+					<execute>obconf</execute>
+				</action>
+			</item>
+			<item label="Reconfigure">
+				<action name="Reconfigure"/>
+			</item>
+			<item label="Restart">
+				<action name="Restart"/>
+			</item>
+			<separator/>
+			<item label="Exit">
+				<action name="Exit"/>
+			</item>
 		</menu>
-		<item label="gtk-theme-switch2">
-			<action name="Execute">
-				<execute>gtk-theme-switch2</execute>
-			</action>
-		</item>
-		<item label="gnome-tweak-tool">
-			<action name="Execute">
-				<execute>gnome-tweak-tool</execute>
-			</action>
-		</item>
-		<item label="Tint Config">
-			<action name="Execute">
-				<execute>~/bin/tintwizard.py</execute>
-			</action>
-		</item>
-		<item label="ObMenu">
-			<action name="Execute">
-				<execute>obmenu</execute>
-			</action>
-		</item>
-		<item label="ObConf">
-			<action name="Execute">
-				<execute>obconf</execute>
-			</action>
-		</item>
-		<item label="Reconfigure">
-			<action name="Reconfigure"/>
-		</item>
-		<item label="Restart">
-			<action name="Restart"/>
-		</item>
-		<separator/>
-		<item label="Exit">
-			<action name="Exit"/>
-		</item>
 	</menu>
 </openbox_menu>

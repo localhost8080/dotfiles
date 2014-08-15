@@ -1,0 +1,2457 @@
+<openbox_pipe_menu>
+<menu id="xdg-menu-Accessories" label="Accessories">
+<item label="Application Finder">
+<action name="Execute"><execute>xfce4-appfinder</execute></action>
+</item>
+<item label="Calculator">
+<action name="Execute"><execute>gcalctool</execute></action>
+</item>
+<item label="Character Map">
+<action name="Execute"><execute>gucharmap</execute></action>
+</item>
+<item label="Contacts">
+<action name="Execute"><execute>gnome-contacts</execute></action>
+</item>
+<item label="DFF">
+<action name="Execute"><execute>dff -g</execute></action>
+</item>
+<item label="Desktop Search">
+<action name="Execute"><execute>tracker-needle</execute></action>
+</item>
+<item label="Disk Utility">
+<action name="Execute"><execute>palimpsest</execute></action>
+</item>
+<item label="Files">
+<action name="Execute"><execute>nautilus   </execute></action>
+</item>
+<item label="GVim">
+<action name="Execute"><execute>gvim -f   </execute></action>
+</item>
+<item label="Gscriptor">
+<action name="Execute"><execute>gscriptor</execute></action>
+</item>
+<item label="Help">
+<action name="Execute"><execute>yelp   </execute></action>
+</item>
+<item label="Leafpad">
+<action name="Execute"><execute>leafpad   </execute></action>
+</item>
+<item label="Main Menu">
+<action name="Execute"><execute>alacarte</execute></action>
+</item>
+<item label="Root Terminal">
+<action name="Execute"><execute>gksu /usr/bin/x-terminal-emulator</execute></action>
+</item>
+<item label="Screenshot">
+<action name="Execute"><execute>gnome-screenshot --interactive</execute></action>
+</item>
+<item label="Terminal">
+<action name="Execute"><execute>gnome-terminal</execute></action>
+</item>
+<item label="Terminator">
+<action name="Execute"><execute>terminator</execute></action>
+</item>
+<item label="TrueCrypt">
+<action name="Execute"><execute>/usr/bin/truecrypt</execute></action>
+</item>
+<item label="Zim Desktop Wiki">
+<action name="Execute"><execute>zim</execute></action>
+</item>
+<item label="qthid">
+<action name="Execute"><execute>qthid</execute></action>
+</item>
+<item label="qthid-2.2">
+<action name="Execute"><execute>qthid-2.2</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Electronics" label="Electronics">
+<item label="Arduino IDE">
+<action name="Execute"><execute>arduino</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Graphics" label="Graphics">
+<item label="Document Viewer">
+<action name="Execute"><execute>evince   </execute></action>
+</item>
+<item label="Image Viewer">
+<action name="Execute"><execute>eog   </execute></action>
+</item>
+<item label="ImageMagick (display)">
+<action name="Execute"><execute>/usr/bin/display.im6   </execute></action>
+</item>
+<item label="xpdf">
+<action name="Execute"><execute>xpdf</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Hamradio" label="Hamradio">
+<item label="CHIRP">
+<action name="Execute"><execute>chirpw</execute></action>
+</item>
+<item label="qthid">
+<action name="Execute"><execute>qthid</execute></action>
+</item>
+<item label="qthid-2.2">
+<action name="Execute"><execute>qthid-2.2</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Internet" label="Internet">
+<item label="Chromium Web Browser">
+<action name="Execute"><execute>/usr/bin/chromium --user-data-dir   </execute></action>
+</item>
+<item label="Desktop Sharing">
+<action name="Execute"><execute>vino-preferences</execute></action>
+</item>
+<item label="Empathy">
+<action name="Execute"><execute>empathy</execute></action>
+</item>
+<item label="Ettercap">
+<action name="Execute"><execute>ettercap-pkexec -G</execute></action>
+</item>
+<item label="Iceweasel">
+<action name="Execute"><execute>iceweasel   </execute></action>
+</item>
+<item label="Wireshark">
+<action name="Execute"><execute>wireshark   </execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Kali Linux" label="Kali Linux">
+<menu id="xdg-menu-Top 10 Security Tools" label="Top 10 Security Tools">
+<item label="aircrack-ng">
+<action name="Execute"><execute>sh -c "aircrack-ng --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="burpsuite">
+<action name="Execute"><execute>sh -c "java -jar /usr/bin/burpsuite"</execute></action>
+</item>
+<item label="hydra">
+<action name="Execute"><execute>sh -c "hydra -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="john">
+<action name="Execute"><execute>sh -c "john;${SHELL:-bash}"</execute></action>
+</item>
+<item label="maltego">
+<action name="Execute"><execute>sh -c "maltego"</execute></action>
+</item>
+<item label="metasploit framework">
+<action name="Execute"><execute>sh -c "msfconsole;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nmap">
+<action name="Execute"><execute>sh -c "nmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="owasp-zap">
+<action name="Execute"><execute>sh -c "zap"</execute></action>
+</item>
+<item label="sqlmap">
+<action name="Execute"><execute>sh -c "sqlmap -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wireshark">
+<action name="Execute"><execute>sh -c "wireshark"</execute></action>
+</item>
+</menu>
+<separator /> 
+<menu id="xdg-menu-Information Gathering" label="Information Gathering">
+<menu id="xdg-menu-DNS Analysis" label="DNS Analysis">
+<item label="dnsdict6">
+<action name="Execute"><execute>sh -c "dnsdict6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnsenum">
+<action name="Execute"><execute>sh -c "dnsenum -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnsmap">
+<action name="Execute"><execute>sh -c "dnsmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnsrecon">
+<action name="Execute"><execute>sh -c "dnsrecon -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnsrevenum6">
+<action name="Execute"><execute>sh -c "dnsrevenum6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnstracer">
+<action name="Execute"><execute>sh -c "dnstracer;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnswalk">
+<action name="Execute"><execute>sh -c "dnswalk --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fierce">
+<action name="Execute"><execute>sh -c "fierce -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="maltego">
+<action name="Execute"><execute>sh -c "maltego"</execute></action>
+</item>
+<item label="nmap">
+<action name="Execute"><execute>sh -c "nmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="urlcrazy">
+<action name="Execute"><execute>sh -c "urlcrazy -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zenmap">
+<action name="Execute"><execute>sh -c "zenmap;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-IDS/IPS Identification" label="IDS/IPS Identification">
+<item label="fragroute">
+<action name="Execute"><execute>sh -c "fragroute -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fragrouter">
+<action name="Execute"><execute>sh -c "fragrouter -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ftest">
+<action name="Execute"><execute>sh -c "ftest;${SHELL:-bash}"</execute></action>
+</item>
+<item label="lbd">
+<action name="Execute"><execute>sh -c "lbd;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wafw00f">
+<action name="Execute"><execute>sh -c "wafw00f -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Live Host Identification" label="Live Host Identification">
+<item label="alive6">
+<action name="Execute"><execute>sh -c "alive6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="arping">
+<action name="Execute"><execute>sh -c "arping;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cdpsnarf">
+<action name="Execute"><execute>sh -c "cdpsnarf -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="detect-new-ip6">
+<action name="Execute"><execute>sh -c "detect-new-ip6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="detect_sniffer6">
+<action name="Execute"><execute>sh -c "detect_sniffer6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dmitry">
+<action name="Execute"><execute>sh -c "dmitry;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnmap-client">
+<action name="Execute"><execute>sh -c "dnmap_client;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnmap-server">
+<action name="Execute"><execute>sh -c "dnmap_server;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fping">
+<action name="Execute"><execute>sh -c "fping -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="hping3">
+<action name="Execute"><execute>sh -c "hping3 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="inverse_lookup6">
+<action name="Execute"><execute>sh -c "inverse_lookup6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="miranda">
+<action name="Execute"><execute>sh -c "miranda -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ncat">
+<action name="Execute"><execute>sh -c "ncat -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="netdiscover">
+<action name="Execute"><execute>sh -c "netdiscover -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nmap">
+<action name="Execute"><execute>sh -c "nmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="passive_discovery6">
+<action name="Execute"><execute>sh -c "passive_discovery6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="thcping6">
+<action name="Execute"><execute>sh -c "thcping6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="unicornscan">
+<action name="Execute"><execute>sh -c "us -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wol-e">
+<action name="Execute"><execute>sh -c "wol-e -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="xprobe2">
+<action name="Execute"><execute>sh -c "xprobe2 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zenmap">
+<action name="Execute"><execute>sh -c "zenmap;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Network Scanners" label="Network Scanners">
+<item label="dmitry">
+<action name="Execute"><execute>sh -c "dmitry;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnmap-client">
+<action name="Execute"><execute>sh -c "dnmap_client;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnmap-server">
+<action name="Execute"><execute>sh -c "dnmap_server;${SHELL:-bash}"</execute></action>
+</item>
+<item label="netdiscover">
+<action name="Execute"><execute>sh -c "netdiscover -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nmap">
+<action name="Execute"><execute>sh -c "nmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="unicornscan">
+<action name="Execute"><execute>sh -c "us -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zenmap">
+<action name="Execute"><execute>sh -c "zenmap;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-OS Fingerprinting" label="OS Fingerprinting">
+<item label="dnmap-client">
+<action name="Execute"><execute>sh -c "dnmap_client;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnmap-server">
+<action name="Execute"><execute>sh -c "dnmap_server;${SHELL:-bash}"</execute></action>
+</item>
+<item label="miranda">
+<action name="Execute"><execute>sh -c "miranda -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nmap">
+<action name="Execute"><execute>sh -c "nmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="unicornscan">
+<action name="Execute"><execute>sh -c "us -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zenmap">
+<action name="Execute"><execute>sh -c "zenmap;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-OSINT Analysis" label="OSINT Analysis">
+<item label="casefile">
+<action name="Execute"><execute>sh -c "casefile"</execute></action>
+</item>
+<item label="creepy">
+<action name="Execute"><execute>creepy</execute></action>
+</item>
+<item label="dmitry">
+<action name="Execute"><execute>sh -c "dmitry;${SHELL:-bash}"</execute></action>
+</item>
+<item label="maltego">
+<action name="Execute"><execute>sh -c "maltego"</execute></action>
+</item>
+<item label="metagoofil">
+<action name="Execute"><execute>sh -c "metagoofil;${SHELL:-bash}"</execute></action>
+</item>
+<item label="recon-ng">
+<action name="Execute"><execute>sh -c "recon-ng"</execute></action>
+</item>
+<item label="theharvester">
+<action name="Execute"><execute>sh -c "theharvester;${SHELL:-bash}"</execute></action>
+</item>
+<item label="twofi">
+<action name="Execute"><execute>sh -c "twofi -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="urlcrazy">
+<action name="Execute"><execute>sh -c "urlcrazy -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Route Analysis" label="Route Analysis">
+<item label="0trace">
+<action name="Execute"><execute>sh -c "0trace.sh;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnmap-client">
+<action name="Execute"><execute>sh -c "dnmap_client;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnmap-server">
+<action name="Execute"><execute>sh -c "dnmap_server;${SHELL:-bash}"</execute></action>
+</item>
+<item label="intrace">
+<action name="Execute"><execute>sh -c "intrace;${SHELL:-bash}"</execute></action>
+</item>
+<item label="netmask">
+<action name="Execute"><execute>sh -c "netmask -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="trace6">
+<action name="Execute"><execute>sh -c "trace6;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-SMB Analysis" label="SMB Analysis">
+<item label="acccheck">
+<action name="Execute"><execute>sh -c "acccheck;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nbtscan">
+<action name="Execute"><execute>sh -c "nbtscan -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nmap">
+<action name="Execute"><execute>sh -c "nmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zenmap">
+<action name="Execute"><execute>sh -c "zenmap;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-SMTP Analysis" label="SMTP Analysis">
+<item label="nmap">
+<action name="Execute"><execute>sh -c "nmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="smtp-user-enum">
+<action name="Execute"><execute>sh -c "smtp-user-enum -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="swaks">
+<action name="Execute"><execute>sh -c "swaks --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zenmap">
+<action name="Execute"><execute>sh -c "zenmap;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-SNMP Analysis" label="SNMP Analysis">
+<item label="braa">
+<action name="Execute"><execute>sh -c "braa -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cisco-auditing-tool">
+<action name="Execute"><execute>sh -c "CAT;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cisco-torch">
+<action name="Execute"><execute>sh -c "cisco-torch;${SHELL:-bash}"</execute></action>
+</item>
+<item label="copy-router-config">
+<action name="Execute"><execute>sh -c "copy-router-config.pl;${SHELL:-bash}"</execute></action>
+</item>
+<item label="merge-router-config">
+<action name="Execute"><execute>sh -c "merge-router-config.pl;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nmap">
+<action name="Execute"><execute>sh -c "nmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="onesixtyone">
+<action name="Execute"><execute>sh -c "onesixtyone;${SHELL:-bash}"</execute></action>
+</item>
+<item label="snmpcheck">
+<action name="Execute"><execute>sh -c "snmpcheck -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zenmap">
+<action name="Execute"><execute>sh -c "zenmap;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-SSL Analysis" label="SSL Analysis">
+<item label="sslcaudit">
+<action name="Execute"><execute>sh -c "sslcaudit -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ssldump">
+<action name="Execute"><execute>sh -c "ssldump -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslh">
+<action name="Execute"><execute>sh -c "sslh -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslscan">
+<action name="Execute"><execute>sh -c "sslscan;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslsniff">
+<action name="Execute"><execute>sh -c "sslsniff;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslsplit">
+<action name="Execute"><execute>sh -c "sslsplit -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslstrip">
+<action name="Execute"><execute>sh -c "sslstrip -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslyze">
+<action name="Execute"><execute>sh -c "sslyze -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="stunnel4">
+<action name="Execute"><execute>sh -c "stunnel4 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="tlssled">
+<action name="Execute"><execute>sh -c "tlssled;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Service Fingerprinting" label="Service Fingerprinting">
+<item label="dnmap-client">
+<action name="Execute"><execute>sh -c "dnmap_client;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnmap-server">
+<action name="Execute"><execute>sh -c "dnmap_server;${SHELL:-bash}"</execute></action>
+</item>
+<item label="implementation6">
+<action name="Execute"><execute>sh -c "implementation6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="implementation6d">
+<action name="Execute"><execute>sh -c "implementation6d;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ncat">
+<action name="Execute"><execute>sh -c "ncat -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nmap">
+<action name="Execute"><execute>sh -c "nmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslscan">
+<action name="Execute"><execute>sh -c "sslscan;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslyze">
+<action name="Execute"><execute>sh -c "sslyze -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="tlssled">
+<action name="Execute"><execute>sh -c "tlssled;${SHELL:-bash}"</execute></action>
+</item>
+<item label="unicornscan">
+<action name="Execute"><execute>sh -c "us -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zenmap">
+<action name="Execute"><execute>sh -c "zenmap;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Telephony Analysis" label="Telephony Analysis">
+<item label="ace">
+<action name="Execute"><execute>sh -c "ace;sudo -s"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Traffic Analysis" label="Traffic Analysis">
+<item label="0trace">
+<action name="Execute"><execute>sh -c "0trace.sh;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cdpsnarf">
+<action name="Execute"><execute>sh -c "cdpsnarf -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ftest">
+<action name="Execute"><execute>sh -c "ftest;${SHELL:-bash}"</execute></action>
+</item>
+<item label="intrace">
+<action name="Execute"><execute>sh -c "intrace;${SHELL:-bash}"</execute></action>
+</item>
+<item label="irpas-ass">
+<action name="Execute"><execute>sh -c "ass -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="irpass-cdp">
+<action name="Execute"><execute>sh -c "cdp;${SHELL:-bash}"</execute></action>
+</item>
+<item label="p0f">
+<action name="Execute"><execute>sh -c "p0f -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="tcpflow">
+<action name="Execute"><execute>sh -c "tcpflow -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wireshark">
+<action name="Execute"><execute>sh -c "wireshark"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-VPN Analysis" label="VPN Analysis">
+<item label="ike-scan">
+<action name="Execute"><execute>sh -c "ike-scan -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-VoIP Analysis" label="VoIP Analysis">
+<item label="ace">
+<action name="Execute"><execute>sh -c "ace;sudo -s"</execute></action>
+</item>
+<item label="enumiax">
+<action name="Execute"><execute>sh -c "enumiax -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Vulnerability Analysis" label="Vulnerability Analysis">
+<menu id="xdg-menu-Cisco Tools" label="Cisco Tools">
+<item label="cisco-auditing-tool">
+<action name="Execute"><execute>sh -c "CAT;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cisco-global-exploiter">
+<action name="Execute"><execute>sh -c "cge.pl;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cisco-ocs">
+<action name="Execute"><execute>sh -c "cisco-ocs;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cisco-torch">
+<action name="Execute"><execute>sh -c "cisco-torch;${SHELL:-bash}"</execute></action>
+</item>
+<item label="yersinia">
+<action name="Execute"><execute>sh -c "yersinia --help;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Database Assessment" label="Database Assessment">
+<item label="bbqsql">
+<action name="Execute"><execute>sh -c "bbqsql;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dbpwaudit">
+<action name="Execute"><execute>sh -c "dbpwaudit;${SHELL:-bash}"</execute></action>
+</item>
+<item label="hexorbase">
+<action name="Execute"><execute>sh -c "hexorbase"</execute></action>
+</item>
+<item label="jsql">
+<action name="Execute"><execute>sh -c "jsql"</execute></action>
+</item>
+<item label="mdb-export">
+<action name="Execute"><execute>sh -c "mdb-export;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mdb-hexdump">
+<action name="Execute"><execute>sh -c "mdb-hexdump;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mdb-parsecsv">
+<action name="Execute"><execute>sh -c "mdb-parsecsv;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mdb-sql">
+<action name="Execute"><execute>sh -c "mdb-sql -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mdb-tables">
+<action name="Execute"><execute>sh -c "mdb-tables;${SHELL:-bash}"</execute></action>
+</item>
+<item label="oscanner">
+<action name="Execute"><execute>sh -c "oscanner;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sidguesser">
+<action name="Execute"><execute>sh -c "sidguess;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sqldict">
+<action name="Execute"><execute>sh -c "sqldict"</execute></action>
+</item>
+<item label="sqlmap">
+<action name="Execute"><execute>sh -c "sqlmap -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sqlninja">
+<action name="Execute"><execute>sh -c "sqlninja;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sqlsus">
+<action name="Execute"><execute>sh -c "sqlsus -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="tnscmd10g">
+<action name="Execute"><execute>sh -c "tnscmd10g;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Fuzzing Tools" label="Fuzzing Tools">
+<item label="bed">
+<action name="Execute"><execute>sh -c "bed;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fuzz_ip6">
+<action name="Execute"><execute>sh -c "fuzz_ip6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ohrwurm">
+<action name="Execute"><execute>sh -c "ohrwurm;${SHELL:-bash}"</execute></action>
+</item>
+<item label="powerfuzzer">
+<action name="Execute"><execute>sh -c "powerfuzzer;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sfuzz">
+<action name="Execute"><execute>sh -c "sfuzz -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="siparmyknife">
+<action name="Execute"><execute>sh -c "siparmyknife;${SHELL:-bash}"</execute></action>
+</item>
+<item label="spike-generic_chunked">
+<action name="Execute"><execute>sh -c "generic_chunked;${SHELL:-bash}"</execute></action>
+</item>
+<item label="spike-generic_listen_tcp">
+<action name="Execute"><execute>sh -c "generic_listen_tcp;${SHELL:-bash}"</execute></action>
+</item>
+<item label="spike-generic_send_tcp">
+<action name="Execute"><execute>sh -c "generic_send_tcp;${SHELL:-bash}"</execute></action>
+</item>
+<item label="spike-generic_send_udp">
+<action name="Execute"><execute>sh -c "generic_send_udp;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Misc Scanners" label="Misc Scanners">
+<item label="golismero">
+<action name="Execute"><execute>sh -c "golismero -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="lynis">
+<action name="Execute"><execute>sh -c "lynis -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nikto">
+<action name="Execute"><execute>sh -c "nikto -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nmap">
+<action name="Execute"><execute>sh -c "nmap;${SHELL:-bash}"</execute></action>
+</item>
+<item label="unix-privesc-check">
+<action name="Execute"><execute>sh -c "unix-privesc-check;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zenmap">
+<action name="Execute"><execute>sh -c "zenmap;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Open Source Assessment" label="Open Source Assessment">
+<item label="casefile">
+<action name="Execute"><execute>sh -c "casefile"</execute></action>
+</item>
+<item label="maltego">
+<action name="Execute"><execute>sh -c "maltego"</execute></action>
+</item>
+<item label="recon-ng">
+<action name="Execute"><execute>sh -c "recon-ng"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-OpenVAS" label="OpenVAS">
+<item label="openvas check setup">
+<action name="Execute"><execute>sh -c "openvas-check-setup;${SHELL:-bash}"</execute></action>
+</item>
+<item label="openvas feed update">
+<action name="Execute"><execute>sh -c "openvas-feed-update;${SHELL:-bash}"</execute></action>
+</item>
+<item label="openvas initial setup">
+<action name="Execute"><execute>sh -c "openvas-setup;${SHELL:-bash}"</execute></action>
+</item>
+<item label="openvas start">
+<action name="Execute"><execute>sh -c "openvas-start;${SHELL:-bash}"</execute></action>
+</item>
+<item label="openvas stop">
+<action name="Execute"><execute>sh -c "openvas-stop;${SHELL:-bash}"</execute></action>
+</item>
+<item label="openvas-gsd">
+<action name="Execute"><execute>sh -c "gsd"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Web Applications" label="Web Applications">
+<menu id="xdg-menu-CMS Identification" label="CMS Identification">
+<item label="blindelephant">
+<action name="Execute"><execute>sh -c "BlindElephant.py -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="plecost">
+<action name="Execute"><execute>sh -c "plecost -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wpscan">
+<action name="Execute"><execute>sh -c "wpscan --help;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Database Exploitation" label="Database Exploitation">
+<item label="bbqsql">
+<action name="Execute"><execute>sh -c "bbqsql;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sqlninja">
+<action name="Execute"><execute>sh -c "sqlninja;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sqlsus">
+<action name="Execute"><execute>sh -c "sqlsus -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-IDS/IPS Identification" label="IDS/IPS Identification">
+<item label="ua-tester">
+<action name="Execute"><execute>sh -c "ua-tester;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Web Application Fuzzers" label="Web Application Fuzzers">
+<item label="burpsuite">
+<action name="Execute"><execute>sh -c "java -jar /usr/bin/burpsuite"</execute></action>
+</item>
+<item label="owasp-zap">
+<action name="Execute"><execute>sh -c "zap"</execute></action>
+</item>
+<item label="powerfuzzer">
+<action name="Execute"><execute>sh -c "powerfuzzer;${SHELL:-bash}"</execute></action>
+</item>
+<item label="webscarab">
+<action name="Execute"><execute>sh -c "webscarab"</execute></action>
+</item>
+<item label="webslayer">
+<action name="Execute"><execute>sh -c "webslayer;${SHELL:-bash}"</execute></action>
+</item>
+<item label="websploit">
+<action name="Execute"><execute>sh -c "websploit;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wfuzz">
+<action name="Execute"><execute>sh -c "wfuzz;${SHELL:-bash}"</execute></action>
+</item>
+<item label="xsser">
+<action name="Execute"><execute>sh -c "xsser -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Web Application Proxies" label="Web Application Proxies">
+<item label="burpsuite">
+<action name="Execute"><execute>sh -c "java -jar /usr/bin/burpsuite"</execute></action>
+</item>
+<item label="owasp-zap">
+<action name="Execute"><execute>sh -c "zap"</execute></action>
+</item>
+<item label="paros">
+<action name="Execute"><execute>sh -c "paros"</execute></action>
+</item>
+<item label="proxystrike">
+<action name="Execute"><execute>sh -c "proxystrike"</execute></action>
+</item>
+<item label="vega">
+<action name="Execute"><execute>sh -c "vega"</execute></action>
+</item>
+<item label="webscarab">
+<action name="Execute"><execute>sh -c "webscarab"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Web Crawlers" label="Web Crawlers">
+<item label="apache-users">
+<action name="Execute"><execute>sh -c "apache-users;${SHELL:-bash}"</execute></action>
+</item>
+<item label="burpsuite">
+<action name="Execute"><execute>sh -c "java -jar /usr/bin/burpsuite"</execute></action>
+</item>
+<item label="cutycapt">
+<action name="Execute"><execute>sh -c "cutycapt --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dirb">
+<action name="Execute"><execute>sh -c "dirb;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dirbuster">
+<action name="Execute"><execute>sh -c "dirbuster;${SHELL:-bash}"</execute></action>
+</item>
+<item label="owasp-zap">
+<action name="Execute"><execute>sh -c "zap"</execute></action>
+</item>
+<item label="vega">
+<action name="Execute"><execute>sh -c "vega"</execute></action>
+</item>
+<item label="webscarab">
+<action name="Execute"><execute>sh -c "webscarab"</execute></action>
+</item>
+<item label="webslayer">
+<action name="Execute"><execute>sh -c "webslayer;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Web Vulnerability Scanners" label="Web Vulnerability Scanners">
+<item label="burpsuite">
+<action name="Execute"><execute>sh -c "java -jar /usr/bin/burpsuite"</execute></action>
+</item>
+<item label="cadaver">
+<action name="Execute"><execute>sh -c "cadaver;${SHELL:-bash}"</execute></action>
+</item>
+<item label="davtest">
+<action name="Execute"><execute>sh -c "davtest;${SHELL:-bash}"</execute></action>
+</item>
+<item label="deblaze">
+<action name="Execute"><execute>sh -c "deblaze.py -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fimap">
+<action name="Execute"><execute>sh -c "fimap -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="golismero">
+<action name="Execute"><execute>sh -c "golismero -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="grabber">
+<action name="Execute"><execute>sh -c "grabber -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="joomscan">
+<action name="Execute"><execute>sh -c "joomscan;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jsql">
+<action name="Execute"><execute>sh -c "jsql"</execute></action>
+</item>
+<item label="nikto">
+<action name="Execute"><execute>sh -c "nikto -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="owasp-zap">
+<action name="Execute"><execute>sh -c "zap"</execute></action>
+</item>
+<item label="padbuster">
+<action name="Execute"><execute>sh -c "padbuster;${SHELL:-bash}"</execute></action>
+</item>
+<item label="proxystrike">
+<action name="Execute"><execute>sh -c "proxystrike"</execute></action>
+</item>
+<item label="skipfish">
+<action name="Execute"><execute>sh -c "skipfish -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sqlmap">
+<action name="Execute"><execute>sh -c "sqlmap -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="uniscan-gui">
+<action name="Execute"><execute>sh -c "uniscan-gui"</execute></action>
+</item>
+<item label="vega">
+<action name="Execute"><execute>sh -c "vega"</execute></action>
+</item>
+<item label="w3af">
+<action name="Execute"><execute>sh -c "w3af"</execute></action>
+</item>
+<item label="wapiti">
+<action name="Execute"><execute>sh -c "wapiti -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="webscarab">
+<action name="Execute"><execute>sh -c "webscarab"</execute></action>
+</item>
+<item label="webshag-gui">
+<action name="Execute"><execute>sh -c "webshag-gui;${SHELL:-bash}"</execute></action>
+</item>
+<item label="websploit">
+<action name="Execute"><execute>sh -c "websploit;${SHELL:-bash}"</execute></action>
+</item>
+<item label="whatweb">
+<action name="Execute"><execute>sh -c "whatweb -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wpscan">
+<action name="Execute"><execute>sh -c "wpscan --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="xsser">
+<action name="Execute"><execute>sh -c "xsser -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Password Attacks" label="Password Attacks">
+<menu id="xdg-menu-GPU Tools" label="GPU Tools">
+<item label="pyrit">
+<action name="Execute"><execute>sh -c "pyrit -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Offline Attacks" label="Offline Attacks">
+<item label="cachedump">
+<action name="Execute"><execute>sh -c "cachedump -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="chntpw">
+<action name="Execute"><execute>sh -c "chntpw -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cmospwd">
+<action name="Execute"><execute>sh -c "cmospwd;${SHELL:-bash}"</execute></action>
+</item>
+<item label="crunch">
+<action name="Execute"><execute>sh -c "crunch;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dictstat">
+<action name="Execute"><execute>sh -c "dictstat -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fcrackzip">
+<action name="Execute"><execute>sh -c "fcrackzip --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="hash-identifier">
+<action name="Execute"><execute>sh -c "hash-identifier;${SHELL:-bash}"</execute></action>
+</item>
+<item label="hashcat">
+<action name="Execute"><execute>sh -c "hashcat --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="hashid">
+<action name="Execute"><execute>sh -c "hashid -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="john">
+<action name="Execute"><execute>sh -c "john;${SHELL:-bash}"</execute></action>
+</item>
+<item label="johnny">
+<action name="Execute"><execute>sh -c "johnny;${SHELL:-bash}"</execute></action>
+</item>
+<item label="lsadump">
+<action name="Execute"><execute>sh -c "lsadump -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="maskgen">
+<action name="Execute"><execute>sh -c "maskgen -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="multiforcer">
+<action name="Execute"><execute>sh -c "multiforcer --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ophcrack">
+<action name="Execute"><execute>sh -c "ophcrack"</execute></action>
+</item>
+<item label="ophcrack-cli">
+<action name="Execute"><execute>sh -c "ophcrack-cli;${SHELL:-bash}"</execute></action>
+</item>
+<item label="policygen">
+<action name="Execute"><execute>sh -c "policygen -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pwdump">
+<action name="Execute"><execute>sh -c "pwdump -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pyrit">
+<action name="Execute"><execute>sh -c "pyrit -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rainbowcrack">
+<action name="Execute"><execute>sh -c "rcrack;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rcracki_mt">
+<action name="Execute"><execute>sh -c "rcracki_mt;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rsmangler">
+<action name="Execute"><execute>sh -c "rsmangler -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="samdump2">
+<action name="Execute"><execute>sh -c "samdump2 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sipcrack">
+<action name="Execute"><execute>sh -c "sipcrack -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sucrack">
+<action name="Execute"><execute>sh -c "man sucrack;${SHELL:-bash}"</execute></action>
+</item>
+<item label="truecrack">
+<action name="Execute"><execute>sh -c "truecrack -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Online Attacks" label="Online Attacks">
+<item label="acccheck">
+<action name="Execute"><execute>sh -c "acccheck;${SHELL:-bash}"</execute></action>
+</item>
+<item label="burpsuite">
+<action name="Execute"><execute>sh -c "java -jar /usr/bin/burpsuite"</execute></action>
+</item>
+<item label="cewl">
+<action name="Execute"><execute>sh -c "cewl --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cisco-auditing-tool">
+<action name="Execute"><execute>sh -c "CAT;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dbpwaudit">
+<action name="Execute"><execute>sh -c "dbpwaudit;${SHELL:-bash}"</execute></action>
+</item>
+<item label="findmyhash">
+<action name="Execute"><execute>sh -c "findmyhash;${SHELL:-bash}"</execute></action>
+</item>
+<item label="hydra">
+<action name="Execute"><execute>sh -c "hydra -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="hydra-gtk">
+<action name="Execute"><execute>sh -c "xhydra"</execute></action>
+</item>
+<item label="keimpx">
+<action name="Execute"><execute>sh -c "keimpx -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="medusa">
+<action name="Execute"><execute>sh -c "medusa -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ncrack">
+<action name="Execute"><execute>sh -c "ncrack -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="onesixtyone">
+<action name="Execute"><execute>sh -c "onesixtyone;${SHELL:-bash}"</execute></action>
+</item>
+<item label="owasp-zap">
+<action name="Execute"><execute>sh -c "zap"</execute></action>
+</item>
+<item label="patator">
+<action name="Execute"><execute>sh -c "patator -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="phrasendrescher">
+<action name="Execute"><execute>sh -c "pd -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="thc-pptp-bruter">
+<action name="Execute"><execute>sh -c "thc-pptp-bruter;${SHELL:-bash}"</execute></action>
+</item>
+<item label="webscarab">
+<action name="Execute"><execute>sh -c "webscarab"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Passing the Hash" label="Passing the Hash">
+<item label="pth-curl">
+<action name="Execute"><execute>sh -c "pth-curl -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pth-net">
+<action name="Execute"><execute>sh -c "pth-net help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pth-openchangeclient">
+<action name="Execute"><execute>sh -c "pth-openchangeclient --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pth-rpcclient">
+<action name="Execute"><execute>sh -c "pth-rpcclient -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pth-smbclient">
+<action name="Execute"><execute>sh -c "pth-smbclient -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pth-smbget">
+<action name="Execute"><execute>sh -c "pth-smbget --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pth-sqsh">
+<action name="Execute"><execute>sh -c "pth-sqsh --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pth-winexe">
+<action name="Execute"><execute>sh -c "pth-winexe -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pth-wmic">
+<action name="Execute"><execute>sh -c "pth-wmic -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pth-wmis">
+<action name="Execute"><execute>sh -c "pth-wmis -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Wireless Attacks" label="Wireless Attacks">
+<menu id="xdg-menu-802.11 Wireless Tools" label="802.11 Wireless Tools">
+<item label="aircrack-ng">
+<action name="Execute"><execute>sh -c "aircrack-ng --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="asleap">
+<action name="Execute"><execute>sh -c "asleap -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="bully">
+<action name="Execute"><execute>sh -c "bully;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cowpatty">
+<action name="Execute"><execute>sh -c "cowpatty;${SHELL:-bash}"</execute></action>
+</item>
+<item label="eapmd5pass">
+<action name="Execute"><execute>sh -c "eapmd5pass -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fern-wifi-cracker">
+<action name="Execute"><execute>sh -c "fern-wifi-cracker"</execute></action>
+</item>
+<item label="genkeys">
+<action name="Execute"><execute>sh -c "genkeys;${SHELL:-bash}"</execute></action>
+</item>
+<item label="genpmk">
+<action name="Execute"><execute>sh -c "genpmk;${SHELL:-bash}"</execute></action>
+</item>
+<item label="giskismet">
+<action name="Execute"><execute>sh -c "giskismet -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="kismet">
+<action name="Execute"><execute>sh -c "kismet -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mdk3">
+<action name="Execute"><execute>sh -c "mdk3 --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wifi-honey">
+<action name="Execute"><execute>sh -c "wifi-honey -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wifiarp">
+<action name="Execute"><execute>sh -c "wifiarp -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wifidns">
+<action name="Execute"><execute>sh -c "wifidns -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wifiping">
+<action name="Execute"><execute>sh -c "wifiping -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wifitap">
+<action name="Execute"><execute>sh -c "wifitap -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wifite">
+<action name="Execute"><execute>sh -c "wifite --help;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Bluetooth Tools" label="Bluetooth Tools">
+<item label="bluelog">
+<action name="Execute"><execute>sh -c "bluelog -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="bluemaho">
+<action name="Execute"><execute>sh -c "bluemaho.py;${SHELL:-bash}"</execute></action>
+</item>
+<item label="blueranger">
+<action name="Execute"><execute>sh -c "blueranger.sh;${SHELL:-bash}"</execute></action>
+</item>
+<item label="bluesnarfer">
+<action name="Execute"><execute>sh -c "bluesnarfer;${SHELL:-bash}"</execute></action>
+</item>
+<item label="btscanner">
+<action name="Execute"><execute>sh -c "btscanner -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="redfang">
+<action name="Execute"><execute>sh -c "fang -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="spooftooph">
+<action name="Execute"><execute>sh -c "spooftooph -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Other Wireless Tools" label="Other Wireless Tools">
+<item label="zbassocflood">
+<action name="Execute"><execute>sh -c "zbassocflood -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zbdsniff">
+<action name="Execute"><execute>sh -c "zbdsniff;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zbdump">
+<action name="Execute"><execute>sh -c "zbdump -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zbfind">
+<action name="Execute"><execute>sh -c "zbfind"</execute></action>
+</item>
+<item label="zbgoodfind">
+<action name="Execute"><execute>sh -c "zbgoodfind -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zbreplay">
+<action name="Execute"><execute>sh -c "zbreplay -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="zbstumbler">
+<action name="Execute"><execute>sh -c "zbstumbler -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-RFID / NFC Tools" label="RFID / NFC Tools">
+<menu id="xdg-menu-NFC Tools" label="NFC Tools">
+<item label="mfcuk">
+<action name="Execute"><execute>sh -c "mfcuk -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mfoc">
+<action name="Execute"><execute>sh -c "mfoc -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mfterm">
+<action name="Execute"><execute>sh -c "mfterm -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mifare-classic-format">
+<action name="Execute"><execute>sh -c "mifare-classic-format -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nfc-list">
+<action name="Execute"><execute>sh -c "nfc-list -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="nfc-mfclassic">
+<action name="Execute"><execute>sh -c "nfc-mfclassic -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-RFIDiot ACG" label="RFIDiot ACG">
+<item label="brute force hitag2">
+<action name="Execute"><execute>sh -c "hitag2brute.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="bruteforce mifare">
+<action name="Execute"><execute>sh -c "loginall.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="calculate jcop mifare keys">
+<action name="Execute"><execute>sh -c "mifarekeys.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="continuous select tag">
+<action name="Execute"><execute>sh -c "multiselect.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="copy iso15693 tag">
+<action name="Execute"><execute>sh -c "copytag.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="epassport read write clone">
+<action name="Execute"><execute>sh -c "mrpkey.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="format mifare 1k value blocks">
+<action name="Execute"><execute>sh -c "formatmifare1kvalue.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="identify hf tag type">
+<action name="Execute"><execute>sh -c "isotype.py -R RFIDIOt.rfidiot.READER_ACG -s 9600 -l /dev/ttyUSB0; ${SHELL:-bash}"</execute></action>
+</item>
+<item label="identify lf tag type">
+<action name="Execute"><execute>sh -c "lfxtype.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jcop info">
+<action name="Execute"><execute>sh -c "jcoptool.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600 INFO;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jcop mifare read write">
+<action name="Execute"><execute>sh -c "jcopmifare.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jcop set atr historical bytes">
+<action name="Execute"><execute>sh -c "jcopsetatrhist.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="read acg reader eeprom">
+<action name="Execute"><execute>sh -c "eeprom.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="read lf tag">
+<action name="Execute"><execute>sh -c "readlfx.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="read mifare">
+<action name="Execute"><execute>sh -c "readmifaresimple.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="read tag">
+<action name="Execute"><execute>sh -c "readtag.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="read write clone unique (em4x02)">
+<action name="Execute"><execute>sh -c "unique.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="reset q5 tag">
+<action name="Execute"><execute>sh -c "q5reset.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600 CONTROL ID;${SHELL:-bash}"</execute></action>
+</item>
+<item label="select tag">
+<action name="Execute"><execute>sh -c "cardselect.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="set fdx-b id">
+<action name="Execute"><execute>sh -c "fdxbnum.py -R RFIDIOt.rfidiot.READER_ACG -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="test acg lahf">
+<action name="Execute"><execute>sh -c "testlahf.sh;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-RFIDiot FROSCH" label="RFIDiot FROSCH">
+<item label="read write clone unique (em4x02)">
+<action name="Execute"><execute>sh -c "unique.py -R RFIDIOt.rfidiot.READER_FROSCH -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="reset hitag2 tag">
+<action name="Execute"><execute>sh -c "hitag2reset.py -R RFIDIOt.rfidiot.READER_FROSCH -l /dev/ttyUSB0 -s 9600 CONTROL;${SHELL:-bash}"</execute></action>
+</item>
+<item label="set fdx-b id">
+<action name="Execute"><execute>sh -c "fdxbnum.py -R RFIDIOt.rfidiot.READER_FROSCH -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+<item label="test frosch reader">
+<action name="Execute"><execute>sh -c "froschtest.py -R RFIDIOt.rfidiot.READER_FROSCH -l /dev/ttyUSB0 -s 9600;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-RFIDiot PCSC" label="RFIDiot PCSC">
+<item label="bruteforce mifare">
+<action name="Execute"><execute>sh -c "loginall.py -R RFIDIOt.rfidiot.READER_PCSC;${SHELL:-bash}"</execute></action>
+</item>
+<item label="calculate jcop mifare keys">
+<action name="Execute"><execute>sh -c "mifarekeys.py ;${SHELL:-bash}"</execute></action>
+</item>
+<item label="chip &amp; pin info">
+<action name="Execute"><execute>sh -c "ChAP.py;${SHELL:-bash}"</execute></action>
+</item>
+<item label="continuous select tag">
+<action name="Execute"><execute>sh -c "multiselect.py -R RFIDIOt.rfidiot.READER_PCSC;${SHELL:-bash}"</execute></action>
+</item>
+<item label="epassport read/write/clone">
+<action name="Execute"><execute>sh -c "mrpkey.py -R RFIDIOt.rfidiot.READER_PCSC;${SHELL:-bash}"</execute></action>
+</item>
+<item label="identify hf tag type">
+<action name="Execute"><execute>sh -c "isotype.py -R RFIDIOt.rfidiot.READER_PCSC;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jcop info">
+<action name="Execute"><execute>sh -c "jcoptool.py -R RFIDIOt.rfidiot.READER_PCSC INFO;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jcop mifare read/write">
+<action name="Execute"><execute>sh -c "jcopmifare.py -R RFIDIOt.rfidiot.READER_PCSC;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jcop set atr historical bytes">
+<action name="Execute"><execute>sh -c "jcopsetatrhist.py -R RFIDIOt.rfidiot.READER_PCSC;${SHELL:-bash}"</execute></action>
+</item>
+<item label="read mifare">
+<action name="Execute"><execute>sh -c "readmifaresimple.py -R RFIDIOt.rfidiot.READER_PCSC;${SHELL:-bash}"</execute></action>
+</item>
+<item label="read tag">
+<action name="Execute"><execute>sh -c "readtag.py -R RFIDIOt.rfidiot.READER_PCSC;${SHELL:-bash}"</execute></action>
+</item>
+<item label="select tag">
+<action name="Execute"><execute>sh -c "cardselect.py -R RFIDIOt.rfidiot.READER_PCSC;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Software Defined Radio" label="Software Defined Radio">
+<item label="gnuradio-companion">
+<action name="Execute"><execute>sh -c "gnuradio-companion"</execute></action>
+</item>
+<item label="gqrx">
+<action name="Execute"><execute>sh -c "gqrx"</execute></action>
+</item>
+<item label="gr-scan">
+<action name="Execute"><execute>sh -c "gr-scan --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rtl_adsb">
+<action name="Execute"><execute>sh -c "rtl_adsb -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rtl_fm">
+<action name="Execute"><execute>sh -c "rtl_fm -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rtl_sdr">
+<action name="Execute"><execute>sh -c "rtl_sdr;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rtl_tcp">
+<action name="Execute"><execute>sh -c "rtl_tcp -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rtl_test">
+<action name="Execute"><execute>sh -c "rtl_test -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rtlsdr-scanner">
+<action name="Execute"><execute>sh -c "rtlsdr-scanner"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Exploitation Tools" label="Exploitation Tools">
+<menu id="xdg-menu-BeEF XSS Framework" label="BeEF XSS Framework">
+<item label="beef">
+<action name="Execute"><execute>sh -c "beef-xss;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Cisco Attacks" label="Cisco Attacks">
+<item label="cisco-auditing-tool">
+<action name="Execute"><execute>sh -c "CAT;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cisco-global-exploiter">
+<action name="Execute"><execute>sh -c "cge.pl;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cisco-ocs">
+<action name="Execute"><execute>sh -c "cisco-ocs;${SHELL:-bash}"</execute></action>
+</item>
+<item label="cisco-torch">
+<action name="Execute"><execute>sh -c "cisco-torch;${SHELL:-bash}"</execute></action>
+</item>
+<item label="yersinia">
+<action name="Execute"><execute>sh -c "yersinia --help;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Exploit Database" label="Exploit Database">
+<item label="searchsploit">
+<action name="Execute"><execute>sh -c "searchsploit;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Exploit Development Tools" label="Exploit Development Tools">
+<item label="NASM shell">
+<action name="Execute"><execute>sh -c "cd /usr/share/metasploit-framework/tools && ./nasm_shell.rb;${SHELL:-bash}"</execute></action>
+</item>
+<item label="edb-debugger">
+<action name="Execute"><execute>sh -c "edb;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ollydbg">
+<action name="Execute"><execute>sh -c "ollydbg"</execute></action>
+</item>
+<item label="pattern create">
+<action name="Execute"><execute>sh -c "cd /usr/share/metasploit-framework/tools && ./pattern_create.rb;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pattern offset">
+<action name="Execute"><execute>sh -c "cd /usr/share/metasploit-framework/tools && ./pattern_offset.rb;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Metasploit" label="Metasploit">
+<item label="metasploit community / pro">
+<action name="Execute"><execute>sh -c "/opt/metasploit/scripts/launchui.sh"</execute></action>
+</item>
+<item label="metasploit diagnostic logs ">
+<action name="Execute"><execute>sh -c "/opt/metasploit/diagnostic_logs.sh;${SHELL:-bash}"</execute></action>
+</item>
+<item label="metasploit diagnostic shell">
+<action name="Execute"><execute>sh -c "/opt/metasploit/diagnostic_shell;${SHELL:-bash}"</execute></action>
+</item>
+<item label="metasploit framework">
+<action name="Execute"><execute>sh -c "msfconsole;${SHELL:-bash}"</execute></action>
+</item>
+<item label="update metasploit">
+<action name="Execute"><execute>sh -c "msfupdate;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Network Exploitation" label="Network Exploitation">
+<item label="armitage">
+<action name="Execute"><execute>sh -c "armitage;${SHELL:-bash}"</execute></action>
+</item>
+<item label="exploit6">
+<action name="Execute"><execute>sh -c "exploit6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ikat">
+<action name="Execute"><execute>sh -c "ikat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jboss-autopwn-linux">
+<action name="Execute"><execute>sh -c "jboss-linux;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jboss-autopwn-win">
+<action name="Execute"><execute>sh -c "jboss-win;${SHELL:-bash}"</execute></action>
+</item>
+<item label="termineter">
+<action name="Execute"><execute>sh -c "termineter -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Social Engineering Toolkit" label="Social Engineering Toolkit">
+<item label="setoolkit">
+<action name="Execute"><execute>sh -c "setoolkit;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Sniffing/Spoofing" label="Sniffing/Spoofing">
+<menu id="xdg-menu-Network Sniffers" label="Network Sniffers">
+<item label="darkstat">
+<action name="Execute"><execute>sh -c "darkstat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnschef">
+<action name="Execute"><execute>sh -c "dnschef -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dnsspoof">
+<action name="Execute"><execute>sh -c "dnsspoof -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dsniff">
+<action name="Execute"><execute>sh -c "dsniff -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ettercap-graphical">
+<action name="Execute"><execute>sh -c "ettercap -G"</execute></action>
+</item>
+<item label="hexinject">
+<action name="Execute"><execute>sh -c "hexinject -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mailsnarf">
+<action name="Execute"><execute>sh -c "mailsnarf -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="msgsnarf">
+<action name="Execute"><execute>sh -c "msgsnarf -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="netsniff-ng">
+<action name="Execute"><execute>sh -c "netsniff-ng -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="passive_discovery6">
+<action name="Execute"><execute>sh -c "passive_discovery6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="responder">
+<action name="Execute"><execute>sh -c "responder -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslsniff">
+<action name="Execute"><execute>sh -c "sslsniff;${SHELL:-bash}"</execute></action>
+</item>
+<item label="tcpflow">
+<action name="Execute"><execute>sh -c "tcpflow -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="urlsnarf">
+<action name="Execute"><execute>sh -c "urlsnarf -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="webmitm">
+<action name="Execute"><execute>sh -c "webmitm -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="webspy">
+<action name="Execute"><execute>sh -c "webspy -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wireshark">
+<action name="Execute"><execute>sh -c "wireshark"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Network Spoofing" label="Network Spoofing">
+<item label="dnschef">
+<action name="Execute"><execute>sh -c "dnschef -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ettercap-graphical">
+<action name="Execute"><execute>sh -c "ettercap -G"</execute></action>
+</item>
+<item label="evilgrade">
+<action name="Execute"><execute>sh -c "evilgrade;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_advertise6">
+<action name="Execute"><execute>sh -c "fake_advertise6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_dhcps6">
+<action name="Execute"><execute>sh -c "fake_dhcps6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_dns6d">
+<action name="Execute"><execute>sh -c "fake_dns6d;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_dnsupdate6">
+<action name="Execute"><execute>sh -c "fake_dnsupdate6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_mipv6">
+<action name="Execute"><execute>sh -c "fake_mipv6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_mld26">
+<action name="Execute"><execute>sh -c "fake_mld26;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_mld6">
+<action name="Execute"><execute>sh -c "fake_mld6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_mldrouter6">
+<action name="Execute"><execute>sh -c "fake_mldrouter6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_router26">
+<action name="Execute"><execute>sh -c "fake_router26;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_router6">
+<action name="Execute"><execute>sh -c "fake_router6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fake_solicitate6">
+<action name="Execute"><execute>sh -c "fake_solicitate6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fiked">
+<action name="Execute"><execute>sh -c "fiked -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="macchanger">
+<action name="Execute"><execute>sh -c "macchanger -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="parasite6">
+<action name="Execute"><execute>sh -c "parasite6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="randicmp6">
+<action name="Execute"><execute>sh -c "randicmp6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rebind">
+<action name="Execute"><execute>sh -c "rebind;${SHELL:-bash}"</execute></action>
+</item>
+<item label="redir6">
+<action name="Execute"><execute>sh -c "redir6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="responder">
+<action name="Execute"><execute>sh -c "responder -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sniffjoke">
+<action name="Execute"><execute>sh -c "sniffjoke --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslsplit">
+<action name="Execute"><execute>sh -c "sslsplit -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslstrip">
+<action name="Execute"><execute>sh -c "sslstrip -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="tcpreplay">
+<action name="Execute"><execute>sh -c "tcpreplay -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="wifi-honey">
+<action name="Execute"><execute>sh -c "wifi-honey -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="yersinia">
+<action name="Execute"><execute>sh -c "yersinia --help;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-VoIP Tools" label="VoIP Tools">
+<item label="iaxflood">
+<action name="Execute"><execute>sh -c "iaxflood;${SHELL:-bash}"</execute></action>
+</item>
+<item label="inviteflood">
+<action name="Execute"><execute>sh -c "inviteflood -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ohrwurm">
+<action name="Execute"><execute>sh -c "ohrwurm;${SHELL:-bash}"</execute></action>
+</item>
+<item label="protos-sip">
+<action name="Execute"><execute>sh -c "protos-sip -help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rtpbreak">
+<action name="Execute"><execute>sh -c "rtpbreak -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rtpflood">
+<action name="Execute"><execute>sh -c "rtpflood;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rtpinsertsound">
+<action name="Execute"><execute>sh -c "rtpinsertsound -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rtpmixsound">
+<action name="Execute"><execute>sh -c "rtpmixsound -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sctpscan">
+<action name="Execute"><execute>sh -c "sctpscan;${SHELL:-bash}"</execute></action>
+</item>
+<item label="siparmyknife">
+<action name="Execute"><execute>sh -c "siparmyknife;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sipp">
+<action name="Execute"><execute>sh -c "sipp -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sipsak">
+<action name="Execute"><execute>sh -c "sipsak -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="svcrack">
+<action name="Execute"><execute>sh -c "svcrack -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="svcrash">
+<action name="Execute"><execute>sh -c "svcrash -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="svmap">
+<action name="Execute"><execute>sh -c "svmap -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="svreport">
+<action name="Execute"><execute>sh -c "svreport -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="svwar">
+<action name="Execute"><execute>sh -c "svwar -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="voiphopper">
+<action name="Execute"><execute>sh -c "voiphopper;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Voice and Surveillance" label="Voice and Surveillance">
+<item label="msgsnarf">
+<action name="Execute"><execute>sh -c "msgsnarf -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Web Sniffers" label="Web Sniffers">
+<item label="burpsuite">
+<action name="Execute"><execute>sh -c "java -jar /usr/bin/burpsuite"</execute></action>
+</item>
+<item label="dnsspoof">
+<action name="Execute"><execute>sh -c "dnsspoof -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="driftnet">
+<action name="Execute"><execute>sh -c "driftnet -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="hamster">
+<action name="Execute"><execute>sh -c "hamster;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mitmproxy">
+<action name="Execute"><execute>sh -c "mitmproxy -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="owasp-zap">
+<action name="Execute"><execute>sh -c "zap"</execute></action>
+</item>
+<item label="urlsnarf">
+<action name="Execute"><execute>sh -c "urlsnarf -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="webmitm">
+<action name="Execute"><execute>sh -c "webmitm -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="webscarab">
+<action name="Execute"><execute>sh -c "webscarab"</execute></action>
+</item>
+<item label="webspy">
+<action name="Execute"><execute>sh -c "webspy -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Maintaining Access" label="Maintaining Access">
+<menu id="xdg-menu-OS Backdoors" label="OS Backdoors">
+<item label="cymothoa">
+<action name="Execute"><execute>sh -c "cymothoa -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dbd">
+<action name="Execute"><execute>sh -c "dbd -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="intersect">
+<action name="Execute"><execute>sh -c "intersect;${SHELL:-bash}"</execute></action>
+</item>
+<item label="powersploit">
+<action name="Execute"><execute>sh -c "cd /usr/share/powersploit/ && ls;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sbd">
+<action name="Execute"><execute>sh -c "sbd -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="u3-pwn">
+<action name="Execute"><execute>sh -c "u3-pwn;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Tunneling Tools" label="Tunneling Tools">
+<item label="cryptcat">
+<action name="Execute"><execute>sh -c "cryptcat -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dbd">
+<action name="Execute"><execute>sh -c "dbd -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dns2tcpc">
+<action name="Execute"><execute>sh -c "dns2tcpc;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dns2tcpd">
+<action name="Execute"><execute>sh -c "dns2tcpd;${SHELL:-bash}"</execute></action>
+</item>
+<item label="iodine">
+<action name="Execute"><execute>sh -c "iodine-client-start -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="miredo">
+<action name="Execute"><execute>sh -c "miredo -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ncat">
+<action name="Execute"><execute>sh -c "ncat -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="proxychains">
+<action name="Execute"><execute>sh -c "proxychains;${SHELL:-bash}"</execute></action>
+</item>
+<item label="proxytunnel">
+<action name="Execute"><execute>sh -c "proxytunnel -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ptunnel">
+<action name="Execute"><execute>sh -c "ptunnel -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pwnat">
+<action name="Execute"><execute>sh -c "pwnat -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sbd">
+<action name="Execute"><execute>sh -c "sbd -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="socat">
+<action name="Execute"><execute>sh -c "socat -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sslh">
+<action name="Execute"><execute>sh -c "sslh -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="stunnel4">
+<action name="Execute"><execute>sh -c "stunnel4 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="udptunnel">
+<action name="Execute"><execute>sh -c "udptunnel -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Web Backdoors" label="Web Backdoors">
+<item label="webacoo">
+<action name="Execute"><execute>sh -c "webacoo -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="weevely">
+<action name="Execute"><execute>sh -c "weevely;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Reverse Engineering" label="Reverse Engineering">
+<menu id="xdg-menu-Debuggers" label="Debuggers">
+<item label="edb-debugger">
+<action name="Execute"><execute>sh -c "edb;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ollydbg">
+<action name="Execute"><execute>sh -c "ollydbg"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Disassembly" label="Disassembly">
+<item label="jad">
+<action name="Execute"><execute>sh -c "jad;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rabin2">
+<action name="Execute"><execute>sh -c "rabin2 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="radiff2">
+<action name="Execute"><execute>sh -c "radiff2;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rasm2">
+<action name="Execute"><execute>sh -c "rasm2;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Misc RE Tools" label="Misc RE Tools">
+<item label="apktool">
+<action name="Execute"><execute>sh -c "apktool;${SHELL:-bash}"</execute></action>
+</item>
+<item label="clang">
+<action name="Execute"><execute>sh -c "clang --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="clang++">
+<action name="Execute"><execute>sh -c "clang++ --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dex2jar">
+<action name="Execute"><execute>sh -c "d2j-dex2jar -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="flasm">
+<action name="Execute"><execute>sh -c "flasm;${SHELL:-bash}"</execute></action>
+</item>
+<item label="javasnoop">
+<action name="Execute"><execute>sh -c "javasnoop"</execute></action>
+</item>
+<item label="radare2">
+<action name="Execute"><execute>sh -c "radare2 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rafind2">
+<action name="Execute"><execute>sh -c "rafind2 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ragg2">
+<action name="Execute"><execute>sh -c "ragg2 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ragg2-cc">
+<action name="Execute"><execute>sh -c "ragg2-cc;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rahash2">
+<action name="Execute"><execute>sh -c "rahash2 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rarun2">
+<action name="Execute"><execute>sh -c "rarun2;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rax2">
+<action name="Execute"><execute>sh -c "rax2 -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Stress Testing" label="Stress Testing">
+<menu id="xdg-menu-Network Stress Testing" label="Network Stress Testing">
+<item label="denial6">
+<action name="Execute"><execute>sh -c "denial6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dhcpig">
+<action name="Execute"><execute>sh -c "pig.py -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dos-new-ip6">
+<action name="Execute"><execute>sh -c "dos-new-ip6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="flood_advertise6">
+<action name="Execute"><execute>sh -c "flood_advertise6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="flood_dhcpc6">
+<action name="Execute"><execute>sh -c "flood_dhcpc6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="flood_mld26">
+<action name="Execute"><execute>sh -c "flood_mld26;${SHELL:-bash}"</execute></action>
+</item>
+<item label="flood_mld6">
+<action name="Execute"><execute>sh -c "flood_mld6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="flood_mldrouter6">
+<action name="Execute"><execute>sh -c "flood_mldrouter6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="flood_router26">
+<action name="Execute"><execute>sh -c "flood_router26;${SHELL:-bash}"</execute></action>
+</item>
+<item label="flood_router6">
+<action name="Execute"><execute>sh -c "flood_router6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="flood_solicitate6">
+<action name="Execute"><execute>sh -c "flood_solicitate6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fragmentation6">
+<action name="Execute"><execute>sh -c "fragmentation6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="inundator">
+<action name="Execute"><execute>sh -c "inundator;${SHELL:-bash}"</execute></action>
+</item>
+<item label="kill_router6">
+<action name="Execute"><execute>sh -c "kill_router6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="macof">
+<action name="Execute"><execute>sh -c "macof -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rsmurf6">
+<action name="Execute"><execute>sh -c "rsmurf6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="siege">
+<action name="Execute"><execute>sh -c "siege -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="smurf6">
+<action name="Execute"><execute>sh -c "smurf6;${SHELL:-bash}"</execute></action>
+</item>
+<item label="t50">
+<action name="Execute"><execute>sh -c "t50 --help;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-VoIP Stress Testing" label="VoIP Stress Testing">
+<item label="iaxflood">
+<action name="Execute"><execute>sh -c "iaxflood;${SHELL:-bash}"</execute></action>
+</item>
+<item label="inviteflood">
+<action name="Execute"><execute>sh -c "inviteflood -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-WLAN Stress Testing" label="WLAN Stress Testing">
+<item label="mdk3">
+<action name="Execute"><execute>sh -c "mdk3 --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="reaver">
+<action name="Execute"><execute>sh -c "reaver -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Web Stress Testing" label="Web Stress Testing">
+<item label="thc-ssl-dos">
+<action name="Execute"><execute>sh -c "thc-ssl-dos -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Hardware Hacking" label="Hardware Hacking">
+<menu id="xdg-menu-Android Tools" label="Android Tools">
+<item label="apktool">
+<action name="Execute"><execute>sh -c "apktool;${SHELL:-bash}"</execute></action>
+</item>
+<item label="baksmali">
+<action name="Execute"><execute>sh -c "baksmali --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dex2jar">
+<action name="Execute"><execute>sh -c "d2j-dex2jar -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="smali">
+<action name="Execute"><execute>sh -c "smali --help;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Arduino Tools" label="Arduino Tools">
+<item label="arduino">
+<action name="Execute"><execute>sh -c "arduino"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Forensics" label="Forensics">
+<menu id="xdg-menu-Anti-Virus Forensics Tools" label="Anti-Virus Forensics Tools">
+<item label="chkrootkit">
+<action name="Execute"><execute>sh -c "chkrootkit -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Digital Anti-Forensics" label="Digital Anti-Forensics">
+<item label="chkrootkit">
+<action name="Execute"><execute>sh -c "chkrootkit -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Digital Forensics" label="Digital Forensics">
+<item label="autopsy">
+<action name="Execute"><execute>sh -c "autopsy;${SHELL:-bash}"</execute></action>
+</item>
+<item label="binwalk">
+<action name="Execute"><execute>sh -c "binwalk -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="bulk_extractor">
+<action name="Execute"><execute>sh -c "bulk_extractor -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="chkrootkit">
+<action name="Execute"><execute>sh -c "chkrootkit -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dc3dd">
+<action name="Execute"><execute>sh -c "dc3dd --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dcfldd">
+<action name="Execute"><execute>sh -c "dcfldd --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="extundelete">
+<action name="Execute"><execute>sh -c "extundelete --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="foremost">
+<action name="Execute"><execute>sh -c "foremost -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fsstat">
+<action name="Execute"><execute>sh -c "fsstat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="galleta">
+<action name="Execute"><execute>sh -c "galleta;${SHELL:-bash}"</execute></action>
+</item>
+<item label="tsk_comparedir">
+<action name="Execute"><execute>sh -c "tsk_comparedir;${SHELL:-bash}"</execute></action>
+</item>
+<item label="tsk_loaddb">
+<action name="Execute"><execute>sh -c "tsk_loaddb;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Forensic Analysis Tools" label="Forensic Analysis Tools">
+<item label="affcompare">
+<action name="Execute"><execute>sh -c "affcompare -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="affcopy">
+<action name="Execute"><execute>sh -c "affcopy -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="affcrypto">
+<action name="Execute"><execute>sh -c "affcrypto -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="affdiskprint">
+<action name="Execute"><execute>sh -c "affdiskprint -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="affinfo">
+<action name="Execute"><execute>sh -c "affinfo -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="affsign">
+<action name="Execute"><execute>sh -c "affsign -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="affstats">
+<action name="Execute"><execute>sh -c "affstats -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="affuse">
+<action name="Execute"><execute>sh -c "affuse -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="affverify">
+<action name="Execute"><execute>sh -c "affverify -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="affxml">
+<action name="Execute"><execute>sh -c "affxml -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="autopsy">
+<action name="Execute"><execute>sh -c "autopsy;${SHELL:-bash}"</execute></action>
+</item>
+<item label="binwalk">
+<action name="Execute"><execute>sh -c "binwalk -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="blkcalc">
+<action name="Execute"><execute>sh -c "blkcalc;${SHELL:-bash}"</execute></action>
+</item>
+<item label="blkcat">
+<action name="Execute"><execute>sh -c "blkcat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="blkstat">
+<action name="Execute"><execute>sh -c "blkstat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="bulk_extractor">
+<action name="Execute"><execute>sh -c "bulk_extractor -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ffind">
+<action name="Execute"><execute>sh -c "ffind;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fls">
+<action name="Execute"><execute>sh -c "fls;${SHELL:-bash}"</execute></action>
+</item>
+<item label="foremost">
+<action name="Execute"><execute>sh -c "foremost -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="galleta">
+<action name="Execute"><execute>sh -c "galleta;${SHELL:-bash}"</execute></action>
+</item>
+<item label="hfind">
+<action name="Execute"><execute>sh -c "hfind;${SHELL:-bash}"</execute></action>
+</item>
+<item label="icat-sleuthkit">
+<action name="Execute"><execute>sh -c "icat-sleuthkit;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ifind">
+<action name="Execute"><execute>sh -c "ifind;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ils-sleuthkit">
+<action name="Execute"><execute>sh -c "ils-sleuthkit;${SHELL:-bash}"</execute></action>
+</item>
+<item label="istat">
+<action name="Execute"><execute>sh -c "istat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jcat">
+<action name="Execute"><execute>sh -c "jcat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mactime-sleuthkit">
+<action name="Execute"><execute>sh -c "mactime-sleuthkit;${SHELL:-bash}"</execute></action>
+</item>
+<item label="missidentify">
+<action name="Execute"><execute>sh -c "missidentify -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mmcat">
+<action name="Execute"><execute>sh -c "mmcat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pdgmail">
+<action name="Execute"><execute>sh -c "pdgmail -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="readpst">
+<action name="Execute"><execute>sh -c "readpst -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="reglookup">
+<action name="Execute"><execute>sh -c "reglookup;${SHELL:-bash}"</execute></action>
+</item>
+<item label="regripper">
+<action name="Execute"><execute>sh -c "regripper"</execute></action>
+</item>
+<item label="sigfind">
+<action name="Execute"><execute>sh -c "sigfind;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sorter">
+<action name="Execute"><execute>sh -c "sorter;${SHELL:-bash}"</execute></action>
+</item>
+<item label="srch_strings">
+<action name="Execute"><execute>sh -c "srch_strings -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="tsk_recover">
+<action name="Execute"><execute>sh -c "tsk_recover;${SHELL:-bash}"</execute></action>
+</item>
+<item label="vinetto">
+<action name="Execute"><execute>sh -c "vinetto -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Forensic Carving Tools" label="Forensic Carving Tools">
+<item label="binwalk">
+<action name="Execute"><execute>sh -c "binwalk -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="bulk_extractor">
+<action name="Execute"><execute>sh -c "bulk_extractor -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="foremost">
+<action name="Execute"><execute>sh -c "foremost -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="jls">
+<action name="Execute"><execute>sh -c "jls;${SHELL:-bash}"</execute></action>
+</item>
+<item label="magicrescue">
+<action name="Execute"><execute>sh -c "magicrescue;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pasco">
+<action name="Execute"><execute>sh -c "pasco;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pev">
+<action name="Execute"><execute>sh -c "pev -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="recoverjpeg">
+<action name="Execute"><execute>sh -c "recoverjpeg -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rifiuti">
+<action name="Execute"><execute>sh -c "rifiuti;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rifiuti2">
+<action name="Execute"><execute>sh -c "rifiuti2 -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="safecopy">
+<action name="Execute"><execute>sh -c "safecopy -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="scalpel">
+<action name="Execute"><execute>sh -c "scalpel -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="scrounge-ntfs">
+<action name="Execute"><execute>sh -c "scrounge-ntfs -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Forensic Hashing Tools" label="Forensic Hashing Tools">
+<item label="md5deep">
+<action name="Execute"><execute>sh -c "md5deep -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="rahash2">
+<action name="Execute"><execute>sh -c "rahash2 -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Forensic Imaging Tools" label="Forensic Imaging Tools">
+<item label="affcat">
+<action name="Execute"><execute>sh -c "affcat -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="affconvert">
+<action name="Execute"><execute>sh -c "affconvert -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="blkls">
+<action name="Execute"><execute>sh -c "blkls;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dc3dd">
+<action name="Execute"><execute>sh -c "dc3dd --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dcfldd">
+<action name="Execute"><execute>sh -c "dcfldd --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ddrescue">
+<action name="Execute"><execute>sh -c "dd_rescue -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ewfacquire">
+<action name="Execute"><execute>sh -c "ewfacquire -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ewfacquirestream">
+<action name="Execute"><execute>sh -c "ewfacquirestream -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ewfexport">
+<action name="Execute"><execute>sh -c "ewfexport -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ewfinfo">
+<action name="Execute"><execute>sh -c "ewfinfo -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="ewfverify">
+<action name="Execute"><execute>sh -c "ewfverify -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="fsstat">
+<action name="Execute"><execute>sh -c "fsstat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="guymager">
+<action name="Execute"><execute>sh -c "guymager"</execute></action>
+</item>
+<item label="img_cat">
+<action name="Execute"><execute>sh -c "img_cat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="img_stat">
+<action name="Execute"><execute>sh -c "img_stat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mmls">
+<action name="Execute"><execute>sh -c "mmls;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mmstat">
+<action name="Execute"><execute>sh -c "mmstat;${SHELL:-bash}"</execute></action>
+</item>
+<item label="tsk_gettimes">
+<action name="Execute"><execute>sh -c "tsk_gettimes -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Forensic Suites" label="Forensic Suites">
+<item label="autopsy">
+<action name="Execute"><execute>sh -c "autopsy;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dff">
+<action name="Execute"><execute>sh -c "dff;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dff gui">
+<action name="Execute"><execute>sh -c "dff -g;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Network Forensics" label="Network Forensics">
+<item label="p0f">
+<action name="Execute"><execute>sh -c "p0f -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-PDF Forensics Tools" label="PDF Forensics Tools">
+<item label="pdf-parser">
+<action name="Execute"><execute>sh -c "pdf-parser -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="peepdf">
+<action name="Execute"><execute>sh -c "peepdf -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Password Forensics Tools" label="Password Forensics Tools">
+<item label="chntpw">
+<action name="Execute"><execute>sh -c "chntpw -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-RAM Forensics Tools" label="RAM Forensics Tools">
+<item label="volafox">
+<action name="Execute"><execute>sh -c "volafox;${SHELL:-bash}"</execute></action>
+</item>
+<item label="volatility">
+<action name="Execute"><execute>sh -c "vol -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-Reporting Tools" label="Reporting Tools">
+<menu id="xdg-menu-Documentation" label="Documentation">
+<item label="dradis">
+<action name="Execute"><execute>sh -c "service dradis start; xdg-open https://127.0.0.1:3004"</execute></action>
+</item>
+<item label="keepnote">
+<action name="Execute"><execute>sh -c "keepnote"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Evidence Management" label="Evidence Management">
+<item label="casefile">
+<action name="Execute"><execute>sh -c "casefile"</execute></action>
+</item>
+<item label="magictree">
+<action name="Execute"><execute>sh -c "magictree"</execute></action>
+</item>
+<item label="maltego">
+<action name="Execute"><execute>sh -c "maltego"</execute></action>
+</item>
+<item label="metagoofil">
+<action name="Execute"><execute>sh -c "metagoofil;${SHELL:-bash}"</execute></action>
+</item>
+<item label="pipal">
+<action name="Execute"><execute>sh -c "pipal -h;${SHELL:-bash}"</execute></action>
+</item>
+<item label="truecrypt">
+<action name="Execute"><execute>sh -c "truecrypt -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Media Capture" label="Media Capture">
+<item label="cutycapt">
+<action name="Execute"><execute>sh -c "cutycapt --help;${SHELL:-bash}"</execute></action>
+</item>
+<item label="recordmydesktop">
+<action name="Execute"><execute>sh -c "recordmydesktop -h;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+<menu id="xdg-menu-System Services" label="System Services">
+<menu id="xdg-menu-BeEF" label="BeEF">
+<item label="beef start">
+<action name="Execute"><execute>sh -c "service beef-xss start;${SHELL:-bash}"</execute></action>
+</item>
+<item label="beef stop">
+<action name="Execute"><execute>sh -c "service beef-xss stop;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Dradis" label="Dradis">
+<item label="dradis start">
+<action name="Execute"><execute>sh -c "service dradis start;${SHELL:-bash}"</execute></action>
+</item>
+<item label="dradis stop">
+<action name="Execute"><execute>sh -c "service dradis stop;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-HTTP" label="HTTP">
+<item label="apache2 restart">
+<action name="Execute"><execute>sh -c "service apache2 restart;${SHELL:-bash}"</execute></action>
+</item>
+<item label="apache2 start">
+<action name="Execute"><execute>sh -c "service apache2 start;${SHELL:-bash}"</execute></action>
+</item>
+<item label="apache2 stop">
+<action name="Execute"><execute>sh -c "service apache2 stop;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Metasploit" label="Metasploit">
+<item label="community / pro start">
+<action name="Execute"><execute>sh -c "/opt/metasploit/scripts/start.sh;${SHELL:-bash}"</execute></action>
+</item>
+<item label="community / pro stop">
+<action name="Execute"><execute>sh -c "/opt/metasploit/scripts/stop.sh;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-MySQL" label="MySQL">
+<item label="mysql restart">
+<action name="Execute"><execute>sh -c "service mysql restart;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mysql start">
+<action name="Execute"><execute>sh -c "service mysql start;${SHELL:-bash}"</execute></action>
+</item>
+<item label="mysql stop">
+<action name="Execute"><execute>sh -c "service mysql stop;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-OpenVas" label="OpenVas">
+<item label="openvas check setup">
+<action name="Execute"><execute>sh -c "openvas-check-setup;${SHELL:-bash}"</execute></action>
+</item>
+<item label="openvas feed update">
+<action name="Execute"><execute>sh -c "openvas-feed-update;${SHELL:-bash}"</execute></action>
+</item>
+<item label="openvas initial setup">
+<action name="Execute"><execute>sh -c "openvas-setup;${SHELL:-bash}"</execute></action>
+</item>
+<item label="openvas start">
+<action name="Execute"><execute>sh -c "openvas-start;${SHELL:-bash}"</execute></action>
+</item>
+<item label="openvas stop">
+<action name="Execute"><execute>sh -c "openvas-stop;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-SSH" label="SSH">
+<item label="sshd restart">
+<action name="Execute"><execute>sh -c "service ssh restart;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sshd start">
+<action name="Execute"><execute>sh -c "service ssh start;${SHELL:-bash}"</execute></action>
+</item>
+<item label="sshd stop">
+<action name="Execute"><execute>sh -c "service ssh stop;${SHELL:-bash}"</execute></action>
+</item>
+</menu>
+</menu>
+</menu>
+<menu id="xdg-menu-Office" label="Office">
+<item label="Dictionary">
+<action name="Execute"><execute>gnome-dictionary</execute></action>
+</item>
+<item label="Document Viewer">
+<action name="Execute"><execute>evince   </execute></action>
+</item>
+<item label="KeepNote">
+<action name="Execute"><execute>keepnote   </execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Programming" label="Programming">
+<item label="Arduino IDE">
+<action name="Execute"><execute>arduino</execute></action>
+</item>
+<item label="GRC">
+<action name="Execute"><execute>gnuradio-companion   </execute></action>
+</item>
+<item label="PyCrust">
+<action name="Execute"><execute>/usr/bin/pycrust</execute></action>
+</item>
+<item label="SQLite database browser">
+<action name="Execute"><execute>sqlitebrowser</execute></action>
+</item>
+<item label="XRCed">
+<action name="Execute"><execute>/usr/bin/xrced</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Sound &amp; Video" label="Sound &amp; Video">
+<item label="Brasero">
+<action name="Execute"><execute>brasero   </execute></action>
+</item>
+<item label="Sound Recorder">
+<action name="Execute"><execute>gnome-sound-recorder</execute></action>
+</item>
+<item label="VLC media player">
+<action name="Execute"><execute>/usr/bin/vlc   </execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-System Tools" label="System Tools">
+<menu id="xdg-menu-Administration" label="Administration">
+<item label="GParted">
+<action name="Execute"><execute>gparted-pkexec</execute></action>
+</item>
+<item label="Synaptic Package Manager">
+<action name="Execute"><execute>synaptic-pkexec</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Preferences" label="Preferences">
+<item label="Advanced Settings">
+<action name="Execute"><execute>gnome-tweak-tool</execute></action>
+</item>
+<item label="Desktop Sharing">
+<action name="Execute"><execute>vino-preferences</execute></action>
+</item>
+<item label="IcedTea Web Control Panel">
+<action name="Execute"><execute>/usr/bin/itweb-settings</execute></action>
+</item>
+<item label="Main Menu">
+<action name="Execute"><execute>alacarte</execute></action>
+</item>
+<item label="Messaging and VoIP Accounts">
+<action name="Execute"><execute>empathy-accounts</execute></action>
+</item>
+<item label="Network Connections">
+<action name="Execute"><execute>nm-connection-editor</execute></action>
+</item>
+<item label="OpenJDK Java 6 Policy Tool">
+<action name="Execute"><execute>/usr/bin/policytool</execute></action>
+</item>
+<item label="OpenJDK Java 7 Policy Tool">
+<action name="Execute"><execute>/usr/bin/policytool</execute></action>
+</item>
+<item label="Openbox Configuration Manager">
+<action name="Execute"><execute>obconf   </execute></action>
+</item>
+<item label="Panel tint2">
+<action name="Execute"><execute>tint2conf</execute></action>
+</item>
+<item label="Personal File Sharing">
+<action name="Execute"><execute>gnome-file-share-properties</execute></action>
+</item>
+<item label="Search and Indexing">
+<action name="Execute"><execute>tracker-preferences</execute></action>
+</item>
+<item label="Software Settings">
+<action name="Execute"><execute>gpk-prefs</execute></action>
+</item>
+<item label="Startup Applications">
+<action name="Execute"><execute>gnome-session-properties</execute></action>
+</item>
+<item label="System Settings">
+<action name="Execute"><execute>gnome-control-center --overview</execute></action>
+</item>
+</menu>
+<item label="Add/Remove Software">
+<action name="Execute"><execute>gpk-application</execute></action>
+</item>
+<item label="Disk Usage Analyser">
+<action name="Execute"><execute>baobab</execute></action>
+</item>
+<item label="Guymager">
+<action name="Execute"><execute>gksudo guymager</execute></action>
+</item>
+<item label="Htop">
+<action name="Execute"><execute>htop</execute></action>
+</item>
+<item label="Log File Viewer">
+<action name="Execute"><execute>gnome-system-log-pkexec</execute></action>
+</item>
+<item label="Lynis auditing tool">
+<action name="Execute"><execute>su-to-root -c '/usr/sbin/lynis --no-colors'</execute></action>
+</item>
+<item label="Midnight Commander">
+<action name="Execute"><execute>mc</execute></action>
+</item>
+<item label="Ophcrack">
+<action name="Execute"><execute>ophcrack</execute></action>
+</item>
+<item label="Power Statistics">
+<action name="Execute"><execute>gnome-power-statistics</execute></action>
+</item>
+<item label="Reportbug">
+<action name="Execute"><execute>reportbug --exit-prompt --ui gtk2</execute></action>
+</item>
+<item label="Software Update">
+<action name="Execute"><execute>gpk-update-viewer</execute></action>
+</item>
+<item label="System Monitor">
+<action name="Execute"><execute>gnome-system-monitor</execute></action>
+</item>
+<item label="UNetbootin">
+<action name="Execute"><execute>/usr/bin/unetbootin</execute></action>
+</item>
+<item label="UXTerm">
+<action name="Execute"><execute>uxterm</execute></action>
+</item>
+<item label="XTerm">
+<action name="Execute"><execute>xterm</execute></action>
+</item>
+<item label="dconf Editor">
+<action name="Execute"><execute>dconf-editor</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Universal Access" label="Universal Access">
+<item label="Florence Virtual Keyboard">
+<action name="Execute"><execute>florence</execute></action>
+</item>
+<item label="Orca">
+<action name="Execute"><execute>orca --replace</execute></action>
+</item>
+</menu>
+<menu id="xdg-menu-Other" label="Other">
+<item label="Spectrum Tool">
+<action name="Execute"><execute>spectool_gtk</execute></action>
+</item>
+</menu>
+</openbox_pipe_menu>

@@ -83,6 +83,8 @@ skin=solarized
 
 filepos_max_saved_entries=1024
 
+keymap=mc.keymap
+
 [Layout]
 message_visible=1
 keybar_visible=1
@@ -93,7 +95,7 @@ menubar_visible=1
 free_space=1
 horizontal_split=0
 vertical_equal=1
-left_panel_size=51
+left_panel_size=84
 horizontal_equal=1
 top_panel_size=1
 
