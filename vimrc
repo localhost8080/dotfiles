@@ -1,5 +1,6 @@
 " lets use the internet standard charset
 set encoding=UTF-8
+au BufRead,BufNewFile * start
 
 " vundle package manager
 set nocompatible
