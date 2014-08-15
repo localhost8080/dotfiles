@@ -39,8 +39,7 @@
 		<!-- This requires the presence of the 'menu' package to work -->
 		<menu id="/Debian"/>
 		<separator/>
-		<menu execute="openbox-xdgmenu /etc/xdg/menus/gnome-applications.menu" id="pipe-94425" label="Apps"/>
-		<file>~/.config/openbox/menu_gnome.xml</file>
+		<menu execute="cat ~/.config/openbox/menu_gnome.xml" id="pipe-94425" label="Apps"/>
 		<separator/>
 		<menu id="root-menu-593534" label="Settings">
 			<item label="gtk-theme-switch2">

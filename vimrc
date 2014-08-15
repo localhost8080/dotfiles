@@ -38,6 +38,7 @@ set clipboard=unnamedplus
 
 set backupdir=./.backup,.,/tmp
 set directory=.,./.backup,/tmp
+set mousemodel=popup
 
 " indention rules
 set autoindent
