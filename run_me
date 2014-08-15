@@ -9,3 +9,5 @@ eval `dircolors ~/.dircolors`
 ~/dotfiles/gnome-terminal-colors-solarized/set_dark.sh
 export MC_SKIN=$HOME/.config/mc/solarized.ini
 
+ln -s ~/.local/share/themes ~/.themes
+

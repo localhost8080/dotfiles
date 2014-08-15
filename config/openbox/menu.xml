@@ -16,6 +16,21 @@
 				<execute>x-terminal-emulator</execute>
 			</action>
 		</item>
+		<item label="chromium">
+			<action name="Execute">
+				<execute>chromium --user-data-dir</execute>
+			</action>
+		</item>
+		<item label="chrome">
+			<action name="Execute">
+				<execute>google-chrome</execute>
+			</action>
+		</item>
+		<item label="Firefox">
+			<action name="Execute">
+				<execute>firefox</execute>
+			</action>
+		</item>
 		<item label="Web browser">
 			<action name="Execute">
 				<execute>x-www-browser</execute>
@@ -26,6 +41,23 @@
 		<separator/>
 		<menu id="client-list-menu"/>
 		<separator/>
+		<menu id="root-menu-593534" label="New Menu">
+			<item label="New Item">
+				<action name="Execute">
+					<execute>command</execute>
+				</action>
+			</item>
+		</menu>
+		<item label="gtk-theme-switch2">
+			<action name="Execute">
+				<execute>gtk-theme-switch2</execute>
+			</action>
+		</item>
+		<item label="gnome-tweak-tool">
+			<action name="Execute">
+				<execute>gnome-tweak-tool</execute>
+			</action>
+		</item>
 		<item label="Tint Config">
 			<action name="Execute">
 				<execute>~/bin/tintwizard.py</execute>
