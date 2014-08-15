@@ -36,6 +36,9 @@ colorscheme solarized
 " also yank to X clipboard, requires +X11 +clipboard
 set clipboard=unnamedplus
 
+set backupdir=./.backup,.,/tmp
+set directory=.,./.backup,/tmp
+
 " indention rules
 set autoindent
 set tabstop=4

@@ -1,6 +1,6 @@
-# -- THEME AUTO-WRITTEN BY gtk-theme-switch2 DO NOT EDIT
-include "/usr/share/themes/Numix/gtk-2.0/gtkrc"
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+include "/usr/share/themes/Numix Solarized/gtk-2.0/gtkrc"
 
-include "/root/.gtkrc-2.0.mine"
+include "/home/localhost/.gtkrc.mine"
 
-# -- THEME AUTO-WRITTEN BY gtk-theme-switch2 DO NOT EDIT
+# -- THEME AUTO-WRITTEN DO NOT EDIT

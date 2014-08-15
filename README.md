@@ -1,23 +1,18 @@
-# b52's dotfiles
+# localhost8080's dotfiles
 
 This repository is a collection of all necessary configuration files and
-related data to run my [archlinux], [xmonad], mostly [shell]-based setup.
+related data to run my setup.
 
 ![snapshot of b52's setup](http://reaktor42.de/~b52/shots/2013-09-21-223903_1280x800_scrot.png)
 
 The README shall also be a reminder of how to properly set it up, involving
 the needed packages and configuration steps.
 
-[archlinux]: https://www.archlinux.org/
-[xmonad]: http://xmonad.org/
-[shell]: http://www.zsh.org/
 
 ## Installation
 
-1. Install some or all packages listed in the second chapter.
-2. Checkout this repository ``git clone https://github.com/b52/dotfiles.git``
-3. Link your choice of configuration files: ``cd dotfiles ; ./install.py *``
-   Run ``./install.py --help`` to get a list of possible commands.
+
+./run_me
 
 ## Packages
 
