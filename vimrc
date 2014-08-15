@@ -31,8 +31,12 @@ set noshowmode
 
 " syntax highlighting
 syntax enable
-set background=dark
-colorscheme solarized
+if has('gui_running')
+    set background=dark
+    colorscheme solarized
+else
+    set background=light
+endif
 
 " also yank to X clipboard, requires +X11 +clipboard
 set clipboard=unnamedplus
