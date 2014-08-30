@@ -6,7 +6,12 @@
 				<execute>xfce4-appfinder --disable-server</execute>
 			</action>
 		</item>
-		<item label="File Manager">
+		<item label="Thunar">
+			<action name="Execute">
+				<execute>thunar</execute>
+			</action>
+		</item>
+		<item label="Nautilus">
 			<action name="Execute">
 				<execute>nautilus --no-desktop</execute>
 			</action>
@@ -16,12 +21,12 @@
 				<execute>x-terminal-emulator</execute>
 			</action>
 		</item>
-		<item label="chromium">
+		<item label="Chromium">
 			<action name="Execute">
 				<execute>chromium --user-data-dir</execute>
 			</action>
 		</item>
-		<item label="chrome">
+		<item label="Chrome">
 			<action name="Execute">
 				<execute>google-chrome</execute>
 			</action>

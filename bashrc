@@ -112,3 +112,13 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+if [ $(id -u) -eq 0 ]; then
+    PS1='\[\e[0;31m\]\u@\[\e[0;31m\]\h\[\e[1;35m\]@local:\[\e[0;36m\][\w]\$\[\e[m\] '
+elif [ -n "$SSH_CLIENT" ]; then text=" ssh-session";
+    PS1='\[\e[0;33m\]\u@\[\e[1;34m\]\h:\w${text}$\[\e[m\] '
+else 
+    PS1='\[\e[0;33m\]\u@\[\e[1;35m\]\h:\[\e[1;33m\][\w]\$\[\e[m\] '
+fi
+
+export PS1
