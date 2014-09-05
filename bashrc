@@ -56,21 +56,21 @@ if [ -n "$force_color_prompt" ]; then
     fi
 fi
 
-if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
-else
-    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
-fi
+#if [ "$color_prompt" = yes ]; then
+#    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+#else
+#    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
+#fi
 unset color_prompt force_color_prompt
 
 # If this is an xterm set the title to user@host:dir
-case "$TERM" in
-xterm*|rxvt*)
-    PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
-    ;;
-*)
-    ;;
-esac
+#case "$TERM" in
+#xterm*|rxvt*)
+#    PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
+#    ;;
+#*)
+#    ;;
+#esac
 
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
@@ -115,12 +115,12 @@ if ! shopt -oq posix; then
   fi
 fi
 
-if [ $(id -u) -eq 0 ]; then
-    PS1='\[\e[0;31m\]\u@\[\e[0;31m\]\h\[\e[1;35m\]@local:\[\e[0;36m\][\w]\$\[\e[m\] '
-elif [ -n "$SSH_CLIENT" ]; then text=" ssh-session";
-    PS1='\[\e[0;33m\]\u@\[\e[1;34m\]\h:\w${text}$\[\e[m\] '
-else 
-    PS1='\[\e[0;33m\]\u@\[\e[1;35m\]\h:\[\e[1;33m\][\w]\$\[\e[m\] '
-fi
+#if [ $(id -u) -eq 0 ]; then
+#    PS1='\[\e[0;31m\]\u@\[\e[0;31m\]\h\[\e[1;35m\]@local:\[\e[0;36m\][\w]\$\[\e[m\] '
+#elif [ -n "$SSH_CLIENT" ]; then text=" ssh-session";
+#    PS1='\[\e[0;33m\]\u@\[\e[1;34m\]\h:\w${text}$\[\e[m\] '
+#else 
+#    PS1='\[\e[0;33m\]\u@\[\e[1;35m\]\h:\[\e[1;33m\][\w]\$\[\e[m\] '
+#fi
 
-export PS1
+#export PS1
