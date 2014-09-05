@@ -2,6 +2,9 @@
 set encoding=UTF-8
 au BufRead,BufNewFile * start
 
+set nobackup
+set noswapfile
+
 " mouse support
 set mouse=a 
 
