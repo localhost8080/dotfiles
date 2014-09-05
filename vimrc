@@ -34,12 +34,12 @@ set noshowmode
 
 " syntax highlighting
 syntax enable
-if has('gui_running')
-    set background=dark
-    colorscheme solarized
-else
-    set background=light
-endif
+" if has('gui_running')
+set background=dark
+colorscheme solarized
+" else
+" set background=light
+" endif
 
 " also yank to X clipboard, requires +X11 +clipboard
 set clipboard=unnamedplus
@@ -133,3 +133,20 @@ if !has('gui_running')
         au InsertLeave * set timeoutlen=1000
     augroup END
 endif
+
+autocmd VimEnter * NERDTree
+autocmd VimEnter * wincmd p
+
+function! s:CloseIfOnlyControlWinLeft()
+    if winnr("$") != 1
+        return
+    endif
+    if (exists("t:NERDTreeBufName") && bufwinnr(t:NERDTreeBufName) != -1)
+            \ || &buftype == 'quickfix'
+        q
+    endif
+endfunction
+augroup CloseIfOnlyControlWinLeft
+    au!
+    au BufEnter * call s:CloseIfOnlyControlWinLeft()
+augroup END
