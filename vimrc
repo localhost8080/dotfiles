@@ -2,6 +2,9 @@
 set encoding=UTF-8
 au BufRead,BufNewFile * start
 
+" mouse support
+set mouse=a 
+
 " vundle package manager
 set nocompatible
 set t_Co=256
