@@ -4,8 +4,10 @@ au BufRead,BufNewFile * start
 
 " vundle package manager
 set nocompatible
+set t_Co=256
 filetype off
 set rtp+=~/.vim/bundle/vundle/
+
 call vundle#rc()
 Bundle 'gmarik/Vundle.vim'
 
