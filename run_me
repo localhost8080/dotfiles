@@ -10,4 +10,4 @@ eval `dircolors ~/.dircolors`
 export MC_SKIN=$HOME/.config/mc/solarized.ini
 
 ln -s ~/.local/share/themes ~/.themes
-
+ln -s ~/.config/sublime-text-3 ~/.sublime-text-3
