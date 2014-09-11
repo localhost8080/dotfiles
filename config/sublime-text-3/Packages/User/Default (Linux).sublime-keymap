@@ -1,0 +1,15 @@
+[
+{ "keys": ["ctrl+shift+f"], "command": "reindent"},
+
+{ "keys": ["ctrl+#"],
+    "command": "run_multiple_commands",
+    "args": {
+      "commands": [
+        {"command": "git_quick_add", "context": "window"},
+      ]
+    }
+},
+
+]
+
+
