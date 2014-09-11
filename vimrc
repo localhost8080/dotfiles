@@ -4,6 +4,7 @@ au BufRead,BufNewFile * start
 
 set nobackup
 set noswapfile
+set paste
 
 " mouse support
 set mouse=a 
