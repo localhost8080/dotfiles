@@ -1,14 +1,8 @@
 [
 { "keys": ["ctrl+shift+f"], "command": "reindent"},
+{ "keys": ["ctrl+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
 
-{ "keys": ["ctrl+#"],
-    "command": "run_multiple_commands",
-    "args": {
-      "commands": [
-        {"command": "git_quick_add", "context": "window"},
-      ]
-    }
-},
+{ "keys": ["crtl+#"], "command": "side_bar_git_add_commit_push"},
 
 ]
 

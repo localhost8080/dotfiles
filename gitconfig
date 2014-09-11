@@ -11,3 +11,5 @@ ui = true
 
 [format]
 pretty = oneline
+[push]
+	default = simple

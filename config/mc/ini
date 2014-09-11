@@ -1,5 +1,6 @@
+
 [Midnight-Commander]
-verbose=1
+verbose=0
 pause_after_run=1
 shell_patterns=1
 auto_save_setup=1
@@ -85,6 +86,7 @@ filepos_max_saved_entries=1024
 
 keymap=mc.keymap
 
+
 [Layout]
 message_visible=1
 keybar_visible=1
@@ -95,9 +97,10 @@ menubar_visible=1
 free_space=1
 horizontal_split=0
 vertical_equal=1
-left_panel_size=96
+left_panel_size=99
 horizontal_equal=1
 top_panel_size=1
+
 
 [Misc]
 timeformat_recent=%b %e %H:%M
@@ -117,6 +120,8 @@ xterm=
 color_terminals=
 
 linux=
+
+xterm-256color=
 
 [Panels]
 show_mini_info=true
