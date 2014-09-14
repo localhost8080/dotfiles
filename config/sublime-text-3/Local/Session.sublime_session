@@ -1,32 +1,97 @@
 {
 	"folder_history":
 	[
+		"/Users/localhost8080/Documents/Documents/development/multiloquent",
 		"/home/localhost/.config",
 		"/home/localhost/zend-eclipse-php/workspace/mybpos",
 		"/home/localhost/zend-eclipse-php/workspace/kelly"
 	],
 	"last_version": 3065,
-	"last_window_id": 10,
+	"last_window_id": 16,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 788.0,
+		"new_window_height": 828.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"multi",
+						"multiloquent_post_title(12"
+					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 247.0,
 				"selected_items":
 				[
 					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"g pus",
+						"Git: Push"
+					],
+					[
+						"g q c",
+						"Git: Quick Commit"
+					],
+					[
+						"g q a",
+						"Git: Quick Add"
+					],
+					[
+						"q c",
+						"Git: Quick Commit"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"qui",
+						"Git: Quick Add"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Quick Commit"
+					],
+					[
+						"quic",
+						"Git: Quick Add"
+					],
+					[
+						"git q",
+						"Git: Quick Add"
+					],
+					[
 						"git",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Quick Add"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"git add",
 						"Git: Add..."
 					],
 					[
@@ -36,14 +101,6 @@
 					[
 						"git qui",
 						"Git: Quick Commit"
-					],
-					[
-						"git add",
-						"Git: Add..."
-					],
-					[
-						"git pu",
-						"Git: Push"
 					],
 					[
 						"git qu",
@@ -66,10 +123,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
 						"package install",
 						"Package Control: Install Package"
 					],
@@ -82,13 +135,30 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 746.0
+				"width": 732.0
 			},
 			"console":
 			{
-				"height": 146.0,
+				"height": 284.0,
 				"history":
 				[
+					"sublime.log_commands(True)",
+					"window.run_command(\"git_quick_add\");",
+					"self.window.run_command(\"git_quick_add\");",
+					"sublime.log_commands(True)",
+					"self.window.run_command(\"git_add_choice\")",
+					"sublime.log_commands(False)",
+					"sublime.run_command(\"git_add_choice\")",
+					"cls",
+					"clear",
+					"sublime.run_command(\"git_push\")",
+					"ApplicationCommand: sublime.run_command(\"git_push\")",
+					"sublime.log_commands(True)",
+					"view.run_command(\"git_quick_commit\");",
+					"view.run_command(\"git_add\");",
+					"\"command\": \"git_add\"",
+					"command: \"git_add\"",
+					"git_add",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
 				]
 			},
@@ -103,13 +173,37 @@
 			},
 			"file_history":
 			[
+				"/Users/localhost8080/.config/sublime-text-3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/author.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/home.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/front-page.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/function-definitions.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/breadcrumb.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/advert.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/archive.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/searchform.php",
+				"/Users/localhost8080/.config/sublime-text-3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/header.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/contact-us.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/run-multiple-commands.py",
+				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.py",
+				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
+				"/home/localhost/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
+				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/refer.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilderPOP.php",
 				"/home/localhost/Desktop/todo:",
 				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/localhost/Desktop/need to prune the tagadab server of old sites:",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
 				"/home/localhost/zend-eclipse-php/workspace/ferrari/card_details.php",
 				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
@@ -167,11 +261,11 @@
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 22.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
 				]
@@ -256,7 +350,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 22.0
 			},
 			"input":
 			{
@@ -271,9 +365,17 @@
 			{
 				"height": 118.0
 			},
+			"output.git-commit":
+			{
+				"height": 118.0
+			},
+			"output.git-push":
+			{
+				"height": 373.0
+			},
 			"replace":
 			{
-				"height": 64.0
+				"height": 40.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -304,13 +406,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 320.0,
+			"side_bar_width": 298.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1363.0
+		"new_window_width": 1383.0
 	},
 	"windows":
 	[
@@ -319,31 +421,19 @@
 			{
 				"selected_items":
 				[
+					[
+						"multi",
+						"multiloquent_post_title(12"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+					"file": "/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/.htaccess",
 					"settings":
 					{
-						"buffer_size": 252,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
-					"settings":
-					{
-						"buffer_size": 995,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
-					"settings":
-					{
-						"buffer_size": 159,
+						"buffer_size": 21083,
 						"line_ending": "Unix"
 					}
 				}
@@ -351,16 +441,72 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 215.0,
+				"height": 247.0,
 				"selected_items":
 				[
 					[
-						"git add",
-						"Git: Add..."
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"g pus",
+						"Git: Push"
+					],
+					[
+						"g q c",
+						"Git: Quick Commit"
+					],
+					[
+						"g q a",
+						"Git: Quick Add"
+					],
+					[
+						"q c",
+						"Git: Quick Commit"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"qui",
+						"Git: Quick Add"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Quick Commit"
+					],
+					[
+						"quic",
+						"Git: Quick Add"
+					],
+					[
+						"git q",
+						"Git: Quick Add"
 					],
 					[
 						"git",
-						"Git: Push"
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Quick Add"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"git add",
+						"Git: Add..."
 					],
 					[
 						"git pus",
@@ -369,10 +515,6 @@
 					[
 						"git qui",
 						"Git: Quick Commit"
-					],
-					[
-						"git pu",
-						"Git: Push"
 					],
 					[
 						"git qu",
@@ -395,10 +537,6 @@
 						"Package Control: Install Package"
 					],
 					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
 						"package install",
 						"Package Control: Install Package"
 					],
@@ -411,13 +549,18 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 746.0
+				"width": 732.0
 			},
 			"console":
 			{
 				"height": 284.0,
 				"history":
 				[
+					"sublime.log_commands(True)",
+					"window.run_command(\"git_quick_add\");",
+					"self.window.run_command(\"git_quick_add\");",
+					"sublime.log_commands(True)",
+					"self.window.run_command(\"git_add_choice\")",
 					"sublime.log_commands(False)",
 					"sublime.run_command(\"git_add_choice\")",
 					"cls",
@@ -442,20 +585,39 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/localhost/zend-eclipse-php/workspace/mybpos"
-			],
 			"file_history":
 			[
+				"/Users/localhost8080/.config/sublime-text-3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/author.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/home.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/front-page.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/function-definitions.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/breadcrumb.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/advert.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/archive.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/searchform.php",
+				"/Users/localhost8080/.config/sublime-text-3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/header.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/contact-us.php",
 				"/home/localhost/.config/sublime-text-3/Packages/User/run-multiple-commands.py",
+				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.py",
+				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
+				"/home/localhost/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
 				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/refer.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilderPOP.php",
 				"/home/localhost/Desktop/todo:",
 				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
 				"/home/localhost/Desktop/need to prune the tagadab server of old sites:",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
 				"/home/localhost/zend-eclipse-php/workspace/ferrari/card_details.php",
 				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
@@ -513,11 +675,11 @@
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 22.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
 				]
@@ -600,13 +762,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/home/localhost/zend-eclipse-php/workspace/mybpos"
-				}
-			],
 			"groups":
 			[
 				{
@@ -615,24 +770,24 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+							"file": "/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/.htaccess",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 252,
+								"buffer_size": 21083,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										249,
-										249
+										0,
+										0
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -640,69 +795,13 @@
 							},
 							"stack_index": 0,
 							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 995,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										992,
-										992
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/PHP/PHP.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 430.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 159,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										156,
-										156
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
 						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 22.0
 			},
 			"input":
 			{
@@ -739,11 +838,19 @@
 			{
 				"height": 118.0
 			},
-			"position": "0,1,0,0,0,1659,151,3022,939,3280,1200",
+			"output.git-commit":
+			{
+				"height": 118.0
+			},
+			"output.git-push":
+			{
+				"height": 373.0
+			},
+			"position": "0 45 24 1383 850 0 0 1440 877 ",
 			"project": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 40.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -778,12 +885,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 320.0,
+			"side_bar_width": 298.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 9,
+			"window_id": 16,
 			"workspace_name": ""
 		}
 	],

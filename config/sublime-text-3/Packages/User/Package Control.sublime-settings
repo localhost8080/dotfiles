@@ -3,11 +3,13 @@
 	[
 		"All Autocomplete",
 		"GitGutter",
+		"Google Spell Check",
 		"Phpcs",
 		"SideBarGit",
 		"SublimeGit",
 		"Theme - Numix",
 		"Theme - Soda SolarizedDark",
-		"Theme - Sodarized"
+		"Theme - Sodarized",
+		"WordCount"
 	]
 }

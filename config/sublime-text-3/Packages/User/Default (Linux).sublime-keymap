@@ -1,9 +1,7 @@
 [
-{ "keys": ["ctrl+shift+f"], "command": "reindent"},
-{ "keys": ["ctrl+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
-
-{ "keys": ["crtl+#"], "command": "side_bar_git_add_commit_push"},
-
+    { "keys": ["ctrl+shift+f"], "command": "reindent","args": {"single_line": false} },
+    { "keys": ["ctrl+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+    { "keys": ["ctrl+#"], "command": "side_bar_git_add_commit_push"},
 ]
 
 

@@ -142,6 +142,8 @@ export LESS_TERMCAP_us=$'\E[04;38;5;146m' # begin underline
 
 #export PS1
 
+export PATH=$PATH:~/bin:~/.bin
+
 if [[ ${EUID} == 0 ]] ; 
 then
     sq_color="\[\033[0;31m\]"

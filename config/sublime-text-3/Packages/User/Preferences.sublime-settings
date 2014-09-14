@@ -1,6 +1,5 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
-    "theme": "Sodarized Light 3.sublime-theme",
 	"detect_indentation": false,
 	"font_size": 11,
 	"ignored_packages":
@@ -9,6 +8,7 @@
 	],
 	"indent_to_bracket": false,
 	"tab_size": 4,
+	"theme": "Sodarized Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"use_tab_stops": true
 }
