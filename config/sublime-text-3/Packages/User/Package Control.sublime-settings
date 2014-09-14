@@ -1,11 +1,12 @@
 {
 	"installed_packages":
 	[
-		"All Autocomplete",
+		"DocBlockr",
 		"GitGutter",
-		"Google Spell Check",
 		"Phpcs",
+		"PHPUnit Completions",
 		"SideBarGit",
+		"SublimeCodeIntel",
 		"SublimeGit",
 		"Theme - Numix",
 		"Theme - Soda SolarizedDark",
