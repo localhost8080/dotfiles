@@ -3,3 +3,4 @@
     { "keys": ["super+h"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
     { "keys": ["super+;"], "command": "side_bar_git_add_commit_push"},
 ]
+

@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"CodeFormatter",
 		"DocBlockr",
 		"GitGutter",
 		"Phpcs",
