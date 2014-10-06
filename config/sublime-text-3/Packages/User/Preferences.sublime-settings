@@ -1,4 +1,5 @@
 {
+	"auto_match_enabled": false,
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
