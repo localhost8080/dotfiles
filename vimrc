@@ -141,7 +141,7 @@ if !has('gui_running')
     augroup END
 endif
 
-autocmd VimEnter * NERDTree
+"autocmd VimEnter * NERDTree
 autocmd VimEnter * wincmd p
 
 function! s:CloseIfOnlyControlWinLeft()
