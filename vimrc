@@ -19,7 +19,7 @@ call vundle#rc()
 Bundle 'gmarik/Vundle.vim'
 
 " packages
-Bundle 'vim-scripts/The-NERD-tree'
+"Bundle 'vim-scripts/The-NERD-tree'
 Bundle 'msanders/snipmate.vim'
 Bundle 'wavded/vim-stylus'
 Bundle 'digitaltoad/vim-jade'
