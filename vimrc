@@ -96,10 +96,10 @@ let g:pyflakes_use_quickfix=0
 map <C-p> :Lodgeit<CR>
 
 " NERDTree settings
-let NERDTreeChDirMode=2
-let NERDTreeIgnore=['\.vim$', '\~$', '\.pyc$', '^\.']
-let NERDTreeShowBookmarks=1
-map <F3> :NERDTreeToggle<CR>
+"let NERDTreeChDirMode=2
+"let NERDTreeIgnore=['\.vim$', '\~$', '\.pyc$', '^\.']
+"let NERDTreeShowBookmarks=1
+"map <F3> :NERDTreeToggle<CR>
 
 
 " python related settings
