@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+<<<<<<< HEAD
 		"/Users/localhost8080/Documents/Documents/development/multiloquent",
 		"/home/localhost/.config",
 		"/home/localhost/zend-eclipse-php/workspace/mybpos",
@@ -12,6 +13,32 @@
 	"settings":
 	{
 		"new_window_height": 855.0,
+=======
+		"/home/localhost/zend-eclipse-php/workspace/chocolate",
+		"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions",
+		"/home/localhost/zend-eclipse-php/workspace/mybpos",
+		"/home/localhost",
+		"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap",
+		"/home/localhost/zend-eclipse-php/workspace/shanks",
+		"/home/localhost/zend-eclipse-php/workspace/kelly",
+		"/home/localhost/zend-eclipse-php/workspace/boston",
+		"/home/localhost/zend-eclipse-php/workspace/fpsg",
+		"/home/localhost/zend-eclipse-php/workspace/fpsg/assets",
+		"/home/localhost/zend-eclipse-php/workspace/core",
+		"/home/localhost/zend-eclipse-php/workspace/sage-ordering-portal",
+		"/home/localhost/zend-eclipse-php/workspace/ferrari",
+		"/home/localhost/zend-eclipse-php/workspace/computer-megastore",
+		"/home/localhost/zend-eclipse-php/workspace/carvantruck",
+		"/Users/localhost8080/Documents/Documents/development/multiloquent",
+		"/home/localhost/.config"
+	],
+	"last_version": 3065,
+	"last_window_id": 81,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 935.0,
+>>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -31,10 +58,102 @@
 				"selected_items":
 				[
 					[
+<<<<<<< HEAD
+=======
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"g pus",
+						"Git: Push"
+					],
+					[
+						"g q c",
+						"Git: Quick Commit"
+					],
+					[
+						"g q a",
+						"Git: Quick Add"
+					],
+					[
+						"q c",
+						"Git: Quick Commit"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"qui",
+						"Git: Quick Add"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Quick Commit"
+					],
+					[
+						"quic",
+						"Git: Quick Add"
+					],
+					[
+						"git q",
+						"Git: Quick Add"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Quick Add"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git qui",
+						"Git: Quick Commit"
+					],
+					[
+						"git qu",
+						"Git: Quick Commit"
+					],
+					[
+						"git a",
+						"Git: Add..."
+					],
+					[
+>>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 						"install",
 						"Package Control: Install Package"
 					],
 					[
+<<<<<<< HEAD
 						"inst",
 						"Package Control: Install Package"
 					],
@@ -45,6 +164,513 @@
 					[
 						"packa",
 						"Package Control: Remove Package"
+=======
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 732.0
+			},
+			"console":
+			{
+				"height": 284.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"window.run_command(\"git_quick_add\");",
+					"self.window.run_command(\"git_quick_add\");",
+					"sublime.log_commands(True)",
+					"self.window.run_command(\"git_add_choice\")",
+					"sublime.log_commands(False)",
+					"sublime.run_command(\"git_add_choice\")",
+					"cls",
+					"clear",
+					"sublime.run_command(\"git_push\")",
+					"ApplicationCommand: sublime.run_command(\"git_push\")",
+					"sublime.log_commands(True)",
+					"view.run_command(\"git_quick_commit\");",
+					"view.run_command(\"git_add\");",
+					"\"command\": \"git_add\"",
+					"command: \"git_add\"",
+					"git_add",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/assets/less/style.less",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/fragments/nav.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/index.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/fragments/modules/flexslider.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/foot.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_2.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_5.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/assets/css/style.css",
+				"/home/localhost/magazine.htm",
+				"/home/localhost/xr_main.css",
+				"/home/localhost/index_12.htm",
+				"/home/localhost/73.png",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
+				"/home/localhost/Documents/clients/firstpeoplesolutions/assets-needed",
+				"/home/localhost/dumps/firstpeoplesolutions_old.sql",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/adeodev.co.uk/subdomains/mybpos/httpdocs/assets/css/style.css",
+				"/home/localhost/Crap/frontendlab.txt",
+				"/home/localhost/Crap/ATT00001.txt",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/fragments/modules/sku_templates/sku_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/less/style.less",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/css/style.css",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/review.php",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/shp/_view2.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/page_template_5.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/shp/_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/shp/_address.php",
+				"/home/localhost/zend-eclipse-php/workspace/boston/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/boston/page_template_5.php",
+				"/home/localhost/zend-eclipse-php/workspace/boston/fragments/modules/callback.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/admin/shp_page_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_brand_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_brand_adv.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_brand_adv_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/brands_tag_cloud.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/brands_tag_cloud_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_page_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_sku_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_2.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_5.php",
+				"/home/localhost/Desktop/index.htm",
+				"/run/user/1000/gvfs/ftp:host=historyofdentistry.co.uk/index.htm",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/foot.php",
+				"/home/localhost/Desktop/kelvin multilevel brands",
+				"/home/localhost/Desktop/alex_worldpay_footer.html",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/index.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/flexslider.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/css/flexslider.css",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/facebook-like-box.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/functions.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/sku.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/sendmails.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/cat.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/.htaccess",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/list.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/product_cl.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_basket.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/checkout.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/worldpay.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/basket_cl.php",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/style.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/header.php",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/car.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/skin.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/flexslider.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/slideshow.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/SpryTabbedPanelsDisplay.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/colorbox.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/ie6.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/ie7.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/slide.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/SpryTabbedPanelsDisplay2.css",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_shipping.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/html_cl.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/movedb/get_users.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/js/geo.js",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/gallery.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/basket.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/basket_right.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/basefeed.xml",
+				"/home/localhost/Desktop/alex_worldpay_header.html",
+				"/home/localhost/Desktop/todo 2",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/header.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/contact-us.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpdkk.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpeur.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpsek.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpusd.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/accessibility.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/terms.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/privacy.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/delivery.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/confirm.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/_geo.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/top_nav.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_bubble.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/_currency.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/js_load.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/lists.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_label_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_services_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_matrix_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_mini_basket.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/core/admin/components/filemanager/config/config.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/130.193.80.234/var/www/vhosts/core/admin/components/filemanager/config/config.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_proxy_user.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/core/admin/manual_orders/users.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_pwdreset.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_login_logged_in.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_login.php",
+				"/home/localhost/Desktop/todo:",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/adeogroup.co.uk/subdomains/shanks/httpdocs/shp/sku.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/admin/brands_tag_cloud_view.php"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"btn btn-primary mb",
+					"<a onclick=\"return(xr_nn());\"",
+					"xr_ap",
+					".xr_ap",
+					"<p></p>",
+					"&nbsp;",
+					"<table>",
+					"helpImg/",
+					"drop table",
+					"=@@",
+					"&mdash;",
+					"&rsquo;",
+					"bread",
+					"  ",
+					" ",
+					"){",
+					"?>",
+					"http://www.alexshanks.com",
+					"select",
+					"here",
+					"font",
+					"font-family",
+					"muli",
+					"muil",
+					"shanks.adeogroup.co.uk",
+					"www.alexshanks.com",
+					"nav",
+					"shanks.adeogroup.co.uk",
+					"POA",
+					" '",
+					"  ",
+					"parent",
+					"?>",
+					"page_cont",
+					"$parent",
+					"<span class=\"req\">*</span></span></td><td width=\"50%\">';",
+					"echo '<tr><td width=\"50%\"><span class=\"blue_form\">",
+					"col-sm-9",
+					"col-sm-2",
+					"){",
+					"delete",
+					"?><?php",
+					"<?PHP",
+					"?><?php",
+					"<?PHP",
+					"ereg",
+					"enctype",
+					"left_menu",
+					"}\n",
+					"solution-pan",
+					"AB44",
+					"whatistheis",
+					"echo '",
+					"'postcode'",
+					"	",
+					"sku_id",
+					"where",
+					"sv.sku_id",
+					"	",
+					"wpr01086",
+					"	",
+					"		",
+					"	",
+					"		",
+					"\n",
+					"  ",
+					"	",
+					"		",
+					"div",
+					"<span></span>",
+					"<div></div>",
+					"<span></span>",
+					"<span><div></div></span>",
+					"&nbsp;",
+					"<div><span><div>&nbsp;</div></span></div>",
+					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
+					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
+					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
+					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
+					"<span >",
+					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
+					"    ",
+					"www_page",
+					"	",
+					"		",
+					"£",
+					"/",
+					"£",
+					"and",
+					"_gaq",
+					"function n",
+					","
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"btn btn-primary mb form-control",
+					"<a class=\"btn btn-primary\"",
+					"",
+					"<table class=\"table\">",
+					"http://www.adeogroup.co.uk/assets/tiny_mce_help/",
+					"",
+					"-",
+					"'",
+					"",
+					") {",
+					"http://shanks.adeogroup.co.uk",
+					"www.alexshanks.com",
+					"shanks.adeogroup.co.uk",
+					"www.alexshanks.com",
+					"0",
+					"'",
+					"",
+					"form",
+					"$_page_content",
+					"<span class=\"text-danger\">\n                                    *\n                                </span>\n                            </label>\n                            <div class=\"col-sm-8\">",
+					"<div class=\"form-group\">\n                            <label class=\"col-sm-3 control-label\">",
+					"col-sm-8",
+					"col-sm-3",
+					"",
+					"<?php",
+					"",
+					"<?php",
+					"form_submitted",
+					"",
+					"postcode",
+					"",
+					"sku_id;",
+					" where",
+					"v.sku_id",
+					"",
+					" ",
+					"p",
+					"",
+					"<span>",
+					"",
+					"-",
+					"",
+					"or",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"output.git-commit":
+			{
+				"height": 118.0
+			},
+			"output.git-push":
+			{
+				"height": 373.0
+			},
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"_view",
+						"shp/_view2.php"
+					],
+					[
+						"flexslider",
+						"fragments/modules/flexslider.php"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"sku",
+						"shp/sku.php"
+					],
+					[
+						"function",
+						"lib/functions.php"
+					],
+					[
+						"html_cl",
+						"lib/html_cl.php"
+					],
+					[
+						"baske",
+						"lib/basket_cl.php"
+					],
+					[
+						"cpanelm",
+						"shp/cpanelMenu.php"
+					],
+					[
+						"html",
+						"lib/html_cl.php"
+					],
+					[
+						"shp_grou",
+						"admin/shp_group_view.php"
+					],
+					[
+						"shp_sku_",
+						"admin/shp_sku_view.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 256.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1372.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"multi",
+						"multiloquent_post_title(12"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "change\n\n8 to 7\n9 to 8\n4 to 9\n5 to 4\n8 to 5\n",
+					"settings":
+					{
+						"buffer_size": 43,
+						"line_ending": "Unix",
+						"name": "change"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+>>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 					],
 					[
 						"pack in",
@@ -131,10 +757,6 @@
 						"Git: Commit"
 					],
 					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
 						"package install",
 						"Package Control: Install Package"
 					],
@@ -181,6 +803,7 @@
 			},
 			"file_history":
 			[
+<<<<<<< HEAD
 				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/.htaccess",
 				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/robots.txt",
 				"/Users/localhost8080/Documents/Documents/development/multiloquent/yarpp-template-multiloquent.php",
@@ -309,6 +932,136 @@
 				"/home/localhost/Desktop/information needed",
 				"/home/localhost/Downloads/uni/q4b.txt",
 				"/home/localhost/Downloads/uni/q4a.txt"
+=======
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/assets/less/style.less",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/fragments/nav.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/index.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/fragments/modules/flexslider.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/foot.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_2.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_5.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/assets/css/style.css",
+				"/home/localhost/magazine.htm",
+				"/home/localhost/xr_main.css",
+				"/home/localhost/index_12.htm",
+				"/home/localhost/73.png",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
+				"/home/localhost/Documents/clients/firstpeoplesolutions/assets-needed",
+				"/home/localhost/dumps/firstpeoplesolutions_old.sql",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/adeodev.co.uk/subdomains/mybpos/httpdocs/assets/css/style.css",
+				"/home/localhost/Crap/frontendlab.txt",
+				"/home/localhost/Crap/ATT00001.txt",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/fragments/modules/sku_templates/sku_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/less/style.less",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/css/style.css",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/review.php",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/shp/_view2.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/page_template_5.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/shp/_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/shp/_address.php",
+				"/home/localhost/zend-eclipse-php/workspace/boston/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/boston/page_template_5.php",
+				"/home/localhost/zend-eclipse-php/workspace/boston/fragments/modules/callback.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/admin/shp_page_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_brand_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_brand_adv.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_brand_adv_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/brands_tag_cloud.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/brands_tag_cloud_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_page_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_sku_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_2.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_5.php",
+				"/home/localhost/Desktop/index.htm",
+				"/run/user/1000/gvfs/ftp:host=historyofdentistry.co.uk/index.htm",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/foot.php",
+				"/home/localhost/Desktop/kelvin multilevel brands",
+				"/home/localhost/Desktop/alex_worldpay_footer.html",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/index.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/flexslider.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/css/flexslider.css",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/facebook-like-box.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/functions.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/sku.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/sendmails.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/cat.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/.htaccess",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/list.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/product_cl.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_basket.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/checkout.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/worldpay.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/basket_cl.php",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/style.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/header.php",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/car.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/skin.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/flexslider.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/slideshow.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/SpryTabbedPanelsDisplay.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/colorbox.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/ie6.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/ie7.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/slide.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/SpryTabbedPanelsDisplay2.css",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_shipping.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/html_cl.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/movedb/get_users.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/js/geo.js",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/gallery.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/basket.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/basket_right.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/basefeed.xml",
+				"/home/localhost/Desktop/alex_worldpay_header.html",
+				"/home/localhost/Desktop/todo 2",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/header.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/contact-us.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpdkk.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpeur.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpsek.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpusd.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/accessibility.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/terms.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/privacy.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/delivery.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/confirm.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/_geo.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/top_nav.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_bubble.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/_currency.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/js_load.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/lists.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_label_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_services_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_matrix_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_mini_basket.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/core/admin/components/filemanager/config/config.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/130.193.80.234/var/www/vhosts/core/admin/components/filemanager/config/config.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_proxy_user.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/core/admin/manual_orders/users.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_pwdreset.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_login_logged_in.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_login.php",
+				"/home/localhost/Desktop/todo:",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/adeogroup.co.uk/subdomains/shanks/httpdocs/shp/sku.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/admin/brands_tag_cloud_view.php"
+>>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 			],
 			"find":
 			{
@@ -326,12 +1079,67 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+<<<<<<< HEAD
 					"render_tags",
 					"style",
 					"(!",
 					"multiloquent_menu",
 					"style",
 					"333333",
+=======
+					"btn btn-primary mb",
+					"<a onclick=\"return(xr_nn());\"",
+					"xr_ap",
+					".xr_ap",
+					"<p></p>",
+					"&nbsp;",
+					"<table>",
+					"helpImg/",
+					"drop table",
+					"=@@",
+					"&mdash;",
+					"&rsquo;",
+					"bread",
+					"  ",
+					" ",
+					"){",
+					"?>",
+					"http://www.alexshanks.com",
+					"select",
+					"here",
+					"font",
+					"font-family",
+					"muli",
+					"muil",
+					"shanks.adeogroup.co.uk",
+					"www.alexshanks.com",
+					"nav",
+					"shanks.adeogroup.co.uk",
+					"POA",
+					" '",
+					"  ",
+					"parent",
+					"?>",
+					"page_cont",
+					"$parent",
+					"<span class=\"req\">*</span></span></td><td width=\"50%\">';",
+					"echo '<tr><td width=\"50%\"><span class=\"blue_form\">",
+					"col-sm-9",
+					"col-sm-2",
+					"){",
+					"delete",
+					"?><?php",
+					"<?PHP",
+					"?><?php",
+					"<?PHP",
+					"ereg",
+					"enctype",
+					"left_menu",
+					"}\n",
+					"solution-pan",
+					"AB44",
+					"whatistheis",
+>>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 					"echo '",
 					"'postcode'",
 					"	",
@@ -382,7 +1190,38 @@
 				"regex": false,
 				"replace_history":
 				[
+<<<<<<< HEAD
 					"( !",
+=======
+					"btn btn-primary mb form-control",
+					"<a class=\"btn btn-primary\"",
+					"",
+					"<table class=\"table\">",
+					"http://www.adeogroup.co.uk/assets/tiny_mce_help/",
+					"",
+					"-",
+					"'",
+					"",
+					") {",
+					"http://shanks.adeogroup.co.uk",
+					"www.alexshanks.com",
+					"shanks.adeogroup.co.uk",
+					"www.alexshanks.com",
+					"0",
+					"'",
+					"",
+					"form",
+					"$_page_content",
+					"<span class=\"text-danger\">\n                                    *\n                                </span>\n                            </label>\n                            <div class=\"col-sm-8\">",
+					"<div class=\"form-group\">\n                            <label class=\"col-sm-3 control-label\">",
+					"col-sm-8",
+					"col-sm-3",
+					"",
+					"<?php",
+					"",
+					"<?php",
+					"form_submitted",
+>>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 					"",
 					"postcode",
 					"",
@@ -406,6 +1245,152 @@
 				"whole_word": false,
 				"wrap": true
 			},
+<<<<<<< HEAD
+=======
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 43,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										43,
+										43
+									]
+								],
+								"settings":
+								{
+									"WordCountShouldRun": true,
+									"WordCountSyntax": "plain text",
+									"auto_name": "change",
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": -0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+>>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 			"incremental_find":
 			{
 				"height": 22.0
@@ -431,6 +1416,11 @@
 			{
 				"height": 373.0
 			},
+<<<<<<< HEAD
+=======
+			"position": "0,0,0,0,0,59,10,1344,332,3280,1200",
+			"project": "",
+>>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 			"replace":
 			{
 				"height": 40.0
@@ -441,6 +1431,677 @@
 				"height": 0.0,
 				"selected_items":
 				[
+<<<<<<< HEAD
+=======
+					[
+						"_view",
+						"shp/_view2.php"
+					],
+					[
+						"flexslider",
+						"fragments/modules/flexslider.php"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"sku",
+						"shp/sku.php"
+					],
+					[
+						"function",
+						"lib/functions.php"
+					],
+					[
+						"html_cl",
+						"lib/html_cl.php"
+					],
+					[
+						"baske",
+						"lib/basket_cl.php"
+					],
+					[
+						"cpanelm",
+						"shp/cpanelMenu.php"
+					],
+					[
+						"html",
+						"lib/html_cl.php"
+					],
+					[
+						"shp_grou",
+						"admin/shp_group_view.php"
+					],
+					[
+						"shp_sku_",
+						"admin/shp_sku_view.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 256.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 81,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"multi",
+						"multiloquent_post_title(12"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"g pus",
+						"Git: Push"
+					],
+					[
+						"g q c",
+						"Git: Quick Commit"
+					],
+					[
+						"g q a",
+						"Git: Quick Add"
+					],
+					[
+						"q c",
+						"Git: Quick Commit"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"qui",
+						"Git: Quick Add"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Quick Commit"
+					],
+					[
+						"quic",
+						"Git: Quick Add"
+					],
+					[
+						"git q",
+						"Git: Quick Add"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Quick Add"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git qui",
+						"Git: Quick Commit"
+					],
+					[
+						"git qu",
+						"Git: Quick Commit"
+					],
+					[
+						"git a",
+						"Git: Add..."
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 732.0
+			},
+			"console":
+			{
+				"height": 284.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"window.run_command(\"git_quick_add\");",
+					"self.window.run_command(\"git_quick_add\");",
+					"sublime.log_commands(True)",
+					"self.window.run_command(\"git_add_choice\")",
+					"sublime.log_commands(False)",
+					"sublime.run_command(\"git_add_choice\")",
+					"cls",
+					"clear",
+					"sublime.run_command(\"git_push\")",
+					"ApplicationCommand: sublime.run_command(\"git_push\")",
+					"sublime.log_commands(True)",
+					"view.run_command(\"git_quick_commit\");",
+					"view.run_command(\"git_add\");",
+					"\"command\": \"git_add\"",
+					"command: \"git_add\"",
+					"git_add",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/assets/css",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/assets/less"
+			],
+			"file_history":
+			[
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/assets/less/style.less",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/fragments/nav.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/index.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/fragments/modules/flexslider.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/foot.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_2.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_5.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/assets/css/style.css",
+				"/home/localhost/magazine.htm",
+				"/home/localhost/xr_main.css",
+				"/home/localhost/index_12.htm",
+				"/home/localhost/73.png",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
+				"/home/localhost/Documents/clients/firstpeoplesolutions/assets-needed",
+				"/home/localhost/dumps/firstpeoplesolutions_old.sql",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/adeodev.co.uk/subdomains/mybpos/httpdocs/assets/css/style.css",
+				"/home/localhost/Crap/frontendlab.txt",
+				"/home/localhost/Crap/ATT00001.txt",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/fragments/modules/sku_templates/sku_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/less/style.less",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/css/style.css",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/review.php",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/shp/_view2.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/page_template_5.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/shp/_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/kelly/shp/_address.php",
+				"/home/localhost/zend-eclipse-php/workspace/boston/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/boston/page_template_5.php",
+				"/home/localhost/zend-eclipse-php/workspace/boston/fragments/modules/callback.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/admin/shp_page_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_brand_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_brand_adv.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_brand_adv_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/brands_tag_cloud.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/brands_tag_cloud_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_page_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/admin/shp_sku_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_2.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/page_template_5.php",
+				"/home/localhost/Desktop/index.htm",
+				"/run/user/1000/gvfs/ftp:host=historyofdentistry.co.uk/index.htm",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/foot.php",
+				"/home/localhost/Desktop/kelvin multilevel brands",
+				"/home/localhost/Desktop/alex_worldpay_footer.html",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/index.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/flexslider.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/css/flexslider.css",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/facebook-like-box.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/functions.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/sku.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/sendmails.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/cat.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/.htaccess",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/list.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/product_cl.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_basket.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/checkout.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/worldpay.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/basket_cl.php",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/style.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/header.php",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/car.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/skin.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/flexslider.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/slideshow.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/SpryTabbedPanelsDisplay.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/colorbox.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/ie6.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/ie7.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/slide.css",
+				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/SpryTabbedPanelsDisplay2.css",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_shipping.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/html_cl.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/movedb/get_users.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/js/geo.js",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/gallery.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/basket.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/basket_right.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/basefeed.xml",
+				"/home/localhost/Desktop/alex_worldpay_header.html",
+				"/home/localhost/Desktop/todo 2",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/header.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/contact-us.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpdkk.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpeur.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpsek.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/import/currency/gbpusd.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/accessibility.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/terms.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/privacy.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/delivery.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/confirm.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/_geo.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/top_nav.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_bubble.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/_currency.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/js_load.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/lists.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_label_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_services_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_matrix_view.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_mini_basket.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/core/admin/components/filemanager/config/config.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/130.193.80.234/var/www/vhosts/core/admin/components/filemanager/config/config.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_proxy_user.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/core/admin/manual_orders/users.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_pwdreset.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_login_logged_in.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_login.php",
+				"/home/localhost/Desktop/todo:",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/adeogroup.co.uk/subdomains/shanks/httpdocs/shp/sku.php",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/admin/brands_tag_cloud_view.php"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"btn btn-primary mb",
+					"<a onclick=\"return(xr_nn());\"",
+					"xr_ap",
+					".xr_ap",
+					"<p></p>",
+					"&nbsp;",
+					"<table>",
+					"helpImg/",
+					"drop table",
+					"=@@",
+					"&mdash;",
+					"&rsquo;",
+					"bread",
+					"  ",
+					" ",
+					"){",
+					"?>",
+					"http://www.alexshanks.com",
+					"select",
+					"here",
+					"font",
+					"font-family",
+					"muli",
+					"muil",
+					"shanks.adeogroup.co.uk",
+					"www.alexshanks.com",
+					"nav",
+					"shanks.adeogroup.co.uk",
+					"POA",
+					" '",
+					"  ",
+					"parent",
+					"?>",
+					"page_cont",
+					"$parent",
+					"<span class=\"req\">*</span></span></td><td width=\"50%\">';",
+					"echo '<tr><td width=\"50%\"><span class=\"blue_form\">",
+					"col-sm-9",
+					"col-sm-2",
+					"){",
+					"delete",
+					"?><?php",
+					"<?PHP",
+					"?><?php",
+					"<?PHP",
+					"ereg",
+					"enctype",
+					"left_menu",
+					"}\n",
+					"solution-pan",
+					"AB44",
+					"whatistheis",
+					"echo '",
+					"'postcode'",
+					"	",
+					"sku_id",
+					"where",
+					"sv.sku_id",
+					"	",
+					"wpr01086",
+					"	",
+					"		",
+					"	",
+					"		",
+					"\n",
+					"  ",
+					"	",
+					"		",
+					"div",
+					"<span></span>",
+					"<div></div>",
+					"<span></span>",
+					"<span><div></div></span>",
+					"&nbsp;",
+					"<div><span><div>&nbsp;</div></span></div>",
+					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
+					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
+					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
+					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
+					"<span >",
+					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
+					"    ",
+					"www_page",
+					"	",
+					"		",
+					"£",
+					"/",
+					"£",
+					"and",
+					"_gaq",
+					"function n",
+					","
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"btn btn-primary mb form-control",
+					"<a class=\"btn btn-primary\"",
+					"",
+					"<table class=\"table\">",
+					"http://www.adeogroup.co.uk/assets/tiny_mce_help/",
+					"",
+					"-",
+					"'",
+					"",
+					") {",
+					"http://shanks.adeogroup.co.uk",
+					"www.alexshanks.com",
+					"shanks.adeogroup.co.uk",
+					"www.alexshanks.com",
+					"0",
+					"'",
+					"",
+					"form",
+					"$_page_content",
+					"<span class=\"text-danger\">\n                                    *\n                                </span>\n                            </label>\n                            <div class=\"col-sm-8\">",
+					"<div class=\"form-group\">\n                            <label class=\"col-sm-3 control-label\">",
+					"col-sm-8",
+					"col-sm-3",
+					"",
+					"<?php",
+					"",
+					"<?php",
+					"form_submitted",
+					"",
+					"postcode",
+					"",
+					"sku_id;",
+					" where",
+					"v.sku_id",
+					"",
+					" ",
+					"p",
+					"",
+					"<span>",
+					"",
+					"-",
+					"",
+					"or",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"output.git-commit":
+			{
+				"height": 118.0
+			},
+			"output.git-push":
+			{
+				"height": 373.0
+			},
+			"position": "0,0,0,0,0,133,121,1505,1056,3280,1200",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"_view",
+						"shp/_view2.php"
+					],
+					[
+						"flexslider",
+						"fragments/modules/flexslider.php"
+					],
+					[
+						"index",
+						"index.php"
+					],
+					[
+						"sku",
+						"shp/sku.php"
+					],
+					[
+						"function",
+						"lib/functions.php"
+					],
+					[
+						"html_cl",
+						"lib/html_cl.php"
+					],
+					[
+						"baske",
+						"lib/basket_cl.php"
+					],
+					[
+						"cpanelm",
+						"shp/cpanelMenu.php"
+					],
+					[
+						"html",
+						"lib/html_cl.php"
+					],
+					[
+						"shp_grou",
+						"admin/shp_group_view.php"
+					],
+					[
+						"shp_sku_",
+						"admin/shp_sku_view.php"
+					]
+>>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 				],
 				"width": 0.0
 			},
@@ -468,12 +2129,19 @@
 			"status_bar_visible": true,
 			"template_settings":
 			{
+<<<<<<< HEAD
 			}
 		},
 		"new_window_width": 1406.0
 	},
 	"windows":
 	[
+=======
+			},
+			"window_id": 79,
+			"workspace_name": ""
+		}
+>>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 	],
 	"workspaces":
 	{

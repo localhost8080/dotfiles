@@ -4,6 +4,7 @@
 		"CodeFormatter",
 		"DocBlockr",
 		"GitGutter",
+		"LESS",
 		"Phpcs",
 		"PHPUnit Completions",
 		"SideBarGit",
