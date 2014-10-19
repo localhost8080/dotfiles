@@ -137,7 +137,17 @@ export LESS_TERMCAP_us=$'\E[04;38;5;146m' # begin underline
 
 #export PS1
 
-export PATH=$PATH:~/bin:~/.bin
+
+#export PATH=$PATH:~/bin:~/.bin
+
+# set PATH so it includes user's private bin if it exists
+if [ -d "$HOME/bin" ] ; then
+    PATH="$HOME/bin:$PATH"
+fi
+
+if [ -d "$HOME/.composer/vendor/bin"]; then
+    PATH="$HOME/.composer/vendor/bin:$PATH"
+fi
 
 if [[ ${EUID} == 0 ]] ; 
 then
@@ -151,3 +161,5 @@ PS1="$sq_color\342\224\200\342\224\200\$([[ \$? != 0 ]] && echo \"[\[\033[01;37m
 unset sq_color
 #fi
 export PS1
+
+
