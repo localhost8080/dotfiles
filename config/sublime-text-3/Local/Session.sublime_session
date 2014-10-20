@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 		"/Users/localhost8080/Documents/Documents/development/multiloquent",
 		"/home/localhost/.config",
@@ -15,16 +16,19 @@
 		"new_window_height": 855.0,
 =======
 		"/home/localhost/zend-eclipse-php/workspace/chocolate",
+=======
+>>>>>>> Stashed changes
 		"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions",
-		"/home/localhost/zend-eclipse-php/workspace/mybpos",
-		"/home/localhost",
-		"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap",
 		"/home/localhost/zend-eclipse-php/workspace/shanks",
+		"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap",
+		"/home/localhost/zend-eclipse-php/workspace/core",
+		"/home/localhost/zend-eclipse-php/workspace/mybpos",
+		"/home/localhost/zend-eclipse-php/workspace/chocolate",
+		"/home/localhost",
 		"/home/localhost/zend-eclipse-php/workspace/kelly",
 		"/home/localhost/zend-eclipse-php/workspace/boston",
 		"/home/localhost/zend-eclipse-php/workspace/fpsg",
 		"/home/localhost/zend-eclipse-php/workspace/fpsg/assets",
-		"/home/localhost/zend-eclipse-php/workspace/core",
 		"/home/localhost/zend-eclipse-php/workspace/sage-ordering-portal",
 		"/home/localhost/zend-eclipse-php/workspace/ferrari",
 		"/home/localhost/zend-eclipse-php/workspace/computer-megastore",
@@ -33,12 +37,16 @@
 		"/home/localhost/.config"
 	],
 	"last_version": 3065,
-	"last_window_id": 81,
+	"last_window_id": 84,
 	"log_indexing": false,
 	"settings":
 	{
+<<<<<<< Updated upstream
 		"new_window_height": 935.0,
 >>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
+=======
+		"new_window_height": 995.0,
+>>>>>>> Stashed changes
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -219,6 +227,12 @@
 			},
 			"file_history":
 			[
+				"/home/localhost/dumps/shanks_current_order_lines.sql",
+				"/home/localhost/dumps/shanks_current_order.sql",
+				"/run/user/1000/gvfs/sftp:host=gitlab.dev,user=root/root/tmp/alexshanks 20141013 1556.sql",
+				"/home/localhost/Desktop/alex_worldpay_header.html",
+				"/home/localhost/Desktop/alex_worldpay_footer.html",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/assets/css/style.css",
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/assets/less/style.less",
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/fragments/nav.php",
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/index.php",
@@ -231,7 +245,6 @@
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_5.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/assets/css/style.css",
 				"/home/localhost/magazine.htm",
 				"/home/localhost/xr_main.css",
 				"/home/localhost/index_12.htm",
@@ -277,7 +290,6 @@
 				"/run/user/1000/gvfs/ftp:host=historyofdentistry.co.uk/index.htm",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/foot.php",
 				"/home/localhost/Desktop/kelvin multilevel brands",
-				"/home/localhost/Desktop/alex_worldpay_footer.html",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/index.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/flexslider.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/css/flexslider.css",
@@ -313,7 +325,6 @@
 				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/basket.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/basket_right.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/basefeed.xml",
-				"/home/localhost/Desktop/alex_worldpay_header.html",
 				"/home/localhost/Desktop/todo 2",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/header.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/contact-us.php",
@@ -343,10 +354,7 @@
 				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/core/admin/manual_orders/users.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_pwdreset.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_login_logged_in.php",
-				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_login.php",
-				"/home/localhost/Desktop/todo:",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/adeogroup.co.uk/subdomains/shanks/httpdocs/shp/sku.php",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/kelvinpowertools.com/httpdocs/admin/brands_tag_cloud_view.php"
+				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_login.php"
 			],
 			"find":
 			{
@@ -365,6 +373,13 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"calculator",
+					"order_item_id",
+					"shp_ord_line",
+					"  ",
+					"   ",
+					"    ",
+					"  ",
 					"btn btn-primary mb",
 					"<a onclick=\"return(xr_nn());\"",
 					"xr_ap",
@@ -467,6 +482,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"id",
+					"shp_ord",
+					" ",
 					"btn btn-primary mb form-control",
 					"<a class=\"btn btn-primary\"",
 					"",
@@ -620,13 +638,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 256.0,
+			"side_bar_width": 229.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1372.0
+		"new_window_width": 1263.0
 	},
 	"windows":
 	[
@@ -643,15 +661,6 @@
 			},
 			"buffers":
 			[
-				{
-					"contents": "change\n\n8 to 7\n9 to 8\n4 to 9\n5 to 4\n8 to 5\n",
-					"settings":
-					{
-						"buffer_size": 43,
-						"line_ending": "Unix",
-						"name": "change"
-					}
-				}
 			],
 			"build_system": "",
 			"command_palette":
@@ -803,6 +812,7 @@
 			},
 			"file_history":
 			[
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/.htaccess",
 				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/robots.txt",
@@ -933,10 +943,27 @@
 				"/home/localhost/Downloads/uni/q4b.txt",
 				"/home/localhost/Downloads/uni/q4a.txt"
 =======
+=======
+				"/home/localhost/zend-eclipse-php/workspace/devops/README.md",
+				"/home/localhost/dumps/cms-test.sql",
+>>>>>>> Stashed changes
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/assets/less/style.less",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/join.php",
+				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/fragments/modules/flexslider.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/sku.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/product_cl.php",
+				"/tmp/fz3temp-1/magazine.htm",
+				"/run/user/1000/gvfs/sftp:host=109.108.132.174,user=jonathan/var/www/vhosts/alexshanks.com/httpdocs/lib/cfg.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/basket_cl.php",
+				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/calculator_cl.php",
+				"/home/localhost/dumps/shanks_current_order_lines.sql",
+				"/home/localhost/dumps/shanks_current_order.sql",
+				"/run/user/1000/gvfs/sftp:host=gitlab.dev,user=root/root/tmp/alexshanks 20141013 1556.sql",
+				"/home/localhost/Desktop/alex_worldpay_header.html",
+				"/home/localhost/Desktop/alex_worldpay_footer.html",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/assets/css/style.css",
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/fragments/nav.php",
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/index.php",
-				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/fragments/modules/flexslider.php",
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/foot.php",
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_1.php",
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_2.php",
@@ -945,7 +972,6 @@
 				"/home/localhost/zend-eclipse-php/workspace/firstpeoplesolutions/page_template_5.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/assets/css/style.css",
 				"/home/localhost/magazine.htm",
 				"/home/localhost/xr_main.css",
 				"/home/localhost/index_12.htm",
@@ -991,22 +1017,18 @@
 				"/run/user/1000/gvfs/ftp:host=historyofdentistry.co.uk/index.htm",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/foot.php",
 				"/home/localhost/Desktop/kelvin multilevel brands",
-				"/home/localhost/Desktop/alex_worldpay_footer.html",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/index.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/flexslider.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/assets/css/flexslider.css",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/facebook-like-box.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/sku.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/sendmails.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/cat.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/.htaccess",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/list.php",
-				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/product_cl.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_basket.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/checkout.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/worldpay.php",
-				"/home/localhost/zend-eclipse-php/workspace/shanks/lib/basket_cl.php",
 				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/style.css",
 				"/home/localhost/zend-eclipse-php/workspace/fpsg/header.php",
 				"/home/localhost/zend-eclipse-php/workspace/fpsg/assets/css/car.css",
@@ -1027,7 +1049,6 @@
 				"/home/localhost/zend-eclipse-php/workspace/shanks/shp/basket.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/basket_right.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/basefeed.xml",
-				"/home/localhost/Desktop/alex_worldpay_header.html",
 				"/home/localhost/Desktop/todo 2",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/header.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/contact-us.php",
@@ -1051,6 +1072,7 @@
 				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_services_view.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/admin/mail_matrix_view.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_mini_basket.php",
+<<<<<<< Updated upstream
 				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/core/admin/components/filemanager/config/config.php",
 				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/130.193.80.234/var/www/vhosts/core/admin/components/filemanager/config/config.php",
 				"/home/localhost/zend-eclipse-php/workspace/shanks/fragments/modules/one_page_checkout/_the_proxy_user.php",
@@ -1066,6 +1088,13 @@
 			"find":
 			{
 				"height": 22.0
+=======
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/core/admin/components/filemanager/config/config.php"
+			],
+			"find":
+			{
+				"height": 37.0
+>>>>>>> Stashed changes
 			},
 			"find_in_files":
 			{
@@ -1079,6 +1108,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 					"render_tags",
 					"style",
@@ -1087,6 +1117,18 @@
 					"style",
 					"333333",
 =======
+=======
+					"--exclude '",
+					"script",
+					"                // $instock = (!empty($var['quantity']))?\"1\":\"0\";\n                                                    // echo '<pre>';\n                                                    // print_r($var);\n                                                    // echo '</pre>';",
+					"calculator",
+					"order_item_id",
+					"shp_ord_line",
+					"  ",
+					"   ",
+					"    ",
+					"  ",
+>>>>>>> Stashed changes
 					"btn btn-primary mb",
 					"<a onclick=\"return(xr_nn());\"",
 					"xr_ap",
@@ -1190,9 +1232,16 @@
 				"regex": false,
 				"replace_history":
 				[
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 					"( !",
 =======
+=======
+					"--exclude='",
+					"id",
+					"shp_ord",
+					" ",
+>>>>>>> Stashed changes
 					"btn btn-primary mb form-control",
 					"<a class=\"btn btn-primary\"",
 					"",
@@ -1250,143 +1299,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 43,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										43,
-										43
-									]
-								],
-								"settings":
-								{
-									"WordCountShouldRun": true,
-									"WordCountSyntax": "plain text",
-									"auto_name": "change",
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"codeintel_tooltips": "popup",
-									"sublime_auto_complete": true,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": -0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -1416,13 +1330,18 @@
 			{
 				"height": 373.0
 			},
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 			"position": "0,0,0,0,0,59,10,1344,332,3280,1200",
+=======
+			"position": "0,1,0,0,0,196,85,1459,1080,3280,1200",
+>>>>>>> Stashed changes
 			"project": "",
 >>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
 			"replace":
 			{
+<<<<<<< Updated upstream
 				"height": 40.0
 			},
 			"save_all_on_build": true,
@@ -2050,6 +1969,9 @@
 			"replace":
 			{
 				"height": 48.0
+=======
+				"height": 66.0
+>>>>>>> Stashed changes
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2125,7 +2047,11 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
+<<<<<<< Updated upstream
 			"side_bar_width": 295.0,
+=======
+			"side_bar_width": 229.0,
+>>>>>>> Stashed changes
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -2138,7 +2064,7 @@
 	[
 =======
 			},
-			"window_id": 79,
+			"window_id": 83,
 			"workspace_name": ""
 		}
 >>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4

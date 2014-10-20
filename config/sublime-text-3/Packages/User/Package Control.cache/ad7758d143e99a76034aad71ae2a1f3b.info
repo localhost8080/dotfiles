@@ -1,8 +1,12 @@
 {
     "etag": null, 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     "last-modified": "Fri, 10 Oct 2014 17:00:09 GMT"
 =======
     "last-modified": "Thu, 09 Oct 2014 15:10:08 GMT"
 >>>>>>> f34904e95839d4703a219982b8d51fb71f7e02e4
+=======
+    "last-modified": "Fri, 17 Oct 2014 09:10:08 GMT"
+>>>>>>> Stashed changes
 }
