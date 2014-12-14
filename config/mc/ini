@@ -92,6 +92,7 @@ keymap=mc.keymap
 
 
 
+
 [Layout]
 message_visible=1
 keybar_visible=1
@@ -105,6 +106,7 @@ vertical_equal=1
 left_panel_size=60
 horizontal_equal=1
 top_panel_size=1
+
 
 
 
