@@ -1,9 +1,10 @@
 # localhost8080's dotfiles
 
 This repository is a collection of all necessary configuration files and
-related data to run my setup.
+related data to run my setup. 
+It includes numix-solarised gtk themes, and solarized configs for as many things as I can add.
 
-![snapshot of b52's setup](https://raw.githubusercontent.com/localhost8080/dotfiles/master/screenshot.png)
+![snapshot of localhosts setup](https://raw.githubusercontent.com/localhost8080/dotfiles/master/screenshot.png)
 
 The README shall also be a reminder of how to properly set it up, involving
 the needed packages and configuration steps.
@@ -11,29 +12,20 @@ the needed packages and configuration steps.
 
 ## Installation
 
-
 ./run_me
 
 ## Packages
 
-The following packages are required in order to run the setup as it is
-intended.
+The following packages are recommended:
 
-* zsh, tmux, gnupg2, rxvt-unicode-patched, gvim
-* xmonad, xmonad-contrib, stalonetray, xmobar
-* compton-git, notify-osd, xautolock, slock
-* ttf-dejavu, proggyfonts, ttf-ms-win8, ttf-liberation
-* elementary-icon-theme, gnome-icon-theme
-* adwaita-x-dark-and-light-theme, xcursor-vanilla-dmz-aa
-* cower, fb-client
-* gmrun, parcellite
-
-The following packages are just a reminder for myself.
-
-* chrony, acpid
-* ttf-droid
-* dropbox, dropbox-cli
-* texlive-most
+* terminator
+* tmux
+* vim
+* tint2
+* openbox
+* mc
+* source-code fonts
+* tmux
 
 ## Additional Instructions
 
