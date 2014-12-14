@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+<<<<<<< HEAD
 		"/Users/localhost8080/Documents/Dropbox/uni",
 		"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown",
 		"/Users/localhost8080/Documents/Dropbox/development/multiloquent",
@@ -16,12 +17,30 @@
 	"settings":
 	{
 		"new_window_height": 760.0,
+=======
+		"/home/localhost/development/core",
+		"/home/localhost/development",
+		"/home/localhost/development/shanks",
+		"/home/localhost/development/blairquhan",
+		"/home/localhost/development/chocolate",
+		"/home/localhost/development/devops",
+		"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap",
+		"/home/localhost/zend-eclipse-php/workspace/chocolate"
+	],
+	"last_version": 3065,
+	"last_window_id": 17,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 791.0,
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+<<<<<<< HEAD
 					[
 						"ba",
 						"background-color"
@@ -34,11 +53,14 @@
 						"multi",
 						"multiloquent_post_title(12"
 					]
+=======
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
+<<<<<<< HEAD
 				"height": 93.0,
 				"selected_items":
 				[
@@ -55,10 +77,17 @@
 						"Package Control: Upgrade Package"
 					],
 					[
+=======
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 						"inst",
 						"Package Control: Install Package"
 					],
 					[
+<<<<<<< HEAD
 						"package re",
 						"Package Control: Remove Package"
 					],
@@ -184,6 +213,26 @@
 					"command: \"git_add\"",
 					"git_add",
 					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+=======
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 732.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
 				]
 			},
 			"distraction_free":
@@ -197,6 +246,243 @@
 			},
 			"file_history":
 			[
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/core/lib/email_schedule_and_specify_class.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/unitedsportsusa.com/httpdocs/lib/js_load.php",
+				"/home/localhost/Desktop/untitled.html",
+				"/home/localhost/development/devops/README.md",
+				"/home/localhost/Downloads/htaccess.txt",
+				"/home/localhost/development/mybpos/contact-us.php",
+				"/home/localhost/development/blairquhan/contact-us.php",
+				"/home/localhost/development/blairquhan/fragments/modules/home-form.php",
+				"/home/localhost/development/shanks/index.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/alexshanks.com/httpdocs/shp/sku.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/carvantruck.co.uk/httpdocs/admin/shp_sku_view.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/httpdocs/index.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/computermegastore.com/httpdocs/shp/list.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/alexshanks.com/httpdocs/foot.php",
+				"/home/localhost/development/shanks/shp/list.php",
+				"/home/localhost/development/blairquhan/page_template_2.php",
+				"/home/localhost/development/blairquhan/page_template_3.php",
+				"/home/localhost/bin/totalvalidatorbasic/ReadMe.txt",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/alexshanks.com/httpdocs/lib/cfg.php",
+				"/home/localhost/development/blairquhan/page_template_4.php",
+				"/home/localhost/development/blairquhan/page_template_5.php",
+				"/home/localhost/development/blairquhan/page_template_6.php",
+				"/home/localhost/development/blairquhan/pageBuilder.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/winepalate.co.uk/httpdocs/lib/html_cl.php",
+				"/home/localhost/development/blairquhan/page_template_1.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/adeodev.co.uk/subdomains/boston/httpdocs/lib/cfg.php",
+				"/home/localhost/Desktop/welcome_to_adeo_process.txt",
+				"/home/localhost/Documents/email_template/welcome_to_adeo/index.html",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/adeodev.co.uk/subdomains/fpsg/httpdocs/lib/cfg.php",
+				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
+				"/home/localhost/Desktop/launch.txt",
+				"/home/localhost/Desktop/wireframes.txt",
+				"/home/localhost/Desktop/brief_stage.txt",
+				"/home/localhost/Desktop/design.txt",
+				"/home/localhost/Desktop/content.txt",
+				"/home/localhost/Desktop/functionality.txt",
+				"/home/localhost/Desktop/staging.txt",
+				"/home/localhost/development/core/admin/components/filemanager/config/config.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/winepalate.co.uk/httpdocs/header.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/core/lib/sagepayForm_dev.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/bostonnetworks.co.uk/httpdocs/blog/wp-content/themes/bedsavers/header.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/bostonnetworks.co.uk/httpdocs/index.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/bostonnetworks.co.uk/httpdocs/lib/cfg.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/bostonnetworks.co.uk/httpdocs/header.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/bostonnetworks.co.uk/httpdocs/log-support.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/.htaccess",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/brands/index.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/brands/brand.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/join.php",
+				"/home/localhost/zend-eclipse-php/workspace/chocolate/shp/list.php",
+				"/home/localhost/zend-eclipse-php/workspace/devops/README.md"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"/httpdocs",
+					"/lib/login_class.php",
+					"/httpdocs/lib/login_class.php",
+					"Stage",
+					"Access",
+					"Access Control",
+					"?phpMyAdmin",
+					"?phpMyAdmin=vhnXX-pcWoy86sh9t1sOp3VanB4",
+					"?phpMyAdmin=",
+					"    </tbody>\n</table>\n<table class=\"relative\">\n    <tbody>",
+					"Celtic",
+					"phpmy",
+					"    </tbody>\n</table>\n<table class=\"relative\">\n    <tbody>",
+					"</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"Process",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 37.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 167.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1281.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/localhost/Desktop/todo:",
+					"settings":
+					{
+						"buffer_size": 650,
+						"line_ending": "Unix",
+						"name": "todo:"
+					}
+				},
+				{
+					"contents": "has md5:\n\nunitedsportsusa.com\nblairquhan.co.uk\nfpsg.com\nkellystewarthairdressing.com\ntident.org\ntrialbiters.co.uk\ninverarity121.com\neurekaaddons.co.uk\ngratefame.com\ninternetbusinessmarketing.co.uk\nadeodev.co.uk/subdomains/boston\nadeodev.co.uk/subdomains/mybpos\nadeodev.co.uk/subdomains/scott\nfirstpeoplesolutions.co.uk/subdomains/aviation\nfirstpeoplesolutions.co.uk/subdomains/construction\nfirstpeoplesolutions.co.uk/subdomains/energy\nfirstpeoplesolutions.co.uk/subdomains/international\nfirstpeoplesolutions.co.uk/subdomains/technical\nadeodev.co.uk/subdomains/firstpeoplesolutions\n\n\nhas symlink:\nchilliessouthside.com\nchillieswestend.com\nengagepsg.com\n4evaclean.com/subdomains/tradeportal\nadeodev.co.uk/subdomains/ae\nbarstandardsboard.org.uk/subdomains/elearning\ndiversitydevelopment.co.uk/subdomains/course\nadeodev.co.uk/subdomains/dentist\n\n\n\nno md5:\nallflex.co.uk\nadeodev.co.uk/subdomains/allflex\nadeodev.co.uk/subdomains/kommand\n\n\nto check:\n\n\n\n\n\n\n\nadeodev.co.uk/subdomains/dentist\nadeodev.co.uk/subdomains/firstpeoplesolutions\nadeodev.co.uk/subdomains/halo2\nadeodev.co.uk/subdomains/kommand\nadeodev.co.uk/subdomains/qd\nadeodev.co.uk/subdomains/taxi\nbarstandardsboard.org.uk/subdomains/elearning\ndiversitydevelopment.co.uk/subdomains/course\nfirstpeoplesolutions.co.uk/subdomains/aviation\nfirstpeoplesolutions.co.uk/subdomains/construction\nfirstpeoplesolutions.co.uk/subdomains/energy\nfirstpeoplesolutions.co.uk/subdomains/international\nfirstpeoplesolutions.co.uk/subdomains/technical\n\n",
+					"settings":
+					{
+						"buffer_size": 1487,
+						"line_ending": "Unix",
+						"name": "has md5:"
+					}
+				},
+				{
+					"contents": "adeodev.co.uk/subdomains/halo2\nadeodev.co.uk/subdomains/qd\n\nadeodev.co.uk/subdomains/taxi\n\n\n====\nthese ones are pretty much abandoned, but I should symlink them just incase\n\n\n\nukfast\n\n",
+					"settings":
+					{
+						"buffer_size": 184,
+						"line_ending": "Unix",
+						"name": "adeodev.co.uk/subdomains/halo2"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 732.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+<<<<<<< HEAD
 				"/Users/localhost8080/Desktop/things for discussion board",
 				"/Users/localhost8080/Documents/Dropbox/uni/IDS/Coursework/Coursework/notes.md",
 				"/Users/localhost8080/Documents/Dropbox/uni/IDS/Coursework/plan for essay.txt",
@@ -333,6 +619,67 @@
 			"find_in_files":
 			{
 				"height": 93.0,
+=======
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/core/lib/email_schedule_and_specify_class.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/unitedsportsusa.com/httpdocs/lib/js_load.php",
+				"/home/localhost/Desktop/untitled.html",
+				"/home/localhost/development/devops/README.md",
+				"/home/localhost/Downloads/htaccess.txt",
+				"/home/localhost/development/mybpos/contact-us.php",
+				"/home/localhost/development/blairquhan/contact-us.php",
+				"/home/localhost/development/blairquhan/fragments/modules/home-form.php",
+				"/home/localhost/development/shanks/index.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/alexshanks.com/httpdocs/shp/sku.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/carvantruck.co.uk/httpdocs/admin/shp_sku_view.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/httpdocs/index.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/computermegastore.com/httpdocs/shp/list.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/alexshanks.com/httpdocs/foot.php",
+				"/home/localhost/development/shanks/shp/list.php",
+				"/home/localhost/development/blairquhan/page_template_2.php",
+				"/home/localhost/development/blairquhan/page_template_3.php",
+				"/home/localhost/bin/totalvalidatorbasic/ReadMe.txt",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/alexshanks.com/httpdocs/lib/cfg.php",
+				"/home/localhost/development/blairquhan/page_template_4.php",
+				"/home/localhost/development/blairquhan/page_template_5.php",
+				"/home/localhost/development/blairquhan/page_template_6.php",
+				"/home/localhost/development/blairquhan/pageBuilder.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/winepalate.co.uk/httpdocs/lib/html_cl.php",
+				"/home/localhost/development/blairquhan/page_template_1.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/adeodev.co.uk/subdomains/boston/httpdocs/lib/cfg.php",
+				"/home/localhost/Desktop/welcome_to_adeo_process.txt",
+				"/home/localhost/Documents/email_template/welcome_to_adeo/index.html",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/adeodev.co.uk/subdomains/fpsg/httpdocs/lib/cfg.php",
+				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
+				"/home/localhost/Desktop/launch.txt",
+				"/home/localhost/Desktop/wireframes.txt",
+				"/home/localhost/Desktop/brief_stage.txt",
+				"/home/localhost/Desktop/design.txt",
+				"/home/localhost/Desktop/content.txt",
+				"/home/localhost/Desktop/functionality.txt",
+				"/home/localhost/Desktop/staging.txt",
+				"/home/localhost/development/core/admin/components/filemanager/config/config.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/winepalate.co.uk/httpdocs/header.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/core/lib/sagepayForm_dev.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/bostonnetworks.co.uk/httpdocs/blog/wp-content/themes/bedsavers/header.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/bostonnetworks.co.uk/httpdocs/index.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/bostonnetworks.co.uk/httpdocs/lib/cfg.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/bostonnetworks.co.uk/httpdocs/header.php",
+				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/bostonnetworks.co.uk/httpdocs/log-support.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/.htaccess",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/brands/index.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/brands/brand.php",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/join.php",
+				"/home/localhost/zend-eclipse-php/workspace/chocolate/shp/list.php",
+				"/home/localhost/zend-eclipse-php/workspace/devops/README.md"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 				"where_history":
 				[
 				]
@@ -342,6 +689,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+<<<<<<< HEAD
 					"n",
 					"¨",
 					"-- Highlighted 29 oct 2014",
@@ -416,6 +764,22 @@
 					"_gaq",
 					"function n",
 					","
+=======
+					"/httpdocs",
+					"/lib/login_class.php",
+					"/httpdocs/lib/login_class.php",
+					"Stage",
+					"Access",
+					"Access Control",
+					"?phpMyAdmin",
+					"?phpMyAdmin=vhnXX-pcWoy86sh9t1sOp3VanB4",
+					"?phpMyAdmin=",
+					"    </tbody>\n</table>\n<table class=\"relative\">\n    <tbody>",
+					"Celtic",
+					"phpmy",
+					"    </tbody>\n</table>\n<table class=\"relative\">\n    <tbody>",
+					"</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>"
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -423,6 +787,7 @@
 				"regex": false,
 				"replace_history":
 				[
+<<<<<<< HEAD
 					"-",
 					"",
 					"Tutorial",
@@ -444,6 +809,11 @@
 					"",
 					"or",
 					" "
+=======
+					"",
+					"Process",
+					""
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 				],
 				"reverse": false,
 				"show_context": true,
@@ -451,19 +821,435 @@
 				"whole_word": false,
 				"wrap": true
 			},
+<<<<<<< HEAD
+=======
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/localhost/Desktop/todo:",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 650,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										650,
+										650
+									]
+								],
+								"settings":
+								{
+									"WordCountShouldRun": true,
+									"WordCountSyntax": "plain text",
+									"auto_name": "todo:",
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1487,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										932,
+										932
+									]
+								],
+								"settings":
+								{
+									"WordCountShouldRun": true,
+									"WordCountSyntax": "plain text",
+									"auto_name": "has md5:",
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 108.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 184,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										174,
+										174
+									]
+								],
+								"settings":
+								{
+									"WordCountShouldRun": true,
+									"WordCountSyntax": "plain text",
+									"auto_name": "adeodev.co.uk/subdomains/halo2",
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 			"incremental_find":
 			{
 				"height": 22.0
 			},
 			"input":
 			{
-				"height": 34.0
+				"height": 37.0
 			},
 			"menu_visible": true,
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+<<<<<<< HEAD
 			"output.git":
 			{
 				"height": 118.0
@@ -479,6 +1265,13 @@
 			"replace":
 			{
 				"height": 40.0
+=======
+			"position": "0,0,0,0,0,1820,187,3101,978,3280,1200",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -505,10 +1298,15 @@
 				],
 				"width": 0.0
 			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
+<<<<<<< HEAD
 			"side_bar_width": 207.0,
 			"status_bar_visible": true,
 			"template_settings":
@@ -519,6 +1317,16 @@
 	},
 	"windows":
 	[
+=======
+			"side_bar_width": 167.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 10,
+			"workspace_name": ""
+		}
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 	],
 	"workspaces":
 	{

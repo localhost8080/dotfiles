@@ -3,7 +3,7 @@
 	<menu id="root-menu" label="Openbox 3">
 		<item label="Run Program">
 			<action name="Execute">
-				<execute>xfce4-appfinder --disable-server</execute>
+				<execute>mutate</execute>
 			</action>
 		</item>
 		<item label="Thunar">
