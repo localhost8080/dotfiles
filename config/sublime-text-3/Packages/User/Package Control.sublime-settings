@@ -2,9 +2,11 @@
 	"installed_packages":
 	[
 		"CodeFormatter",
+		"DashDoc",
 		"DocBlockr",
 		"GitGutter",
 		"LESS",
+		"MarkdownEditing",
 		"Phpcs",
 		"PHPUnit Completions",
 		"SideBarGit",

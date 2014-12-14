@@ -1,6 +1,23 @@
 {
 	"folder_history":
 	[
+<<<<<<< HEAD
+		"/Users/localhost8080/Documents/Dropbox/uni",
+		"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown",
+		"/Users/localhost8080/Documents/Dropbox/development/multiloquent",
+		"/Users/localhost8080/Documents/Documents/development/multiloquent",
+		"/Users/localhost8080/Documents/uni/IDS",
+		"/home/localhost/.config",
+		"/home/localhost/zend-eclipse-php/workspace/mybpos",
+		"/home/localhost/zend-eclipse-php/workspace/kelly"
+	],
+	"last_version": 3065,
+	"last_window_id": 118,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 760.0,
+=======
 		"/home/localhost/development/core",
 		"/home/localhost/development",
 		"/home/localhost/development/shanks",
@@ -16,25 +33,187 @@
 	"settings":
 	{
 		"new_window_height": 791.0,
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+<<<<<<< HEAD
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"primary",
+						"primary-color"
+					],
+					[
+						"multi",
+						"multiloquent_post_title(12"
+					]
+=======
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
+<<<<<<< HEAD
+				"height": 93.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"istall",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Upgrade Package"
+					],
+					[
+=======
 				"height": 375.0,
 				"selected_items":
 				[
 					[
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 						"inst",
 						"Package Control: Install Package"
 					],
 					[
+<<<<<<< HEAD
+						"package re",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack in",
+						"Package Control: Install Package"
+					],
+					[
+						"g pus",
+						"Git: Push"
+					],
+					[
+						"g q c",
+						"Git: Quick Commit"
+					],
+					[
+						"g q a",
+						"Git: Quick Add"
+					],
+					[
+						"q c",
+						"Git: Quick Commit"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"qui",
+						"Git: Quick Add"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Quick Commit"
+					],
+					[
+						"quic",
+						"Git: Quick Add"
+					],
+					[
+						"git q",
+						"Git: Quick Add"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Quick Add"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git qui",
+						"Git: Quick Commit"
+					],
+					[
+						"git qu",
+						"Git: Quick Commit"
+					],
+					[
+						"git a",
+						"Git: Add..."
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 688.0
+			},
+			"console":
+			{
+				"height": 284.0,
+				"history":
+				[
+					"sublime.log_commands(True)",
+					"window.run_command(\"git_quick_add\");",
+					"self.window.run_command(\"git_quick_add\");",
+					"sublime.log_commands(True)",
+					"self.window.run_command(\"git_add_choice\")",
+					"sublime.log_commands(False)",
+					"sublime.run_command(\"git_add_choice\")",
+					"cls",
+					"clear",
+					"sublime.run_command(\"git_push\")",
+					"ApplicationCommand: sublime.run_command(\"git_push\")",
+					"sublime.log_commands(True)",
+					"view.run_command(\"git_quick_commit\");",
+					"view.run_command(\"git_add\");",
+					"\"command\": \"git_add\"",
+					"command: \"git_add\"",
+					"git_add",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+=======
 						"pack inst",
 						"Package Control: Install Package"
 					],
@@ -289,6 +468,7 @@
 				"height": 0.0,
 				"history":
 				[
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 				]
 			},
 			"distraction_free":
@@ -302,6 +482,144 @@
 			},
 			"file_history":
 			[
+<<<<<<< HEAD
+				"/Users/localhost8080/Desktop/things for discussion board",
+				"/Users/localhost8080/Documents/Dropbox/uni/IDS/Coursework/Coursework/notes.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/IDS/Coursework/plan for essay.txt",
+				"/Users/localhost8080/Desktop/todo.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/SOA/questions to ask.md",
+				"/Users/localhost8080/Desktop/questions to ask.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/order_new_movies_for_store.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/payment_for_movie_rental.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/pricing_new_movies_for_store.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/renting_movies_form_store.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/scenarios/scenarios.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/returning_rented_movies_to_the_store.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/scanning machine.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/search_engine.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/stock_info.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/suppliers_web_service.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/user accounts.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/reservations.md",
+				"/Users/localhost8080/Documents/Documents/uni/SOA/coursework/spec_breakdown/pricing.md",
+				"/Users/localhost8080/Documents/Documents/uni/IDS/Coursework/plan for essay.md",
+				"/Users/localhost8080/Documents/Documents/uni/IDS/Coursework/research for my HUD system.mb",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/.htaccess",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/a9240626-249e-40d5-8ba2-f697e3b055f3/software/rational/web/whitepapers/10706900_SOA_gov_model_app_v1f.pdf",
+				"/Users/localhost8080/Documents/Documents/htaccess",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/scanning machine.md",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/payment_for_movie_rental.md",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/renting_movies_form_store.md",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/order_new_movies_for_store.md",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/reservations.md",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/returning_rented_movies_to_the_store.md",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/suppliers_web_service.md",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/pricing_new_movies_for_store.md",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/stock_info.md",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/search_engine.md",
+				"/Users/localhost8080/Documents/uni/SOA/coursework/spec_breakdown/user accounts.md",
+				"/Users/localhost8080/Documents/uni/SOA/spec doc.txt",
+				"/Users/localhost8080/Documents/uni/IDS/weeks 5-8/week 5 - brainstorm",
+				"/Users/localhost8080/Documents/uni/IDS/weeks 1-4/week 3 ex 1.txt",
+				"/Users/localhost8080/Documents/uni/IDS/lecture 3 Discussion.txt",
+				"/Users/localhost8080/Documents/uni/IDS/lecture 4 discussion.txt",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/wp-content/themes/multiloquent/bootstrap/css/multiloquent/style.css",
+				"/Users/localhost8080/Desktop/fixing 34um95",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/ruleset.xml",
+				"/Users/localhost8080/Desktop/wordpress with cloudflare ssl.html",
+				"/Users/localhost8080/Downloads/Contents/MacOS/AppleIntelFramebufferCapri",
+				"/Users/localhost8080/Documents/uni/IDS/week 2 ex 1",
+				"/Users/localhost8080/Documents/uni/IDS/Tutorial 2",
+				"/Users/localhost8080/Documents/uni/IDS/lecture1 - discussion",
+				"/Users/localhost8080/Documents/uni/IDS/week 1 Ex 2  Environment",
+				"/Users/localhost8080/Documents/uni/IDS/week 1 ex1 affordance",
+				"/Users/localhost8080/Documents/uni/IDS/week 3 ex 1",
+				"/Users/localhost8080/Desktop/34UM95",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/multiloquent-base.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/comments.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/bootstrap/css/multiloquent/style.css",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/robots.txt",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/yarpp-template-multiloquent.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/style.css",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/bootstrap/less/multiloquent/style.less",
+				"/Users/localhost8080/.config/sublime-text-3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/localhost8080/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
+				"/Users/localhost8080/.config/sublime-text-3/Packages/Phpcs/phpcs.sublime-settings",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/template-adventures-single.php",
+				"/Users/localhost8080/Desktop/php_uml.html",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/navigation.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/404.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/footer.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/advert.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/breadcrumb.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/featuredimage.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/front-page.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/header.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/home.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/index.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/metadata.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/page.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/search.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/searchform.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/sidebar.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/single.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/social.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/tag.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/error-snippet.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/author.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/category.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/functions.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/archive.php",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/wp-content/themes/multiloquent/template-adventures-single.php",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/public_html/wp-content/plugins/yet-another-related-posts-plugin/yarpp.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/featuredposts.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/template-category-index.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/template-full-width-no-header-single.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/template-full-width-single.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/template-tag-index.php",
+				"/Users/localhost8080/Documents/Documents/development/multiloquent/function-definitions.php",
+				"/Users/localhost8080/Desktop/Dradis.html",
+				"/Users/localhost8080/Desktop/Metasploit webUI.html",
+				"/Users/localhost8080/Desktop/Magictree.html",
+				"/Users/localhost8080/Desktop/arachni to metasploit.html",
+				"/Users/localhost8080/Desktop/openvas.html",
+				"/Users/localhost8080/Desktop/kali tuts to do.md",
+				"/Users/localhost8080/Desktop/kali tuts to do.txt",
+				"/Users/localhost8080/Desktop/arachni.html",
+				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/Users/localhost8080/Desktop/sshfs.html",
+				"/Users/localhost8080/Desktop/test",
+				"/Users/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/Users/localhost8080/.config/sublime-text-3/Packages/Default/Default (OSX).sublime-keymap",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/header.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/contact-us.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/run-multiple-commands.py",
+				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.py",
+				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
+				"/home/localhost/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
+				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/refer.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilderPOP.php",
+				"/home/localhost/Desktop/todo:",
+				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
+				"/home/localhost/Desktop/need to prune the tagadab server of old sites:",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+=======
 				"/home/localhost/development/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/core/lib/email_schedule_and_specify_class.php",
 				"/home/localhost/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/unitedsportsusa.com/httpdocs/lib/js_load.php",
 				"/home/localhost/Desktop/untitled.html",
@@ -361,6 +679,7 @@
 			"find_in_files":
 			{
 				"height": 0.0,
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 				"where_history":
 				[
 				]
@@ -370,6 +689,82 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+<<<<<<< HEAD
+					"n",
+					"¨",
+					"-- Highlighted 29 oct 2014",
+					"-- Highlighted 28 sep 2014",
+					"WP REWRITE LOOP",
+					"tutorial",
+					"label",
+					"multiloquent_generate_sidebars",
+					".navbar",
+					"carousel",
+					"979px",
+					"navbar",
+					"jumbotron",
+					"f8f8f8",
+					"sidebar",
+					"share",
+					"thumbnail",
+					"red",
+					"4CD964",
+					"green",
+					"#1c567f",
+					"btn",
+					"primary",
+					"https://jonathansblog.co.uk",
+					"https://jonathansblog.co..uk",
+					"render_tags",
+					"style",
+					"(!",
+					"multiloquent_menu",
+					"style",
+					"333333",
+					"echo '",
+					"'postcode'",
+					"	",
+					"sku_id",
+					"where",
+					"sv.sku_id",
+					"	",
+					"wpr01086",
+					"	",
+					"		",
+					"	",
+					"		",
+					"\n",
+					"  ",
+					"	",
+					"		",
+					"div",
+					"<span></span>",
+					"<div></div>",
+					"<span></span>",
+					"<span><div></div></span>",
+					"&nbsp;",
+					"<div><span><div>&nbsp;</div></span></div>",
+					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
+					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
+					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
+					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
+					"<span >",
+					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
+					"    ",
+					"www_page",
+					"	",
+					"		",
+					"£",
+					"/",
+					"£",
+					"and",
+					"_gaq",
+					"function n",
+					","
+=======
 					"/httpdocs",
 					"/lib/login_class.php",
 					"/httpdocs/lib/login_class.php",
@@ -384,6 +779,7 @@
 					"phpmy",
 					"    </tbody>\n</table>\n<table class=\"relative\">\n    <tbody>",
 					"</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>"
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -391,9 +787,33 @@
 				"regex": false,
 				"replace_history":
 				[
+<<<<<<< HEAD
+					"-",
+					"",
+					"Tutorial",
+					"",
+					"( !",
+					"",
+					"postcode",
+					"",
+					"sku_id;",
+					" where",
+					"v.sku_id",
+					"",
+					" ",
+					"p",
+					"",
+					"<span>",
+					"",
+					"-",
+					"",
+					"or",
+					" "
+=======
 					"",
 					"Process",
 					""
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 				],
 				"reverse": false,
 				"show_context": true,
@@ -401,6 +821,8 @@
 				"whole_word": false,
 				"wrap": true
 			},
+<<<<<<< HEAD
+=======
 			"groups":
 			[
 				{
@@ -813,46 +1235,43 @@
 					]
 				}
 			],
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 22.0
 			},
 			"input":
 			{
 				"height": 37.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
 			},
 			"menu_visible": true,
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+<<<<<<< HEAD
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"output.git-commit":
+			{
+				"height": 118.0
+			},
+			"output.git-push":
+			{
+				"height": 373.0
+			},
+			"replace":
+			{
+				"height": 40.0
+=======
 			"position": "0,0,0,0,0,1820,187,3101,978,3280,1200",
 			"project": "",
 			"replace":
 			{
 				"height": 66.0
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -887,6 +1306,18 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
+<<<<<<< HEAD
+			"side_bar_width": 207.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 968.0
+	},
+	"windows":
+	[
+=======
 			"side_bar_width": 167.0,
 			"status_bar_visible": true,
 			"template_settings":
@@ -895,6 +1326,7 @@
 			"window_id": 10,
 			"workspace_name": ""
 		}
+>>>>>>> 1461e290201e687b2e39d9483787198bfa1bf987
 	],
 	"workspaces":
 	{
