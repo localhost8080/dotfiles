@@ -28,11 +28,12 @@
 		</item>
 		<!-- This requires the presence of the 'menu' package to work -->
 		<separator/>
-		<menu execute="~/bin/openbox-menu.pl" id="pipe-15572" label="Tools"/>
+		<menu execute="~/bin/openbox-menu.pl /menu" id="pipe-854230" label="Tools"/>
 		<separator/>
 		<menu id="/Debian"/>
 		<separator/>
-		<menu execute="cat ~/.config/openbox/menu_gnome.xml" id="pipe-94425" label="Apps"/>
+		<menu execute="openbox-xdgmenu &quot;/etc/xdg/menus/xfce-applications.menu&quot;" id="pipe-90322" label="XFCE"/>
+		<menu execute="openbox-xdgmenu &quot;/etc/xdg/menus/gnome-applications.menu&quot;" id="pipe-94425" label="Gnome"/>
 		<separator/>
 		<menu id="root-menu-593534" label="Settings">
 			<item label="gtk-theme-switch2">

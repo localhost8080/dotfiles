@@ -1,0 +1,160 @@
+<openbox_pipe_menu>
+    <menu id="obam-Audio" label="Audio">
+        <item label="gmusicbrowser"><action name="Execute"><execute>gmusicbrowser </execute></action></item>
+    </menu>
+    <menu id="obam-AudioVideo" label="AudioVideo">
+        <item label="RecordMyDesktop"><action name="Execute"><execute>gtk-recordmydesktop</execute></action></item>
+        <item label="Next Track"><action name="Execute"><execute>parole --next</execute></action></item>
+        <item label="PulseAudio Volume Control"><action name="Execute"><execute>pavucontrol</execute></action></item>
+        <item label="VLC media player"><action name="Execute"><execute>/usr/bin/vlc --started-from-file </execute></action></item>
+    </menu>
+    <menu id="obam-ConsoleOnly" label="ConsoleOnly">
+        <item label="Midnight Commander"><action name="Execute"><execute>mc</execute></action></item>
+    </menu>
+    <menu id="obam-Database" label="Database">
+        <item label="MySQL Workbench"><action name="Execute"><execute>mysql-workbench</execute></action></item>
+    </menu>
+    <menu id="obam-Development" label="Development">
+        <item label="Geany"><action name="Execute"><execute>geany </execute></action></item>
+        <item label="Python (v2.7)"><action name="Execute"><execute>/usr/bin/python2.7</execute></action></item>
+        <item label="Python (v3.4)"><action name="Execute"><execute>/usr/bin/python3.4</execute></action></item>
+    </menu>
+    <menu id="obam-GNOME" label="GNOME">
+        <item label="Report a problem..."><action name="Execute"><execute>/usr/share/apport/apport-gtk -c </execute></action></item>
+        <item label="Bluetooth Manager"><action name="Execute"><execute>blueman-manager</execute></action></item>
+        <item label="Catfish File Search"><action name="Execute"><execute>catfish</execute></action></item>
+        <item label="Document Viewer"><action name="Execute"><execute>evince </execute></action></item>
+        <item label="Print Preview"><action name="Execute"><execute>evince-previewer </execute></action></item>
+        <item label="Archive Manager"><action name="Execute"><execute>file-roller </execute></action></item>
+        <item label="Open a New Private Window"><action name="Execute"><execute>firefox -private-window</execute></action></item>
+        <item label="Calculator"><action name="Execute"><execute>gnome-calculator</execute></action></item>
+        <item label="Compose Message"><action name="Execute"><execute>geary mailto:</execute></action></item>
+        <item label="GHex"><action name="Execute"><execute>ghex </execute></action></item>
+        <item label="Gip IP Address Calculator"><action name="Execute"><execute>/usr/bin/gip </execute></action></item>
+        <item label="Tweak Tool"><action name="Execute"><execute>gnome-tweak-tool</execute></action></item>
+        <item label="GParted"><action name="Execute"><execute>gparted-pkexec</execute></action></item>
+        <item label="Theme Configuration"><action name="Execute"><execute>gtk-theme-config</execute></action></item>
+        <item label="GtkHash"><action name="Execute"><execute>gtkhash</execute></action></item>
+        <item label="Character Map"><action name="Execute"><execute>gucharmap</execute></action></item>
+        <item label="Language Support"><action name="Execute"><execute>/usr/bin/gnome-language-selector</execute></action></item>
+        <item label="Menu Editor"><action name="Execute"><execute>/usr/bin/menulibre</execute></action></item>
+        <item label="About Me"><action name="Execute"><execute>/usr/bin/mugshot</execute></action></item>
+        <item label="Network"><action name="Execute"><execute>network-admin</execute></action></item>
+        <item label="Network Connections"><action name="Execute"><execute>nm-connection-editor</execute></action></item>
+        <item label="Start Remmina Minimized"><action name="Execute"><execute>remmina --icon</execute></action></item>
+        <item label="Passwords and Keys"><action name="Execute"><execute>/usr/bin/seahorse</execute></action></item>
+        <item label="Shared Folders"><action name="Execute"><execute>shares-admin</execute></action></item>
+        <item label="Simple Scan"><action name="Execute"><execute>simple-scan</execute></action></item>
+        <item label="Software & Updates"><action name="Execute"><execute>software-properties-gtk</execute></action></item>
+        <item label="Software & Updates"><action name="Execute"><execute>software-properties-gtk</execute></action></item>
+        <item label="Printers"><action name="Execute"><execute>system-config-printer</execute></action></item>
+        <item label="Open a New Window"><action name="Execute"><execute>terminator</execute></action></item>
+        <item label="Time and Date"><action name="Execute"><execute>time-admin</execute></action></item>
+        <item label="Users and Groups"><action name="Execute"><execute>users-admin</execute></action></item>
+        <item label="Wireshark"><action name="Execute"><execute>wireshark </execute></action></item>
+        <item label="Help"><action name="Execute"><execute>yelp </execute></action></item>
+    </menu>
+    <menu id="obam-Graphics" label="Graphics">
+        <item label="GIMP Image Editor"><action name="Execute"><execute>gimp-2.8 </execute></action></item>
+        <item label="Ristretto Image Viewer"><action name="Execute"><execute>ristretto </execute></action></item>
+    </menu>
+    <menu id="obam-Network" label="Network">
+        <item label="Driftnet"><action name="Execute"><execute>driftnet</execute></action></item>
+        <item label="Ettercap"><action name="Execute"><execute>ettercap-pkexec -G</execute></action></item>
+        <item label="Mail Reader"><action name="Execute"><execute>exo-open --launch MailReader </execute></action></item>
+        <item label="Web Browser"><action name="Execute"><execute>exo-open --launch WebBrowser </execute></action></item>
+        <item label="New Incognito Window"><action name="Execute"><execute>/usr/bin/google-chrome-stable --incognito</execute></action></item>
+        <item label="XHydra"><action name="Execute"><execute>xhydra </execute></action></item>
+        <item label="IcedTea Java Web Start"><action name="Execute"><execute>/usr/bin/javaws </execute></action></item>
+        <item label="Insync"><action name="Execute"><execute>insync start</execute></action></item>
+        <item label="Kismet"><action name="Execute"><execute>kismet</execute></action></item>
+        <item label="Pidgin Internet Messenger"><action name="Execute"><execute>pidgin</execute></action></item>
+        <item label="Skype"><action name="Execute"><execute>skype </execute></action></item>
+        <item label="Contacts"><action name="Execute"><execute>thunderbird -addressbook</execute></action></item>
+        <item label="TorChat"><action name="Execute"><execute>/usr/bin/torchat</execute></action></item>
+        <item label="Start Transmission Minimized"><action name="Execute"><execute>transmission-gtk --minimized</execute></action></item>
+        <item label="Vidalia"><action name="Execute"><execute>vidalia</execute></action></item>
+        <item label="w3af"><action name="Execute"><execute>/usr/share/w3af/w3af_gui</execute></action></item>
+        <item label="XChat IRC"><action name="Execute"><execute>sh -c "xchat --existing --url </execute></action></item>
+        <item label="Zenmap"><action name="Execute"><execute>zenmap </execute></action></item>
+        <item label="Zenmap (as root)"><action name="Execute"><execute>su-to-root -X -c zenmap </execute></action></item>
+    </menu>
+    <menu id="obam-Office" label="Office">
+        <item label="New Spreadsheet"><action name="Execute"><execute>libreoffice --calc</execute></action></item>
+        <item label="Formula"><action name="Execute"><execute>libreoffice --math</execute></action></item>
+        <item label="New Document"><action name="Execute"><execute>libreoffice --writer</execute></action></item>
+        <item label="Dictionary"><action name="Execute"><execute>xfce4-dict</execute></action></item>
+    </menu>
+    <menu id="obam-PackageManager" label="PackageManager">
+        <item label="Synaptic Package Manager"><action name="Execute"><execute>synaptic-pkexec</execute></action></item>
+        <item label="Synaptic Package Manager"><action name="Execute"><execute>synaptic</execute></action></item>
+    </menu>
+    <menu id="obam-Settings" label="Settings">
+        <item label="ARandR"><action name="Execute"><execute>arandr</execute></action></item>
+        <item label="Keyboard Input Methods"><action name="Execute"><execute>ibus-setup</execute></action></item>
+        <item label="Input Method"><action name="Execute"><execute>im-config</execute></action></item>
+        <item label="IcedTea Web Control Panel"><action name="Execute"><execute>/usr/bin/itweb-settings</execute></action></item>
+        <item label="Openbox Configuration Manager"><action name="Execute"><execute>obconf </execute></action></item>
+        <item label="Onboard Settings"><action name="Execute"><execute>onboard-settings</execute></action></item>
+        <item label="OpenJDK Java 7 Policy Tool"><action name="Execute"><execute>/usr/bin/policytool</execute></action></item>
+    </menu>
+    <menu id="obam-System" label="System">
+        <item label="Thunar File Manager"><action name="Execute"><execute>thunar </execute></action></item>
+        <item label="Bulk Rename"><action name="Execute"><execute>/usr/lib/x86_64-linux-gnu/Thunar/ThunarBulkRename </execute></action></item>
+        <item label="Open Folder with Thunar"><action name="Execute"><execute>thunar </execute></action></item>
+        <item label="BleachBit"><action name="Execute"><execute>bleachbit</execute></action></item>
+        <item label="BleachBit (as root)"><action name="Execute"><execute>su-to-root -X -c bleachbit</execute></action></item>
+        <item label="UXTerm"><action name="Execute"><execute>uxterm</execute></action></item>
+        <item label="XTerm"><action name="Execute"><execute>xterm</execute></action></item>
+        <item label="GDebi Package Installer"><action name="Execute"><execute>gdebi-gtk </execute></action></item>
+        <item label="Gigolo"><action name="Execute"><execute>gigolo</execute></action></item>
+        <item label="Guymager"><action name="Execute"><execute>gksudo guymager</execute></action></item>
+        <item label="Reactivate HP LaserJet 1018/1020 after reloading paper"><action name="Execute"><execute>/usr/share/foo2zjs/hplj10xx_gui.tcl</execute></action></item>
+        <item label="Software Updater"><action name="Execute"><execute>/usr/bin/update-manager</execute></action></item>
+        <item label="Startup Disk Creator"><action name="Execute"><execute>usb-creator-gtk</execute></action></item>
+        <item label="Log Out"><action name="Execute"><execute>xfce4-session-logout</execute></action></item>
+        <item label="Task Manager"><action name="Execute"><execute>xfce4-taskmanager</execute></action></item>
+        <item label="Xfce Terminal"><action name="Execute"><execute>xfce4-terminal</execute></action></item>
+    </menu>
+    <menu id="obam-TextEditor" label="TextEditor">
+        <item label="New File"><action name="Execute"><execute>/opt/sublime_text/sublime_text --command new_file</execute></action></item>
+    </menu>
+    <menu id="obam-Utility" label="Utility">
+        <item label="DFF"><action name="Execute"><execute>dff -g</execute></action></item>
+        <item label="File Manager"><action name="Execute"><execute>exo-open --launch FileManager </execute></action></item>
+        <item label="Terminal Emulator"><action name="Execute"><execute>exo-open --launch TerminalEmulator</execute></action></item>
+        <item label="Root Terminal"><action name="Execute"><execute>gksu /usr/bin/x-terminal-emulator</execute></action></item>
+        <item label="GNOME Do"><action name="Execute"><execute>gnome-do</execute></action></item>
+        <item label="MAT"><action name="Execute"><execute>mat-gui</execute></action></item>
+        <item label="Mousepad"><action name="Execute"><execute>mousepad </execute></action></item>
+        <item label="Onboard"><action name="Execute"><execute>onboard</execute></action></item>
+        <item label="wxHexEditor"><action name="Execute"><execute>wxHexEditor</execute></action></item>
+        <item label="About Xfce"><action name="Execute"><execute>xfce4-about</execute></action></item>
+        <item label="Application Finder"><action name="Execute"><execute>xfce4-appfinder</execute></action></item>
+        <item label="Notes"><action name="Execute"><execute>xfce4-notes</execute></action></item>
+        <item label="Run Program..."><action name="Execute"><execute>xfce4-appfinder --collapsed</execute></action></item>
+        <item label="Screenshot"><action name="Execute"><execute>xfce4-screenshooter</execute></action></item>
+        <item label="Quick Note from Clipboard"><action name="Execute"><execute>zim --plugin quicknote input=clipboard</execute></action></item>
+    </menu>
+    <menu id="obam-XFCE" label="XFCE">
+        <item label="Preferred Applications"><action name="Execute"><execute>exo-preferred-applications</execute></action></item>
+        <item label="Light Locker Settings"><action name="Execute"><execute>/usr/bin/light-locker-settings</execute></action></item>
+        <item label="Panel"><action name="Execute"><execute>xfce4-panel --preferences</execute></action></item>
+        <item label="File Manager"><action name="Execute"><execute>thunar-settings</execute></action></item>
+        <item label="Removable Drives and Media"><action name="Execute"><execute>thunar-volman-settings</execute></action></item>
+        <item label="Desktop "><action name="Execute"><execute>xfdesktop-settings</execute></action></item>
+        <item label="Display"><action name="Execute"><execute>xfce4-display-settings</execute></action></item>
+        <item label="Keyboard"><action name="Execute"><execute>xfce4-keyboard-settings</execute></action></item>
+        <item label="Mouse and Touchpad"><action name="Execute"><execute>xfce4-mouse-settings</execute></action></item>
+        <item label="Session and Startup"><action name="Execute"><execute>xfce4-session-settings</execute></action></item>
+        <item label="Appearance"><action name="Execute"><execute>xfce4-appearance-settings</execute></action></item>
+        <item label="Window Manager"><action name="Execute"><execute>xfwm4-settings</execute></action></item>
+        <item label="Window Manager Tweaks"><action name="Execute"><execute>xfwm4-tweaks-settings</execute></action></item>
+        <item label="Workspaces"><action name="Execute"><execute>xfwm4-workspace-settings</execute></action></item>
+        <item label="Accessibility"><action name="Execute"><execute>xfce4-accessibility-settings</execute></action></item>
+        <item label="MIME Type Editor"><action name="Execute"><execute>xfce4-mime-settings</execute></action></item>
+        <item label="Notifications"><action name="Execute"><execute>xfce4-notifyd-config</execute></action></item>
+        <item label="Power Manager"><action name="Execute"><execute>xfce4-power-manager-settings</execute></action></item>
+        <item label="Settings Editor"><action name="Execute"><execute>xfce4-settings-editor</execute></action></item>
+    </menu>
+</openbox_pipe_menu>

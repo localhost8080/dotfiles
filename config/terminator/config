@@ -12,6 +12,7 @@
     background_type = transparent
     use_system_font = False
     foreground_color = "#839496"
+    exit_action = hold
     font = Source Code Pro Medium 10
     background_color = "#002b36"
 [layouts]
