@@ -3,7 +3,7 @@
 	<menu id="root-menu" label="Openbox 3">
 		<item label="Run Program">
 			<action name="Execute">
-				<execute>mutate</execute>
+				<execute>gnome-do</execute>
 			</action>
 		</item>
 		<item label="Thunar">
@@ -11,19 +11,9 @@
 				<execute>thunar</execute>
 			</action>
 		</item>
-		<item label="Nautilus">
-			<action name="Execute">
-				<execute>nautilus --no-desktop</execute>
-			</action>
-		</item>
 		<item label="Terminal emulator">
 			<action name="Execute">
 				<execute>x-terminal-emulator</execute>
-			</action>
-		</item>
-		<item label="Chromium">
-			<action name="Execute">
-				<execute>chromium --user-data-dir</execute>
 			</action>
 		</item>
 		<item label="Chrome">
@@ -33,15 +23,13 @@
 		</item>
 		<item label="Firefox">
 			<action name="Execute">
-				<execute>/home/localhost/bin/firefox/firefox</execute>
-			</action>
-		</item>
-		<item label="Web browser">
-			<action name="Execute">
-				<execute>x-www-browser</execute>
+				<execute>/home/localhost8080/bin/firefox/firefox</execute>
 			</action>
 		</item>
 		<!-- This requires the presence of the 'menu' package to work -->
+		<separator/>
+		<menu execute="~/bin/openbox-menu.pl" id="pipe-15572" label="Tools"/>
+		<separator/>
 		<menu id="/Debian"/>
 		<separator/>
 		<menu execute="cat ~/.config/openbox/menu_gnome.xml" id="pipe-94425" label="Apps"/>
