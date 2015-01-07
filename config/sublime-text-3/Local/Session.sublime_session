@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/home/localhost8080/development/cosmo",
 		"/home/localhost/.config",
 		"/home/localhost/zend-eclipse-php/workspace/mybpos",
 		"/home/localhost/zend-eclipse-php/workspace/kelly"
@@ -327,9 +328,13 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 375.0,
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"g pus",
 						"Git: Push"
@@ -407,10 +412,6 @@
 						"Git: Add..."
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
 						"git commit",
 						"Git: Commit"
 					],
@@ -431,7 +432,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 746.0
+				"width": 435.0
 			},
 			"console":
 			{
@@ -468,16 +469,31 @@
 			},
 			"expanded_folders":
 			[
-				"/home/localhost/zend-eclipse-php/workspace/mybpos"
+				"/home/localhost8080/development/cosmo",
+				"/home/localhost8080/development/cosmo/assets/less",
+				"/home/localhost8080/development/cosmo/fragments",
+				"/home/localhost8080/development/cosmo/lib",
+				"/home/localhost8080/development/cosmo/lib/js"
 			],
 			"file_history":
 			[
-				"/home/localhost/.config/openbox/rc.xml",
-				"/home/localhost/dotfiles/config/openbox/rc.xml",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
+				"/home/localhost8080/development/cosmo/fragments/modules/filters/filters.php",
+				"/home/localhost8080/development/cosmo/lib/js_load.php",
+				"/home/localhost8080/development/cosmo/lib/js/jquery.nouislider.js",
+				"/home/localhost8080/development/cosmo/assets/css/style.css",
+				"/home/localhost8080/development/cosmo/assets/less/style.less",
+				"/home/localhost8080/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/tecgroup.net/httpdocs/fragments/modules/search_flowers.php",
+				"/home/localhost8080/dumps/cosmo-blog.sql",
+				"/home/localhost8080/Desktop/phpmail.log",
+				"/home/localhost8080/bin/openbox-menu.pl",
+				"/menu/auditing/exploitation/web_application/wpscan",
+				"/etc/menu/README",
+				"/tmp/dirlist.pl",
+				"/home/localhost8080/.config/openbox-menu.xml",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
 				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
@@ -504,6 +520,7 @@
 				"/home/localhost/.bashrc",
 				"/home/localhost/Downloads/wine_export_1.csv",
 				"/home/localhost/Downloads/ATT00001 (1).txt",
+				"/home/localhost/.config/openbox/rc.xml",
 				"/home/localhost/Desktop/Product_Prices_inc_VAT.csv",
 				"/home/localhost/Desktop/simsalabim-sisyphus-68a3739/README.md",
 				"/home/localhost/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
@@ -563,9 +580,25 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"<!-- Keybindings for running aplications -->",
-					"space",
-					"xfce",
+					"_price_range",
+					"Classes",
+					"$Target",
+					"  ",
+					"   ",
+					"  ",
+					"   ",
+					"    ",
+					"http://www.smithsgretnagreen.com",
+					"^\\n",
+					"craigholme",
+					"^\\n",
+					"etimon",
+					"^\\n",
+					"referrals",
+					"book",
+					"^\\n",
+					"functions.php",
+					"gedit",
 					"echo '",
 					"'postcode'",
 					"	",
@@ -613,9 +646,12 @@
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": false,
+				"regex": true,
 				"replace_history":
 				[
+					" ",
+					"",
+					"/opt/sublime_text/sublime_text",
 					"",
 					"postcode",
 					"",
@@ -643,7 +679,7 @@
 			[
 				{
 					"follow_symlinks": true,
-					"path": "/home/localhost/zend-eclipse-php/workspace/mybpos"
+					"path": "/home/localhost8080/development/cosmo"
 				}
 			],
 			"groups":
@@ -705,7 +741,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 66.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -740,7 +776,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 320.0,
+			"side_bar_width": 246.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

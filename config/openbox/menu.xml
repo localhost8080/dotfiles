@@ -26,9 +26,32 @@
 				<execute>/home/localhost8080/bin/firefox/firefox</execute>
 			</action>
 		</item>
+		<separator/>
+		<menu id="root-menu-71959" label="Dev">
+			<item label="eclipse">
+				<action name="Execute">
+					<execute>/opt/eclipse/eclipse</execute>
+				</action>
+			</item>
+			<item label="mysql workbench">
+				<action name="Execute">
+					<execute>mysql-workbench</execute>
+				</action>
+			</item>
+			<item label="sublime">
+				<action name="Execute">
+					<execute>/opt/sublime_text/sublime_text</execute>
+				</action>
+			</item>
+			<item label="meld">
+				<action name="Execute">
+					<execute>meld</execute>
+				</action>
+			</item>
+		</menu>
 		<!-- This requires the presence of the 'menu' package to work -->
 		<separator/>
-		<menu execute="~/bin/openbox-menu.pl /menu" id="pipe-854230" label="Tools"/>
+		<menu execute="/home/localhost8080/bin/openbox-menu.pl /menu/auditing/" id="pipe-854230" label="Tools"/>
 		<separator/>
 		<menu id="/Debian"/>
 		<separator/>
