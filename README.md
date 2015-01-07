@@ -26,6 +26,8 @@ The following packages are recommended:
 * mc
 * source-code-pro fonts
 * tmux
+* gnome-do
+* xcompmgr
 
 ## Additional Instructions
 

@@ -467,16 +467,9 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/home/localhost8080/development/cosmo",
-				"/home/localhost8080/development/cosmo/assets/less",
-				"/home/localhost8080/development/cosmo/fragments",
-				"/home/localhost8080/development/cosmo/lib",
-				"/home/localhost8080/development/cosmo/lib/js"
-			],
 			"file_history":
 			[
+				"/home/localhost8080/dotfiles/README.md",
 				"/home/localhost8080/development/cosmo/fragments/modules/filters/filters.php",
 				"/home/localhost8080/development/cosmo/lib/js_load.php",
 				"/home/localhost8080/development/cosmo/lib/js/jquery.nouislider.js",
@@ -675,13 +668,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/home/localhost8080/development/cosmo"
-				}
-			],
 			"groups":
 			[
 				{
