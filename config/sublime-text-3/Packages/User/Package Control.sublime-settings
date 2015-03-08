@@ -1,13 +1,6 @@
 {
 	"in_process_packages":
 	[
-		"SublimeCodeIntel"
-	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2",
-		"ssl-linux"
 	],
 	"installed_packages":
 	[
