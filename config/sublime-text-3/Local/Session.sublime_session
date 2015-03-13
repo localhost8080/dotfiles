@@ -1,19 +1,25 @@
 {
 	"folder_history":
 	[
-		"/Users/localhost8080/Documents/Dropbox/development/multiloquent",
-		"/Users/localhost8080/Documents/Dropbox/development/scapy-tools",
+		"/home/localhost8080/development",
+		"/home/localhost8080/development/tident",
+		"/home/localhost8080/development/redback_bootstrap_cms",
 		"/home/localhost8080/development/cosmo",
+		"/home/localhost8080/development/fpsenergy",
+		"/home/localhost8080/development/redback_bootstrap",
+		"/home/localhost8080/development/unitedsports",
+		"/home/localhost8080/development/unitedsports/acc",
+		"/home/localhost8080/.mysql/workbench",
 		"/home/localhost/.config",
 		"/home/localhost/zend-eclipse-php/workspace/mybpos",
 		"/home/localhost/zend-eclipse-php/workspace/kelly"
 	],
 	"last_version": 3065,
-	"last_window_id": 55,
+	"last_window_id": 21,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 804.0,
+		"new_window_height": 875.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -29,16 +35,579 @@
 				"selected_items":
 				[
 					[
-						"phpcs",
-						"PHP Code Sniffer: Turn Execute On Save On"
+						"install",
+						"Package Control: Install Package"
 					],
 					[
-						"phpc",
-						"PHP Code Sniffer: Sniff this file"
+						"g pus",
+						"Git: Push"
 					],
 					[
-						"pa",
-						"Package Control: Upgrade Package"
+						"g q c",
+						"Git: Quick Commit"
+					],
+					[
+						"g q a",
+						"Git: Quick Add"
+					],
+					[
+						"q c",
+						"Git: Quick Commit"
+					],
+					[
+						"comm",
+						"Git: Commit"
+					],
+					[
+						"qui",
+						"Git: Quick Add"
+					],
+					[
+						"git pu",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Quick Commit"
+					],
+					[
+						"quic",
+						"Git: Quick Add"
+					],
+					[
+						"git q",
+						"Git: Quick Add"
+					],
+					[
+						"git",
+						"Git: Commit"
+					],
+					[
+						"git:add",
+						"Git: Quick Add"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git qui",
+						"Git: Quick Commit"
+					],
+					[
+						"git qu",
+						"Git: Quick Commit"
+					],
+					[
+						"git a",
+						"Git: Add..."
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 284.0,
+				"history":
+				[
+					"window.run_command(\"git_quick_add\");",
+					"self.window.run_command(\"git_quick_add\");",
+					"sublime.log_commands(True)",
+					"self.window.run_command(\"git_add_choice\")",
+					"sublime.log_commands(False)",
+					"sublime.run_command(\"git_add_choice\")",
+					"cls",
+					"clear",
+					"sublime.run_command(\"git_push\")",
+					"ApplicationCommand: sublime.run_command(\"git_push\")",
+					"sublime.log_commands(True)",
+					"view.run_command(\"git_quick_commit\");",
+					"view.run_command(\"git_add\");",
+					"\"command\": \"git_add\"",
+					"command: \"git_add\"",
+					"git_add",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/localhost8080/development/tident/shp/listN.php",
+				"/home/localhost8080/dumps/nutrition_group.sql",
+				"/home/localhost8080/development/redback_bootstrap_cms/admin/shp_slide_view.php",
+				"/home/localhost8080/Desktop/httpdocs/accessibility.php",
+				"/run/user/1000/gvfs/sftp:host=109.108.132.174,user=root/root/grep.txt",
+				"/home/localhost8080/Desktop/grep.txt",
+				"/home/localhost8080/Documents/Google Drive/jonathan@adeogroup.co.uk/email_template/welcome_to_adeo/index.html",
+				"/home/localhost8080/dumps/nettalent-blog.sql",
+				"/home/localhost8080/Desktop/untitled.html",
+				"/home/localhost8080/Desktop/nettalent-cats.sql",
+				"/home/localhost8080/Desktop/www_page_alts.sql",
+				"/home/localhost8080/Desktop/fps-con.sql",
+				"/home/localhost8080/Desktop/fpsenergy-create-statements.php",
+				"/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/localhost8080/dumps/aviation.sql",
+				"/home/localhost8080/dumps/fpsg.sql",
+				"/home/localhost8080/dumps/nettallent.sql",
+				"/home/localhost8080/dumps/ch-fix-blog.sql",
+				"/home/localhost8080/Desktop/tecgroup-categories and their ids.csv",
+				"/home/localhost8080/Desktop/tecgroup-countries and their ID.csv",
+				"/home/localhost8080/dotfiles/config/openbox/rc.xml",
+				"/home/localhost8080/Desktop/chrome apps/gitlab CI/manifest.json",
+				"/home/localhost8080/Desktop/adeosupport/manifest.json",
+				"/home/localhost8080/Desktop/gitlab/manifest.json",
+				"/home/localhost8080/Desktop/gitlab CI/manifest.json",
+				"/home/localhost8080/dotfiles/README.md",
+				"/home/localhost8080/development/cosmo/fragments/modules/filters/filters.php",
+				"/home/localhost8080/development/cosmo/lib/js_load.php",
+				"/home/localhost8080/development/cosmo/lib/js/jquery.nouislider.js",
+				"/home/localhost8080/development/cosmo/assets/css/style.css",
+				"/home/localhost8080/development/cosmo/assets/less/style.less",
+				"/home/localhost8080/development/RemoteSystemsTempFiles/95.172.18.162/var/www/vhosts/tecgroup.net/httpdocs/fragments/modules/search_flowers.php",
+				"/home/localhost8080/dumps/cosmo-blog.sql",
+				"/home/localhost8080/Desktop/phpmail.log",
+				"/home/localhost8080/bin/openbox-menu.pl",
+				"/menu/auditing/exploitation/web_application/wpscan",
+				"/etc/menu/README",
+				"/tmp/dirlist.pl",
+				"/home/localhost8080/.config/openbox-menu.xml",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/header.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/contact-us.php",
+				"/home/localhost/.config/sublime-text-3/Packages/User/run-multiple-commands.py",
+				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.py",
+				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
+				"/home/localhost/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
+				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/refer.php",
+				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilderPOP.php",
+				"/home/localhost/Desktop/todo:",
+				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
+				"/home/localhost/Desktop/need to prune the tagadab server of old sites:",
+				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
+				"/home/localhost/zend-eclipse-php/workspace/ferrari/card_details.php",
+				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
+				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
+				"/home/localhost/Desktop/wine_reviews_bak.sql",
+				"/home/localhost/Desktop/ALTER TABLE `shp_disc`",
+				"/home/localhost/dumps/dubai-en.sql",
+				"/home/localhost/Downloads/ATT00001.txt",
+				"/home/localhost/.bashrc",
+				"/home/localhost/Downloads/wine_export_1.csv",
+				"/home/localhost/Downloads/ATT00001 (1).txt",
+				"/home/localhost/.config/openbox/rc.xml",
+				"/home/localhost/Desktop/Product_Prices_inc_VAT.csv",
+				"/home/localhost/Desktop/simsalabim-sisyphus-68a3739/README.md",
+				"/home/localhost/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/localhost/dumps/ecommerce-test.sql",
+				"/home/localhost/dumps/ecommerce-test/ecommerce_test_shp_sku_brand.sql",
+				"/home/localhost/Desktop/spf records to check",
+				"/home/localhost/Desktop/cosmo/cosmositebackup11-7-14/.htaccess",
+				"/home/localhost/Downloads/alexshanks (1).txt",
+				"/home/localhost/Downloads/alexshanks.txt",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/web.config.txt",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/README.txt",
+				"/home/localhost/Downloads/giglab email log.txt",
+				"/home/localhost/dumps/kelly.sql",
+				"/home/localhost/Desktop/error_log",
+				"/home/localhost/Desktop/fpsg-dev-functions.php",
+				"/home/localhost/Desktop/fpsg-live-functions.php",
+				"/home/localhost/zend-eclipse-php/workspace/computer-megastore/lib/basket_cl.php",
+				"/home/localhost/dumps/hb_blog.sql",
+				"/home/localhost/dumps/smiths.sql",
+				"/home/localhost/dumps/happy_updated.sql",
+				"/home/localhost/dumps/ict.sql",
+				"/home/localhost/dumps/zdf.sql",
+				"/home/localhost/Desktop/cat7.html",
+				"/home/localhost/Desktop/integral_form.html",
+				"/home/localhost/Desktop/template.xml",
+				"/home/localhost/dumps/fpsg.sql",
+				"/home/localhost/Desktop/rsi_style.xslt",
+				"/home/localhost/Desktop/tident_template.csv",
+				"/home/localhost/Desktop/barcodes.sql.csv",
+				"/home/localhost/Desktop/computer-megastore.csv",
+				"/home/localhost/Desktop/build steps for email class:",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_tagadab_subdomain",
+				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_local",
+				"/home/localhost/Desktop/Redirects.txt",
+				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/Redirects.txt",
+				"/home/localhost/Desktop/information needed",
+				"/home/localhost/Downloads/uni/q4b.txt",
+				"/home/localhost/Downloads/uni/q4a.txt",
+				"/home/localhost/Downloads/uni/q3.txt",
+				"/home/localhost/Downloads/uni/q2a.txt",
+				"/home/localhost/Desktop/snag_list.csv",
+				"/home/localhost/Desktop/301-bbb.csv"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"drop",
+					",",
+					" ",
+					"^\\n",
+					"premierbraking",
+					"^\\n",
+					"churchill",
+					"^\\n",
+					"highlandchocolatier",
+					"^\\n",
+					"gobrandon",
+					")?>",
+					"<?= $html",
+					"&gt;",
+					"shp_cat",
+					"<hr",
+					"hr",
+					"brief",
+					"col-md-2",
+					"md",
+					"sm",
+					"?>\n                                            <?php",
+					"?>\n                                                <?php",
+					"</tr><?php",
+					"?><tr>",
+					"<?<?php",
+					"<?php } ",
+					"?>\n\n                                            <?<?php",
+					"{ ?>",
+					"?>\n                                        <?<?php ",
+					"?>\n<?<?php",
+					"?>\n                                        <?<?php",
+					"{ ?>",
+					"<?php if",
+					" ",
+					",,,6,0",
+					",,,5,0",
+					",,,5,1",
+					",,,4,1",
+					",,,3,1",
+					",,,2,1",
+					",1,1,1,1",
+					",,,1,1",
+					",1,1,0,1",
+					",,1,0,1",
+					",0",
+					",1",
+					"gobrandon",
+					"gobrandon.com",
+					"”",
+					"“",
+					"_price_range",
+					"Classes",
+					"$Target",
+					"  ",
+					"   ",
+					"  ",
+					"   ",
+					"    ",
+					"http://www.smithsgretnagreen.com",
+					"^\\n",
+					"craigholme",
+					"^\\n",
+					"etimon",
+					"^\\n",
+					"referrals",
+					"book",
+					"^\\n",
+					"functions.php",
+					"gedit",
+					"echo '",
+					"'postcode'",
+					"	",
+					"sku_id",
+					"where",
+					"sv.sku_id",
+					"	",
+					"wpr01086",
+					"	",
+					"		",
+					"	",
+					"		",
+					"\n",
+					"  ",
+					"	",
+					"		",
+					"div",
+					"<span></span>",
+					"<div></div>",
+					"<span></span>",
+					"<span><div></div></span>",
+					"&nbsp;",
+					"<div><span><div>&nbsp;</div></span></div>",
+					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
+					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
+					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
+					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
+					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
+					"<span >",
+					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
+					"    ",
+					"www_page",
+					"	",
+					"		",
+					"£",
+					"/",
+					"£",
+					"and",
+					"_gaq",
+					"function n",
+					","
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"\",\"",
+					"",
+					"\n    ",
+					"\\n",
+					"",
+					");\n                        ?>\n                        ",
+					"\n                        <?php\n                        $html",
+					"",
+					"shp_brand",
+					"col-xs-6 sol-sm-3 col-md-2",
+					"lg",
+					"md",
+					"",
+					" ",
+					"</tr>\n                                                    <?php ",
+					"?>\n                                                    <tr>",
+					"<?php",
+					"<?php \n                                        } ",
+					"",
+					"{\n                                                ?>",
+					"",
+					"{ \n?>",
+					"<?php \nif",
+					"",
+					"google",
+					"adeogroup.co.uk",
+					"\"",
+					" ",
+					"",
+					"/opt/sublime_text/sublime_text",
+					"",
+					"postcode",
+					"",
+					"sku_id;",
+					" where",
+					"v.sku_id",
+					"",
+					" ",
+					"p",
+					"",
+					"<span>",
+					"",
+					"-",
+					"",
+					"or",
+					" "
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 118.0
+			},
+			"output.git-commit":
+			{
+				"height": 118.0
+			},
+			"output.git-push":
+			{
+				"height": 373.0
+			},
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1511.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/localhost8080/Desktop/todo:",
+					"settings":
+					{
+						"buffer_size": 1958,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/localhost8080/Desktop/plan for composer",
+					"settings":
+					{
+						"buffer_size": 252,
+						"line_ending": "Unix",
+						"name": "things that should be in composer"
+					}
+				},
+				{
+					"file": "/home/localhost8080/Desktop/gift card system reqs",
+					"settings":
+					{
+						"buffer_size": 2139,
+						"line_ending": "Unix",
+						"name": "gift card system reqs"
+					}
+				},
+				{
+					"file": "/home/localhost8080/Desktop/plan for admin core:",
+					"settings":
+					{
+						"buffer_size": 455,
+						"line_ending": "Unix",
+						"name": "plan for admin / core:"
+					}
+				},
+				{
+					"file": "/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 542,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"pac in",
+						"Package Control: Install Package"
+					],
+					[
+						"pac ins",
+						"Package Control: Install Package"
 					],
 					[
 						"install",
@@ -141,7 +710,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 714.0
+				"width": 732.0
 			},
 			"console":
 			{
@@ -178,19 +747,32 @@
 			},
 			"file_history":
 			[
-				"/Users/localhost8080/Downloads/wpad.dat",
-				"/Users/localhost8080/Desktop/things for discussion board.txt",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/bootstrap/css/multiloquent/style.css",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/style.css",
-				"/Users/localhost8080/Library/Containers/it.bloop.airmail2/Data/Library/Application Support/Airmail/General/Tmp/changelog.txt",
-				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/43e7beef-f4a7-4cfd-98f2-1d5a6f6ae618/var/sites/j/jonathansblog.co.uk/public_html/wp-content/themes/multiloquent/style.css",
-				"/Users/localhost8080/Downloads/login.csv",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/multiloquent-base.php",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/functions.php",
-				"/Users/localhost8080/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
-				"/Users/localhost8080/bin/ruleset.xml",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/ruleset.xml",
-				"/Users/localhost8080/.config/sublime-text-3/Packages/Phpcs/phpcs.sublime-settings",
+				"/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/localhost8080/Google Drive/jonathan@adeogroup.co.uk/bin/delete_file_from_all_git_projects",
+				"/home/localhost8080/development/tident/shp/listN.php",
+				"/home/localhost8080/dumps/nutrition_group.sql",
+				"/home/localhost8080/development/redback_bootstrap_cms/admin/shp_slide_view.php",
+				"/home/localhost8080/Desktop/httpdocs/accessibility.php",
+				"/run/user/1000/gvfs/sftp:host=109.108.132.174,user=root/root/grep.txt",
+				"/home/localhost8080/Desktop/grep.txt",
+				"/home/localhost8080/Documents/Google Drive/jonathan@adeogroup.co.uk/email_template/welcome_to_adeo/index.html",
+				"/home/localhost8080/dumps/nettalent-blog.sql",
+				"/home/localhost8080/Desktop/untitled.html",
+				"/home/localhost8080/Desktop/nettalent-cats.sql",
+				"/home/localhost8080/Desktop/www_page_alts.sql",
+				"/home/localhost8080/Desktop/fps-con.sql",
+				"/home/localhost8080/Desktop/fpsenergy-create-statements.php",
+				"/home/localhost8080/dumps/aviation.sql",
+				"/home/localhost8080/dumps/fpsg.sql",
+				"/home/localhost8080/dumps/nettallent.sql",
+				"/home/localhost8080/dumps/ch-fix-blog.sql",
+				"/home/localhost8080/Desktop/tecgroup-categories and their ids.csv",
+				"/home/localhost8080/Desktop/tecgroup-countries and their ID.csv",
+				"/home/localhost8080/dotfiles/config/openbox/rc.xml",
+				"/home/localhost8080/Desktop/chrome apps/gitlab CI/manifest.json",
+				"/home/localhost8080/Desktop/adeosupport/manifest.json",
+				"/home/localhost8080/Desktop/gitlab/manifest.json",
+				"/home/localhost8080/Desktop/gitlab CI/manifest.json",
 				"/home/localhost8080/dotfiles/README.md",
 				"/home/localhost8080/development/cosmo/fragments/modules/filters/filters.php",
 				"/home/localhost8080/development/cosmo/lib/js_load.php",
@@ -281,7 +863,7 @@
 			],
 			"find":
 			{
-				"height": 22.0
+				"height": 38.0
 			},
 			"find_in_files":
 			{
@@ -295,8 +877,73 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					":after",
-					"18:28:61:6F:D9:8A",
+					"&rsquo;",
+					"cellspacing=\"0\" cellpadding=\"0\"",
+					"NULL",
+					"text",
+					"DEFAULT",
+					"color",
+					"DEFAULT",
+					"d_lname",
+					"^\\n",
+					" ->",
+					"-> ",
+					"kommand",
+					"-> ",
+					"db_class",
+					" /",
+					" ->",
+					"drop",
+					",",
+					" ",
+					"^\\n",
+					"premierbraking",
+					"^\\n",
+					"churchill",
+					"^\\n",
+					"highlandchocolatier",
+					"^\\n",
+					"gobrandon",
+					")?>",
+					"<?= $html",
+					"&gt;",
+					"shp_cat",
+					"<hr",
+					"hr",
+					"brief",
+					"col-md-2",
+					"md",
+					"sm",
+					"?>\n                                            <?php",
+					"?>\n                                                <?php",
+					"</tr><?php",
+					"?><tr>",
+					"<?<?php",
+					"<?php } ",
+					"?>\n\n                                            <?<?php",
+					"{ ?>",
+					"?>\n                                        <?<?php ",
+					"?>\n<?<?php",
+					"?>\n                                        <?<?php",
+					"{ ?>",
+					"<?php if",
+					" ",
+					",,,6,0",
+					",,,5,0",
+					",,,5,1",
+					",,,4,1",
+					",,,3,1",
+					",,,2,1",
+					",1,1,1,1",
+					",,,1,1",
+					",1,1,0,1",
+					",,1,0,1",
+					",0",
+					",1",
+					"gobrandon",
+					"gobrandon.com",
+					"”",
+					"“",
 					"_price_range",
 					"Classes",
 					"$Target",
@@ -357,8 +1004,7 @@
 					"£",
 					"and",
 					"_gaq",
-					"function n",
-					","
+					"function n"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -366,6 +1012,35 @@
 				"regex": true,
 				"replace_history":
 				[
+					"'",
+					"",
+					"\",\"",
+					"",
+					"\n    ",
+					"\\n",
+					"",
+					");\n                        ?>\n                        ",
+					"\n                        <?php\n                        $html",
+					"",
+					"shp_brand",
+					"col-xs-6 sol-sm-3 col-md-2",
+					"lg",
+					"md",
+					"",
+					" ",
+					"</tr>\n                                                    <?php ",
+					"?>\n                                                    <tr>",
+					"<?php",
+					"<?php \n                                        } ",
+					"",
+					"{\n                                                ?>",
+					"",
+					"{ \n?>",
+					"<?php \nif",
+					"",
+					"google",
+					"adeogroup.co.uk",
+					"\"",
 					" ",
 					"",
 					"/opt/sublime_text/sublime_text",
@@ -392,13 +1067,196 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/localhost8080/Desktop/todo:",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1958,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6,
+										6
+									]
+								],
+								"settings":
+								{
+									"WordCountSyntax": "markdown (standard)",
+									"auto_complete": false,
+									"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/localhost8080/Desktop/plan for composer",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 252,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										175,
+										175
+									]
+								],
+								"settings":
+								{
+									"WordCountSyntax": "plain text",
+									"auto_name": "things that should be in composer",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/localhost8080/Desktop/gift card system reqs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2139,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1394,
+										1394
+									]
+								],
+								"settings":
+								{
+									"WordCountSyntax": "plain text",
+									"auto_name": "gift card system reqs",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 691.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/localhost8080/Desktop/plan for admin core:",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 455,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										242,
+										242
+									]
+								],
+								"settings":
+								{
+									"WordCountShouldRun": true,
+									"WordCountSyntax": "markdown (standard)",
+									"auto_name": "plan for admin / core:",
+									"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 542,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										416,
+										416
+									]
+								],
+								"settings":
+								{
+									"WordCountShouldRun": false,
+									"WordCountSyntax": "json",
+									"auto_complete": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
 			"incremental_find":
 			{
-				"height": 22.0
+				"height": 26.0
 			},
 			"input":
 			{
 				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
 			},
 			"menu_visible": true,
 			"output.find_results":
@@ -417,9 +1275,11 @@
 			{
 				"height": 373.0
 			},
+			"position": "0,0,0,0,0,1680,66,3008,1003,3360,1050",
+			"project": "",
 			"replace":
 			{
-				"height": 40.0
+				"height": 72.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -446,6 +1306,10 @@
 				],
 				"width": 0.0
 			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
@@ -454,12 +1318,10 @@
 			"status_bar_visible": true,
 			"template_settings":
 			{
-			}
-		},
-		"new_window_width": 1130.0
-	},
-	"windows":
-	[
+			},
+			"window_id": 20,
+			"workspace_name": ""
+		}
 	],
 	"workspaces":
 	{
