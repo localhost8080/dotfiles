@@ -11,13 +11,15 @@
 		"Markdown"
 	],
 	"indent_to_bracket": false,
+	"numix_folder_icons": true,
 	"rulers":
 	[
 		80,
 		120
 	],
 	"tab_size": 4,
-	"theme": "Numix.sublime-theme",
+	"tabs_small": true,
+	"theme": "Numix Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
