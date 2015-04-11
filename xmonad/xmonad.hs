@@ -13,7 +13,7 @@ import System.Exit
 import qualified XMonad.StackSet as W
 import qualified Data.Map        as M
 
-import XMonad.Layout.NoBorders        -- to remove window borders
+-- import XMonad.Layout.NoBorders        -- to remove window borders
 import XMonad.Hooks.ManageDocks
 import XMonad.Hooks.EwmhDesktops
 
@@ -21,7 +21,7 @@ import XMonad.Layout.BorderResize
 import XMonad.Layout.Maximize
 import XMonad.Util.Run(spawnPipe)
 
-
+import XMonad.Layout.Spacing
 -- The preferred terminal program, which is used in a binding below and by
 -- certain contrib modules.
 --
@@ -66,8 +66,8 @@ myWorkspaces    = ["web","dev","3","4","5","6","7","8","9"]
 
 -- Border colors for unfocused and focused windows, respectively.
 --
---myNormalBorderColor  = "#dddddd"
---myFocusedBorderColor = "#ff0000"
+myNormalBorderColor  = "#454545"
+myFocusedBorderColor = "#dddddd"
 
 ------------------------------------------------------------------------
 -- Key bindings. Add, modify or remove key bindings here.
@@ -78,19 +78,21 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
     [ ((modMask,		xK_Return), spawn $ XMonad.terminal conf)
 
     -- launch dmenu
-    , ((modMask,               xK_d     ), spawn "exe=`dmenu_path | dmenu` && eval \"exec $exe\"")
+    
+    -- dmenu_run -nb "#073642" -nf "#fdf6e6" -sb "#073642" -sf "#2aa198" -l 10
+    , ((modMask,               xK_d     ), spawn "dmenu_run -nb \"#eee8d5\" -nf \"#454545\" -sb \"#d33682\" -sf \"#eee8d5\" -l 10")
 
     -- launch xfce4-launcher
     , ((modMask,               xK_p     ), spawn "xfrun4")
 
     -- launch gmrun
-    , ((modMask, xK_space     ), spawn "xfce4-appfinder")
+    --, ((modMask, xK_space     ), spawn "xfce4-appfinder")
 
     -- close focused window 
     , ((modMask .|. shiftMask, xK_c     ), kill)
 
      -- Rotate through the available layout algorithms
-    --, ((modMask,               xK_space ), sendMessage NextLayout)
+    , ((modMask,               xK_space ), sendMessage NextLayout)
 
     --  Reset the layouts on the current workspace to default
     , ((modMask .|. shiftMask, xK_space ), setLayout $ XMonad.layoutHook conf)
@@ -198,7 +200,7 @@ myMouseBindings (XConfig {XMonad.modMask = modMask}) = M.fromList $
 -- The available layouts.  Note that each layout is separated by |||,
 -- which denotes layout choice.
 --
-myLayout = maximize (tiled) ||| Mirror tiled ||| Full
+myLayout = tiled ||| Mirror tiled ||| Full
   where
      -- default tiling algorithm partitions the screen into two panes
      tiled   = Tall nmaster delta ratio
@@ -261,10 +263,6 @@ myFocusFollowsMouse = True
 -- per-workspace layout choices.
 --
 -- By default, do nothing.
-myStartupHook = return (
-    -- xmproc <- spawnPipe "/usr/bin/tint2",
-    -- xmproc <- spawnPipe "/usr/bin/gnome-settings-daemon",
-    )
 
 ------------------------------------------------------------------------
 -- Now run xmonad with all the defaults we set up.
@@ -294,16 +292,15 @@ defaults = defaultConfig {
      --   modMask            = myModMask,
      --   numlockMask        = myNumlockMask,
         workspaces         = myWorkspaces,
-     --   normalBorderColor  = myNormalBorderColor,
-     --   focusedBorderColor = myFocusedBorderColor,
+        normalBorderColor  = myNormalBorderColor,
+        focusedBorderColor = myFocusedBorderColor,
 
       -- key bindings
         keys               = myKeys,
         mouseBindings      = myMouseBindings,
 
       -- hooks, layouts
-        layoutHook         = borderResize $ avoidStruts $ layoutHook defaultConfig,        
+        layoutHook         = spacing 15 $ avoidStruts $ layoutHook defaultConfig,        
         manageHook         = manageDocks <+> myManageHook,
-        logHook            = ewmhDesktopsLogHook,
-        startupHook        = myStartupHook
+        logHook            = ewmhDesktopsLogHook
     }

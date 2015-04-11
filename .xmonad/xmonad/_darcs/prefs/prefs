@@ -1,0 +1,1 @@
+test runghc Setup.lhs configure --disable-optimization --user -f testing && runghc Setup.lhs build && ./dist/build/xmonad/xmonad --run-tests 50 && cat *.hs XMonad/*.hs | runghc tests/loc.hs

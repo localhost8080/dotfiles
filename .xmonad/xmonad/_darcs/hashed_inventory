@@ -1,0 +1,246 @@
+pristine:cd57e91c207712a46c5290ee5588beafc9e4841854655d4f7c8814c9a46a754e
+Starting with inventory:
+0000007479-d043da1f489dd0a21edb4ca06e8ecc3bee1395a93a0221d73d0740143d123cda
+[TAG 0.11 actual upload
+Adam Vogt <vogt.adam@gmail.com>**20130101014128
+ Ignore-this: 2c2a85caeed30cd23f02a7caf229fe7d
+] 
+hash: 0000000373-cb28236f9a833aeb6f3610d82686f63add686688e19b63dc2ad8de88dab2ba40
+[Add flags for call to ghc closing issue 240
+Adam Vogt <vogt.adam@gmail.com>**20130101035034
+ Ignore-this: 42a6a8599b615884c95626f74e3ba4a
+ 
+ The -main-is flag goes back to at least ghc 6.10, and maybe the warning that
+ this otherwise redundant flag enables (when xmonad.hs isn't a  module Main)
+ also dates back that far.
+] 
+hash: 0000000640-830f449b4016ac6550df45b4a1f0cff5ffae75f38327eaaa62b205480375af09
+[Issue 135 use wa_border_width for floating windows (neoraider)
+Adam Vogt <vogt.adam@gmail.com>**20130115170715
+ Ignore-this: c8ed6ceaf9483e31771ac25d86532f6c
+] 
+hash: 0000000288-3837cebbe6efe9ade1ed70cb45b552067c8d5efe587f4a16604c27302ba0e657
+[Grab all keycodes linked to each keysym, not just one
+Daniel Wagner <daniel@wagner-home.com>**20130118225446
+ Ignore-this: 1a6c001560f68f99d75d5f550e7e83
+ 
+ This patch is based heavily on the one contributed by
+ svein.ove@aas.no, but updated to avoid causing a conflict and to work
+ with the newest X11 bindings. The name of the patch (and comment
+ below) are copied verbatim from his patch.
+ 
+ XKeysymToKeycode only gives the first code bound to a given symbol. To
+ handle the case where multiple keys are bound to the same symbol,
+ XKeycodeToKeysym is used instead, searching through all possible
+ keycodes for each sym.
+] 
+hash: 0000001579-bd9fe78dbbe00507fe85d3d53b9cc2180c9382998f670be70f741782f7366057
+[configurableEventMasks
+mwlochbaum@gmail.com**20130205182858
+ Ignore-this: 3848de0f8f5ad5995e87a2a01e7752f
+] 
+hash: 0000002169-8d07dba4c488ca77dbae15aa34b96817705a1fda534508fefd004e875155a2a7
+[define the "help" string in the sample configuration bundled with xmonad
+Daniel Wagner <daniel@wagner-home.com>**20130106174254
+ Ignore-this: 1db666ea921046378921356e14cc828f
+] 
+hash: 0000002553-d932bd2f7676b244c856684dc45391f41c977b5e71cfee50932c14b6384160b1
+[use "modm" instead of "modMask" in the sample config
+Daniel Wagner <daniel@wagner-home.com>**20130106174414
+ Ignore-this: 75ad65ae7a708bce69f811c28912cc4b
+] 
+hash: 0000000375-757e90a2aeaea2412c260f1061d6a2575ab413d6f60c34897347e8f88ddfee4b
+[depend on data-default, and deprecate the monomorphic name defaultConfig
+Daniel Wagner <daniel@wagner-home.com>**20130528003531
+ Ignore-this: 1e746731695df3b6f684d5463a3da6a4
+] 
+hash: 0000002189-65d3f4ba42d96ee8322b0883bb44b0b91c4428f75b69e12c0e54109b9151c4eb
+[warning police: name userCodeDef's argument defValue instead of def
+Daniel Wagner <daniel@wagner-home.com>**20130528164401
+ Ignore-this: f32b218e2097a52c7ecccae28c23754b
+] 
+hash: 0000000316-d89506a3b1e59f8385de9b763488092ea3e96723d317f2b28058899008e1b9da
+[Bump version to 0.12
+Adam Vogt <vogt.adam@gmail.com>**20130720192124
+ Ignore-this: d73483c2dd30f7eea8f40daff7ef436f
+ 
+ This is to make contrib build failures resulting from by data-default
+ lead people to do the right thing: update xmonad-core.
+] 
+hash: 0000000321-3441aeba929bbfbcee424c419ed7300bec64a1bfbee109c7aba7acaa496c7fdf
+[derive Applicative instance for Query
+Adam Vogt <vogt.adam@gmail.com>**20140502055743
+ Ignore-this: 444b460116a8a153cdf45676ee5ad535
+] 
+hash: 0000000294-eca173bdd5e9a5a56acbafcb809d2faddf06d1cf0b292f9896834b4ce7143194
+[avoid warnings from missing Prelude.catch in ghc>=7.6
+Adam Vogt <vogt.adam@gmail.com>**20140502055823
+ Ignore-this: 3e544b29759ed703e8741f265903210c
+] 
+hash: 0000002015-f26097388490c01e39718ccb2faba6a9bb92b5bec0c31b3dbb5751a0e2f1fb39
+[move library part to src/
+Adam Vogt <vogt.adam@gmail.com>**20140502175159
+ Ignore-this: 39633e17915844643f12a3dd25288e81
+] 
+hash: 0000000959-728c2189dfc393d4d3079931fdbc3d9cd3f60e5fa2a6a122323c3e72af3c8376
+[OPTIONS_GHC is the preferred pragma name
+Adam Vogt <vogt.adam@gmail.com>**20140502175734
+ Ignore-this: 7f2269eb9bd7a139754763e5d1fcbd66
+] 
+hash: 0000000300-d01500bc7573483c46f20b30ae34c28e4450f28f4e246be6ce41b3953ca1b93e
+[hack to avoid crash when fewer workspaces than screens (#543)
+Adam Vogt <vogt.adam@gmail.com>**20140502175910
+ Ignore-this: 1bb0392eaed1e5b5437afff658960e95
+] 
+hash: 0000000433-60d8a8857a944b64df16b92d8d0b3252089b1002bf7fedee61dc9e278b453cff
+[update testsuite (mostly due Jesper Reenberg)
+Adam Vogt <vogt.adam@gmail.com>**20140502180146
+ Ignore-this: a5e926aa4e397e70d56e3c9db7108d5b
+ 
+ * use quickcheck2
+ * run them using cabal's test-suite field
+ * split up Properties into separate files
+] 
+hash: 0000092092-3b1e03af78dcd6f11c4c10065332086bd9854f9fb0b848f4fb333f453ecc81aa
+[clean up cabal file
+Adam Vogt <vogt.adam@gmail.com>**20140502180721
+ Ignore-this: b87b5c0f3b003d98efad3f0a654da2f7
+ 
+ We don't support ghc-6.6 anymore, so no need to include this split_base stuff.
+] 
+hash: 0000001730-2038d06e58da99e5c2706afd17c5d73930d8e6b60ee9e864659fded0ba5cbed6
+[updated hpc
+Adam Vogt <vogt.adam@gmail.com>**20140502184904
+ Ignore-this: a7f72dfb7414f48c55441eda6aaa1236
+] 
+hash: 0000001158-15883f1820662f542ba21338d861970a38371233dc8e02b854fadd93853e3e74
+[add forgotten tests back
+Adam Vogt <vogt.adam@gmail.com>**20140502192858
+ Ignore-this: 53707686cd4428f782eee4aabbaf177b
+] 
+hash: 0000000373-61a4db0444926f6c022430a94079a96859227337963a4d7883cb84900dba178e
+[put hpc reports in dist/hpc/
+Adam Vogt <vogt.adam@gmail.com>**20140502192907
+ Ignore-this: 28a6561819667adf513b71975a1096ad
+] 
+hash: 0000001048-aa358c92f14f9318d6bed203628cb02817ff2f5d9dee7041ed831e7fdc2b9985
+[run more tests (and add a couple)
+Adam Vogt <vogt.adam@gmail.com>**20140503021103
+ Ignore-this: 7b76bd48a7c7d6998505d0503b9d58a1
+] 
+hash: 0000003210-e2eb08b5e5ae459d4472fd8033cc7dfe5819cf3a174eb805021da49b6dd939ff
+[make hpc report cover the testsuite too
+Adam Vogt <vogt.adam@gmail.com>**20140503034125
+ Ignore-this: 1d366d12c23850236fc1df16e42a2b74
+] 
+hash: 0000000501-6a6e016035899a03d8a4afb1b3f468137b2163b4be4b48a43880e1c341183572
+[add some more forgotten properties
+Adam Vogt <vogt.adam@gmail.com>**20140503034144
+ Ignore-this: 8033fd85634a41dd6169cf6fb1af72f9
+] 
+hash: 0000000615-8bb394f8896ccf18852d0d3a025b948732cd30aab37aee4b8bafcb0810e34c9e
+[update README
+Adam Vogt <vogt.adam@gmail.com>**20140503044052
+ Ignore-this: 7f6f72c26444d44491b0ec6d2b0d3ab
+] 
+hash: 0000002604-ad323d1ac47908ef724b03761af649549cfb2168844c2b38de056c97c05437f5
+[note -fno-warn-unused-do-bind in STYLE
+Adam Vogt <vogt.adam@gmail.com>**20140503044105
+ Ignore-this: 2cc267afbcded7fa7e775d8ba750375c
+] 
+hash: 0000000336-4793aab3b6333c282359284198a3dcbe35a92faef899011f0540ae1dbe1c008e
+[add missing files to sdist
+Adam Vogt <vogt.adam@gmail.com>**20140503044740
+ Ignore-this: 13ea36cecf0aedef922e236ec5b5adf7
+] 
+hash: 0000000605-9d479c069f59c0c989fafbf61d5547d4c755bd656a1be0e91bb1bd0a608df997
+[remove unnecessary CPP
+Adam Vogt <vogt.adam@gmail.com>**20140503044815
+ Ignore-this: 248429a236689e68d1dc0e1d1092ca53
+] 
+hash: 0000000172-b445bdbca1eadcb17fa38fc1634dda840439f5a18841d7be8aa149abadf22bca
+[make cabal test show a FAIL when at least one test fails
+Adam Vogt <vogt.adam@gmail.com>**20140503054629
+ Ignore-this: b603ea6350e50cb9197f3a22fac32eae
+] 
+hash: 0000000626-af15137ed4d4d572c09737742337dfbab3a47066232515a387c1edc7101a7441
+[make the check for overflow cleaner
+Adam Vogt <vogt.adam@gmail.com>**20140507024930
+ Ignore-this: c12448f9219c8a29f2707526691acfda
+] 
+hash: 0000001964-09a41aded98b9cfd80fa65e2296bfc3496d10da030a790c2c1ce79b6c2996ff7
+[use only POSIX-standard regexen in GenerateManpage
+Daniel Wagner <me@dmwit.com>**20140511154602
+ Ignore-this: d3138374770c540c5d21824af4dad821
+] 
+hash: 0000000364-3a04c14b656af5927ab8234776c89d1515a38956cf8db22bfd6baeaf96735571
+[make GenerateManpage look in src/
+Adam Vogt <vogt.adam@gmail.com>**20140511171407
+ Ignore-this: 29a05d056a1f1614afbdcbe91901b51b
+] 
+hash: 0000000287-1409296fa73c5b0dade1d3413d1c80ad6ead3bf9cd31a18c07bc312f8ed9fcee
+[update GenerateManpage to pandoc 1.12
+Adam Vogt <vogt.adam@gmail.com>**20140511171441
+ Ignore-this: 7a8168999fbb181558dc97a194de65f9
+] 
+hash: 0000000807-51343db9d1cfa5d274c696875771ce22a8027f0d1d99ef76757a110a543d02ab
+[minor formatting of manpage
+Adam Vogt <vogt.adam@gmail.com>**20140511171735
+ Ignore-this: 980df75b1ff1fb769a404aad43b1101a
+] 
+hash: 0000000562-ba20f5e3d828465ef039c690c440f55b24be4d6aeeb1555521b308652dacff57
+[needs update for mplayer2
+Joey Hess <joeyh@debian.org>**20140703054359
+ Ignore-this: 9a17f371a79b5d656473dedfc4b85c85
+ 
+ xmonad floats mplayer by default. However, Debian has switched to
+ mplayer2, and so on upgrade, it will stop floating. This can be easily
+ fixed in the user's config file, but here is a patch that avoids
+ bothering the user with breakage on upgrade.
+] 
+hash: 0000000465-821e80520e638d3388d0cdf14c4537bcc42ba3d5efb3a25d3de328470dac521f
+[stop floating Gimp with the default manageHook
+Adam Vogt <vogt.adam@gmail.com>**20140704224025
+ Ignore-this: 12cc80a56195db505a20fbdb978ae91a
+ 
+ most people have probably moved on to gimp-2.8,
+ which doesn't really need to be floating
+] 
+hash: 0000000455-8c0e95c883caac74cb8988d1f92223be5d6e03717286f1d6778b140a05b97a97
+[don't encode paths for spawnPID (#348)
+Adam Vogt <vogt.adam@gmail.com>**20141020140410
+ Ignore-this: 6897bc8a39b7dd89164500c92f4ee43e
+] 
+hash: 0000000396-5fde6aa0c7c4dfcbc62b1d89e4cc0a94b1a8cbf0b1e6872b8c575befe319d7a3
+[depend on the setlocale package
+Adam Vogt <vogt.adam@gmail.com>**20141020141006
+ Ignore-this: 44289527d6f4e26d7b8c30341523fb91
+] 
+hash: 0000000729-ebc63183941fd8e8451440a91ae5c56ec8fae048146196f4249b762a044065ec
+[build with ghc-6.12 again
+Adam Vogt <vogt.adam@gmail.com>**20140815033808
+ Ignore-this: b96f439335e36c610b7dda52a69b8ba7
+] 
+hash: 0000000284-d9953f82cbcfc3f7b0c642b10e11023e1d151e278916fde526a39089b42c21e6
+[generate man/xmonad.1 man/xmonad.1.html with a more recent pandoc (1.13)
+Adam Vogt <vogt.adam@gmail.com>**20141222004033
+ Ignore-this: b82132ec298b7aaaaab435f1f6f2e4ba
+] 
+hash: 0000011446-56e960e0bb11358d3020ad065e9c04d36bee2ba24a133dfbae92f5b42ff3bfcd
+[use setLocale properly
+Adam Vogt <vogt.adam@gmail.com>**20150227025228
+ Ignore-this: 80ca1041e5e5847f4df086df66237a09
+ 
+ passing in Nothing returns the locale, while Just "" sets the locale according
+ to environment variables (which is what was being done before).
+ 
+ Thanks to geekosaur & v_v for finding this.
+] 
+hash: 0000000405-5c5514faa251a579221e9edf2532a6b44fe517008d39a9a4580ec0c58166d696
+[Avoid using instances removed in QuickCheck-2.7
+Adam Vogt <vogt.adam@gmail.com>**20150301135049
+ Ignore-this: 4f9b3906b88ae6a94602e2b29a3eecfc
+ 
+ see https://github.com/nick8325/quickcheck/issues/31 for details
+] 
+hash: 0000001538-eaaf74d3aee9bf1e55a4a2bd863ab18fe3724b4598abe81830e92ecc0f545899
