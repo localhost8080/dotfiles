@@ -1,0 +1,28 @@
+#!/bin/sh
+
+# script to get the bootswatch files and folder structure and put it into the multiloquent styles folder
+cd ~/tmp/bootswatch
+git pull
+themes=(amelia cerulean cosmo cyborg darkly flatly journal lumen paper readable sandstone simplex slate spacelab superhero united yeti)
+for theme in "${themes[@]}"
+do
+    cd /var/www/vhosts/wordpress/wp-content/themes/multiloquent/bootstrap/css
+    rm -rf $theme
+    cp -r ~/tmp/bootswatch/$theme $theme
+    cd $theme 
+    rm -f index.html bootswatch.less variables.less thumbnail.png bootstrap.css
+    cd ..
+    echo $theme
+done
+
+# default ones - into multiloquent folder and bootstrap folder
+cp ~/tmp/bootswatch/bower_components/bootstrap/dist/css/bootstrap.min.css /var/www/vhosts/wordpress/wp-content/themes/multiloquent/bootstrap/css/bootstrap/
+cp ~/tmp/bootswatch/bower_components/bootstrap/dist/css/bootstrap.min.css /var/www/vhosts/wordpress/wp-content/themes/multiloquent/bootstrap/css/multiloquent/
+cp ~/tmp/bootswatch/bower_components/bootstrap/dist/js/bootstrap.min.js /var/www/vhosts/wordpress/wp-content/themes/multiloquent/bootstrap/js/
+
+cd /var/www/vhosts/wordpress/wp-content/themes/multiloquent
+rm -rf documentation
+rm -f multiloquent.zip
+git add --all .
+git commit -m "update to all bootstrap and bootswatch themes"
+git push origin master

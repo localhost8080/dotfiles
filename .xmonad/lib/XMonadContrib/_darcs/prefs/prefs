@@ -1,1 +1,0 @@
-test runhaskell Setup.lhs configure --disable-optimization --user -f testing && runhaskell Setup.lhs build && runhaskell Setup.lhs haddock
