@@ -7,7 +7,7 @@ auto_save_setup=1
 preallocate_space=0
 auto_menu=0
 use_internal_view=1
-use_internal_edit=0
+use_internal_edit=1
 clear_before_exec=1
 confirm_delete=1
 confirm_overwrite=1
@@ -106,7 +106,7 @@ menubar_visible=1
 free_space=1
 horizontal_split=0
 vertical_equal=1
-left_panel_size=74
+left_panel_size=60
 horizontal_equal=1
 top_panel_size=1
 
