@@ -3,7 +3,7 @@
 # script to get the bootswatch files and folder structure and put it into the multiloquent styles folder
 cd ~/tmp/bootswatch
 git pull
-themes=(amelia cerulean cosmo cyborg darkly flatly journal lumen paper readable sandstone simplex slate spacelab superhero united yeti)
+themes=(cerulean cosmo cyborg darkly flatly journal lumen paper readable sandstone simplex slate spacelab superhero united yeti)
 for theme in "${themes[@]}"
 do
     cd /var/www/vhosts/wordpress/wp-content/themes/multiloquent/bootstrap/css
