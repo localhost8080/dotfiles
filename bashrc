@@ -84,6 +84,11 @@ if [ -x /usr/bin/dircolors ]; then
     alias egrep='egrep --color=auto'
 fi
 
+if [ "$(uname)" == "Darwin" ]; then
+    # Do something under Mac OS X platform
+    alias ls='ls -G'
+fi
+
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'

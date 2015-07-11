@@ -1,17 +1,15 @@
 {
 	"folder_history":
 	[
-		"/Users/localhost8080/Documents/Dropbox/development/sublime-text-numix",
-		"/home/localhost/.config",
-		"/home/localhost/zend-eclipse-php/workspace/mybpos",
-		"/home/localhost/zend-eclipse-php/workspace/kelly"
+		"/Users/localhost8080/Documents/Dropbox/development/multiloquent",
+		"/Volumes/Jonathansblog/public_html"
 	],
-	"last_version": 3065,
-	"last_window_id": 18,
+	"last_version": 3083,
+	"last_window_id": 39,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 774.0,
+		"new_window_height": 802.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -20,137 +18,44 @@
 				[
 				]
 			},
-			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
+				"height": 398.0,
+				"last_filter": "php",
 				"selected_items":
 				[
 					[
-						"g pus",
-						"Git: Push"
+						"php",
+						"PHP Code Sniffer: Sniff this file"
 					],
 					[
-						"g q c",
-						"Git: Quick Commit"
-					],
-					[
-						"g q a",
-						"Git: Quick Add"
-					],
-					[
-						"q c",
-						"Git: Quick Commit"
-					],
-					[
-						"comm",
-						"Git: Commit"
-					],
-					[
-						"qui",
-						"Git: Quick Add"
-					],
-					[
-						"git pu",
-						"Git: Push"
-					],
-					[
-						"git comm",
-						"Git: Quick Commit"
-					],
-					[
-						"quic",
-						"Git: Quick Add"
-					],
-					[
-						"git q",
-						"Git: Quick Add"
-					],
-					[
-						"git",
-						"Git: Commit"
-					],
-					[
-						"git:add",
-						"Git: Quick Add"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"git add",
-						"Git: Add..."
-					],
-					[
-						"git pus",
-						"Git: Push"
-					],
-					[
-						"git qui",
-						"Git: Quick Commit"
-					],
-					[
-						"git qu",
-						"Git: Quick Commit"
-					],
-					[
-						"git a",
-						"Git: Add..."
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"git commit",
-						"Git: Commit"
+						"code",
+						"CodeFormatter: Format Code"
 					],
 					[
 						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"package install",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"package ",
 						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
 					]
 				],
-				"width": 457.0
+				"width": 752.0
 			},
 			"console":
 			{
-				"height": 284.0,
+				"height": 0.0,
 				"history":
 				[
-					"window.run_command(\"git_quick_add\");",
-					"self.window.run_command(\"git_quick_add\");",
-					"sublime.log_commands(True)",
-					"self.window.run_command(\"git_add_choice\")",
-					"sublime.log_commands(False)",
-					"sublime.run_command(\"git_add_choice\")",
-					"cls",
-					"clear",
-					"sublime.run_command(\"git_push\")",
-					"ApplicationCommand: sublime.run_command(\"git_push\")",
-					"sublime.log_commands(True)",
-					"view.run_command(\"git_quick_commit\");",
-					"view.run_command(\"git_add\");",
-					"\"command\": \"git_add\"",
-					"command: \"git_add\"",
-					"git_add",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
 				]
 			},
 			"distraction_free":
@@ -164,84 +69,53 @@
 			},
 			"file_history":
 			[
-				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/header.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/contact-us.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/run-multiple-commands.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
-				"/home/localhost/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/refer.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilderPOP.php",
-				"/home/localhost/Desktop/todo:",
-				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
-				"/home/localhost/Desktop/need to prune the tagadab server of old sites:",
-				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/ferrari/card_details.php",
-				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
-				"/home/localhost/Desktop/wine_reviews_bak.sql",
-				"/home/localhost/Desktop/ALTER TABLE `shp_disc`",
-				"/home/localhost/dumps/dubai-en.sql",
-				"/home/localhost/Downloads/ATT00001.txt",
-				"/home/localhost/.bashrc",
-				"/home/localhost/Downloads/wine_export_1.csv",
-				"/home/localhost/Downloads/ATT00001 (1).txt",
-				"/home/localhost/.config/openbox/rc.xml",
-				"/home/localhost/Desktop/Product_Prices_inc_VAT.csv",
-				"/home/localhost/Desktop/simsalabim-sisyphus-68a3739/README.md",
-				"/home/localhost/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/localhost/dumps/ecommerce-test.sql",
-				"/home/localhost/dumps/ecommerce-test/ecommerce_test_shp_sku_brand.sql",
-				"/home/localhost/Desktop/spf records to check",
-				"/home/localhost/Desktop/cosmo/cosmositebackup11-7-14/.htaccess",
-				"/home/localhost/Downloads/alexshanks (1).txt",
-				"/home/localhost/Downloads/alexshanks.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/web.config.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/README.txt",
-				"/home/localhost/Downloads/giglab email log.txt",
-				"/home/localhost/dumps/kelly.sql",
-				"/home/localhost/Desktop/error_log",
-				"/home/localhost/Desktop/fpsg-dev-functions.php",
-				"/home/localhost/Desktop/fpsg-live-functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/computer-megastore/lib/basket_cl.php",
-				"/home/localhost/dumps/hb_blog.sql",
-				"/home/localhost/dumps/smiths.sql",
-				"/home/localhost/dumps/happy_updated.sql",
-				"/home/localhost/dumps/ict.sql",
-				"/home/localhost/dumps/zdf.sql",
-				"/home/localhost/Desktop/cat7.html",
-				"/home/localhost/Desktop/integral_form.html",
-				"/home/localhost/Desktop/template.xml",
-				"/home/localhost/dumps/fpsg.sql",
-				"/home/localhost/Desktop/rsi_style.xslt",
-				"/home/localhost/Desktop/tident_template.csv",
-				"/home/localhost/Desktop/barcodes.sql.csv",
-				"/home/localhost/Desktop/computer-megastore.csv",
-				"/home/localhost/Desktop/build steps for email class:",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_tagadab_subdomain",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_local",
-				"/home/localhost/Desktop/Redirects.txt",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/Redirects.txt",
-				"/home/localhost/Desktop/information needed",
-				"/home/localhost/Downloads/uni/q4b.txt",
-				"/home/localhost/Downloads/uni/q4a.txt",
-				"/home/localhost/Downloads/uni/q3.txt",
-				"/home/localhost/Downloads/uni/q2a.txt",
-				"/home/localhost/Desktop/snag_list.csv",
-				"/home/localhost/Desktop/301-bbb.csv"
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/readme.txt",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/index.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/navigation.php",
+				"/Users/localhost8080/Library/Containers/it.bloop.airmail2/Data/Library/Application Support/Airmail/General/Tmp/changelog.txt",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/search.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/category.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/featuredimage.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/archive.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/advert.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/comments.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/error-snippet.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/home.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/single.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/tag.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/template-adventures-single.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/template-category-index.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/template-full-width-no-header-single.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/template-full-width-single.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/template-tag-index.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/yarpp-template-multiloquent.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/page.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/sidebar.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/404.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/author.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/breadcrumb.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/footer.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/front-page.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/menu.js",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/metadata.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/multiloquent-base.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/searchform.php",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/social.php",
+				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/Phpcs/phpcs.sublime-settings",
+				"/Users/localhost8080/Library/Application Support/Brackets/extensions/user/mikaeljorhult.brackets-php-lint-tools/modules/CommandRunner.js",
+				"/Users/localhost8080/Library/Application Support/Brackets/extensions/user/mikaeljorhult.brackets-php-lint-tools/modules/SettingsDialog.js",
+				"/Users/localhost8080/Library/Application Support/Brackets/extensions/user/mikaeljorhult.brackets-php-lint-tools/main.js",
+				"/Users/localhost8080/Library/Application Support/Brackets/extensions/user/mikaeljorhult.brackets-php-lint-tools/Gulpfile.js",
+				"/Users/localhost8080/Library/Application Support/Brackets/extensions/user/mikaeljorhult.brackets-php-lint-tools/package.json",
+				"/Users/localhost8080/Library/Application Support/Brackets/extensions/user/mikaeljorhult.brackets-php-lint-tools/node/commander.js",
+				"/Users/localhost8080/Library/Application Support/Brackets/extensions/user/lintyai/config.js",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/style.css",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/README.md",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/ruleset.xml"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 22.0
 			},
 			"find_in_files":
 			{
@@ -255,49 +129,24 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"echo '",
-					"'postcode'",
-					"	",
-					"sku_id",
-					"where",
-					"sv.sku_id",
-					"	",
-					"wpr01086",
-					"	",
-					"		",
-					"	",
-					"		",
-					"\n",
-					"  ",
-					"	",
-					"		",
-					"div",
-					"<span></span>",
-					"<div></div>",
-					"<span></span>",
-					"<span><div></div></span>",
-					"&nbsp;",
-					"<div><span><div>&nbsp;</div></span></div>",
-					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
-					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
-					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
-					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
-					"<span >",
-					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
-					"    ",
-					"www_page",
-					"	",
-					"		",
-					"£",
-					"/",
-					"£",
-					"and",
-					"_gaq",
-					"function n",
-					","
+					">",
+					"&gt;",
+					"<",
+					"</pre>",
+					"<pre>",
+					"</pre>",
+					"<pre class=\"language-bash\">",
+					"[/code]",
+					"[code language=bash]",
+					"0;34m",
+					"-",
+					"\\342\\224\\200",
+					"165",
+					"$sq_color",
+					"xmlrpc",
+					"xml",
+					"amelia",
+					")\n    {"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -305,22 +154,20 @@
 				"regex": false,
 				"replace_history":
 				[
-					"",
-					"postcode",
-					"",
-					"sku_id;",
-					" where",
-					"v.sku_id",
-					"",
-					" ",
-					"p",
-					"",
-					"<span>",
-					"",
+					"&gt;",
+					"&lt;",
+					"&gt;",
+					"</code></pre>",
+					"<pre><code class=\"language-bash\">",
+					"</code></pre>",
+					"<pre><code class=\"language-bash\">",
+					"</pre>",
+					"<pre class=\"language-bash\">",
+					"0;32m",
+					"\\342\\224\\200",
 					"-",
-					"",
-					"or",
-					" "
+					"\\[\\033[0;34m\\]",
+					"){"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -341,18 +188,7 @@
 			{
 				"height": 0.0
 			},
-			"output.git":
-			{
-				"height": 118.0
-			},
-			"output.git-commit":
-			{
-				"height": 118.0
-			},
-			"output.git-push":
-			{
-				"height": 373.0
-			},
+			"pinned_build_system": "",
 			"replace":
 			{
 				"height": 40.0
@@ -361,6 +197,7 @@
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -369,6 +206,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -377,6 +215,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -386,515 +225,16 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 320.0,
+			"side_bar_width": 333.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1244.0
+		"new_window_width": 1157.0
 	},
 	"windows":
 	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 597,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nMarkdownEditing:\n---------------\n\n  # MarkdownEditing 2.1.1 Changelog\n  \n  Your _MarkdownEditing_ plugin is updated. Enjoy new version. For any type of feedback you can use [GitHub issues][issues].\n  \n  ## Bug Fixes\n  \n  * Lists containing list bullet characters (*, -, +) now can be properly indented.\n  * Some footnotes related commands are fixed.\n  * <_script_> code blocks now break markdown syntax hightlight less often (but still buggy).\n  \n  ## New Features\n  \n  * \"Paste as link\"(shortcut: ctrl+super+v(PC)/super+alt+v(MAC)) no longer requires a selection.\n  * ***Bold and italic*** rendering is now supported.\n  \n  P.S. We now have [@felixhao28][] in the project's team. He has already done a\n  great job with long-waiting bugs and issues in the issue list. Thanks and\n  welcome Felix!\n  \n  [issues]: https://github.com/SublimeText-Markdown/MarkdownEditing/issues\n  [@felixhao28]: https://github.com/felixhao28\n  \n  ",
-					"settings":
-					{
-						"buffer_size": 976,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"scratch": true
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 400.0,
-				"selected_items":
-				[
-					[
-						"g pus",
-						"Git: Push"
-					],
-					[
-						"g q c",
-						"Git: Quick Commit"
-					],
-					[
-						"g q a",
-						"Git: Quick Add"
-					],
-					[
-						"q c",
-						"Git: Quick Commit"
-					],
-					[
-						"comm",
-						"Git: Commit"
-					],
-					[
-						"qui",
-						"Git: Quick Add"
-					],
-					[
-						"git pu",
-						"Git: Push"
-					],
-					[
-						"git comm",
-						"Git: Quick Commit"
-					],
-					[
-						"quic",
-						"Git: Quick Add"
-					],
-					[
-						"git q",
-						"Git: Quick Add"
-					],
-					[
-						"git",
-						"Git: Commit"
-					],
-					[
-						"git:add",
-						"Git: Quick Add"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"git add",
-						"Git: Add..."
-					],
-					[
-						"git pus",
-						"Git: Push"
-					],
-					[
-						"git qui",
-						"Git: Quick Commit"
-					],
-					[
-						"git qu",
-						"Git: Quick Commit"
-					],
-					[
-						"git a",
-						"Git: Add..."
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"git commit",
-						"Git: Commit"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"package install",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"package ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 457.0
-			},
-			"console":
-			{
-				"height": 284.0,
-				"history":
-				[
-					"window.run_command(\"git_quick_add\");",
-					"self.window.run_command(\"git_quick_add\");",
-					"sublime.log_commands(True)",
-					"self.window.run_command(\"git_add_choice\")",
-					"sublime.log_commands(False)",
-					"sublime.run_command(\"git_add_choice\")",
-					"cls",
-					"clear",
-					"sublime.run_command(\"git_push\")",
-					"ApplicationCommand: sublime.run_command(\"git_push\")",
-					"sublime.log_commands(True)",
-					"view.run_command(\"git_quick_commit\");",
-					"view.run_command(\"git_add\");",
-					"\"command\": \"git_add\"",
-					"command: \"git_add\"",
-					"git_add",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/header.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/contact-us.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/run-multiple-commands.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
-				"/home/localhost/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/refer.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilderPOP.php",
-				"/home/localhost/Desktop/todo:",
-				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
-				"/home/localhost/Desktop/need to prune the tagadab server of old sites:",
-				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/ferrari/card_details.php",
-				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
-				"/home/localhost/Desktop/wine_reviews_bak.sql",
-				"/home/localhost/Desktop/ALTER TABLE `shp_disc`",
-				"/home/localhost/dumps/dubai-en.sql",
-				"/home/localhost/Downloads/ATT00001.txt",
-				"/home/localhost/.bashrc",
-				"/home/localhost/Downloads/wine_export_1.csv",
-				"/home/localhost/Downloads/ATT00001 (1).txt",
-				"/home/localhost/.config/openbox/rc.xml",
-				"/home/localhost/Desktop/Product_Prices_inc_VAT.csv",
-				"/home/localhost/Desktop/simsalabim-sisyphus-68a3739/README.md",
-				"/home/localhost/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/localhost/dumps/ecommerce-test.sql",
-				"/home/localhost/dumps/ecommerce-test/ecommerce_test_shp_sku_brand.sql",
-				"/home/localhost/Desktop/spf records to check",
-				"/home/localhost/Desktop/cosmo/cosmositebackup11-7-14/.htaccess",
-				"/home/localhost/Downloads/alexshanks (1).txt",
-				"/home/localhost/Downloads/alexshanks.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/web.config.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/README.txt",
-				"/home/localhost/Downloads/giglab email log.txt",
-				"/home/localhost/dumps/kelly.sql",
-				"/home/localhost/Desktop/error_log",
-				"/home/localhost/Desktop/fpsg-dev-functions.php",
-				"/home/localhost/Desktop/fpsg-live-functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/computer-megastore/lib/basket_cl.php",
-				"/home/localhost/dumps/hb_blog.sql",
-				"/home/localhost/dumps/smiths.sql",
-				"/home/localhost/dumps/happy_updated.sql",
-				"/home/localhost/dumps/ict.sql",
-				"/home/localhost/dumps/zdf.sql",
-				"/home/localhost/Desktop/cat7.html",
-				"/home/localhost/Desktop/integral_form.html",
-				"/home/localhost/Desktop/template.xml",
-				"/home/localhost/dumps/fpsg.sql",
-				"/home/localhost/Desktop/rsi_style.xslt",
-				"/home/localhost/Desktop/tident_template.csv",
-				"/home/localhost/Desktop/barcodes.sql.csv",
-				"/home/localhost/Desktop/computer-megastore.csv",
-				"/home/localhost/Desktop/build steps for email class:",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_tagadab_subdomain",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_local",
-				"/home/localhost/Desktop/Redirects.txt",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/Redirects.txt",
-				"/home/localhost/Desktop/information needed",
-				"/home/localhost/Downloads/uni/q4b.txt",
-				"/home/localhost/Downloads/uni/q4a.txt",
-				"/home/localhost/Downloads/uni/q3.txt",
-				"/home/localhost/Downloads/uni/q2a.txt",
-				"/home/localhost/Desktop/snag_list.csv",
-				"/home/localhost/Desktop/301-bbb.csv"
-			],
-			"find":
-			{
-				"height": 26.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"echo '",
-					"'postcode'",
-					"	",
-					"sku_id",
-					"where",
-					"sv.sku_id",
-					"	",
-					"wpr01086",
-					"	",
-					"		",
-					"	",
-					"		",
-					"\n",
-					"  ",
-					"	",
-					"		",
-					"div",
-					"<span></span>",
-					"<div></div>",
-					"<span></span>",
-					"<span><div></div></span>",
-					"&nbsp;",
-					"<div><span><div>&nbsp;</div></span></div>",
-					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
-					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
-					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
-					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
-					"<span >",
-					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
-					"    ",
-					"www_page",
-					"	",
-					"		",
-					"£",
-					"/",
-					"£",
-					"and",
-					"_gaq",
-					"function n",
-					","
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"",
-					"postcode",
-					"",
-					"sku_id;",
-					" where",
-					"v.sku_id",
-					"",
-					" ",
-					"p",
-					"",
-					"<span>",
-					"",
-					"-",
-					"",
-					"or",
-					" "
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 597,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"WordCountSyntax": "json",
-									"auto_complete": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 976,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										976,
-										976
-									]
-								],
-								"settings":
-								{
-									"WordCountSyntax": "plain text",
-									"auto_indent": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 558.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 34.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.git":
-			{
-				"height": 118.0
-			},
-			"output.git-commit":
-			{
-				"height": 118.0
-			},
-			"output.git-push":
-			{
-				"height": 373.0
-			},
-			"position": "0,0,0,0,0,188,161,1432,935,3360,1050",
-			"project": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 320.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 18,
-			"workspace_name": ""
-		}
 	],
 	"workspaces":
 	{
