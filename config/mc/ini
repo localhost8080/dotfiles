@@ -97,8 +97,8 @@ editor_drop_selection_on_copy=1
 editor_stop_format_chars=-+*\\,.;:&>
 
 [Layout]
-message_visible=1
-keybar_visible=1
+message_visible=0
+keybar_visible=0
 xterm_title=1
 output_lines=0
 command_prompt=1
@@ -149,6 +149,21 @@ torben_fj_mode=false
 quick_search_mode=2
 
 select_flags=6
+
+[FindFile]
+file_case_sens=true
+file_shell_pattern=true
+file_find_recurs=true
+file_skip_hidden=false
+file_all_charsets=false
+content_use=true
+content_case_sens=true
+content_regexp=false
+content_first_hit=false
+content_whole_words=false
+content_all_charsets=false
+ignore_dirs_enable=true
+ignore_dirs=
 
 [Panelize]
 Find *.orig after patching=find . -name \\*.orig -print
