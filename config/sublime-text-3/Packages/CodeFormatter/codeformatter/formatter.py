@@ -1,7 +1,7 @@
-# @author 		Avtandil Kikabidze
-# @copyright 		Copyright (c) 2008-2014, Avtandil Kikabidze aka LONGMAN (akalongman@gmail.com)
+# @author 			Avtandil Kikabidze
+# @copyright 		Copyright (c) 2008-2015, Avtandil Kikabidze aka LONGMAN (akalongman@gmail.com)
 # @link 			http://long.ge
-# @license 		GNU General Public License version 2 or later;
+# @license 		The MIT License (MIT)
 
 import os, sys, re, sublime
 
@@ -81,7 +81,7 @@ class Formatter:
 			return False
 
 	def getSyntax(self):
-		pattern = re.compile(r"Packages/(.+?)/.+?\.tmLanguage")
+		pattern = re.compile(r"Packages/.*/(.+?).(?=tmLanguage|sublime-syntax)")
 		m = pattern.search(self.syntax_file)
 		found = ""
 		if (m):

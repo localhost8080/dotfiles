@@ -144,6 +144,11 @@ export LESS_TERMCAP_us=$'\E[04;38;5;146m' # begin underline
 if [ -d "$HOME/bin" ] ; then
     PATH="$HOME/bin:$PATH"
 fi
+if [ -d "$HOME/bin/bin_files" ] ; then
+    PATH="$HOME/bin/bin_files:$PATH"
+fi
+
+
 
 if [ -d "$HOME/.composer/vendor/bin" ] ; then
     PATH="$HOME/.composer/vendor/bin:$PATH"

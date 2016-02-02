@@ -96,6 +96,8 @@ keymap=mc.keymap
 editor_drop_selection_on_copy=1
 editor_stop_format_chars=-+*\\,.;:&>
 
+editor_state_full_filename=1
+
 [Layout]
 message_visible=1
 keybar_visible=1
@@ -106,7 +108,7 @@ menubar_visible=1
 free_space=1
 horizontal_split=0
 vertical_equal=1
-left_panel_size=60
+left_panel_size=100
 horizontal_equal=1
 top_panel_size=1
 
@@ -149,6 +151,21 @@ torben_fj_mode=false
 quick_search_mode=2
 
 select_flags=6
+
+[FindFile]
+file_case_sens=true
+file_shell_pattern=true
+file_find_recurs=true
+file_skip_hidden=false
+file_all_charsets=false
+content_use=true
+content_case_sens=false
+content_regexp=false
+content_first_hit=false
+content_whole_words=false
+content_all_charsets=false
+ignore_dirs_enable=true
+ignore_dirs=
 
 [Panelize]
 Find *.orig after patching=find . -name \\*.orig -print

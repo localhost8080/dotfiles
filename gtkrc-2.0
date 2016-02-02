@@ -1,6 +1,6 @@
 # -- THEME AUTO-WRITTEN BY gtk-theme-switch2 DO NOT EDIT
-include "/home/localhost/.themes/numix_solarized/gtk-2.0/gtkrc"
+include "/usr/share/themes/Arc-Darker/gtk-2.0/gtkrc"
 
-include "/home/localhost/.gtkrc-2.0.mine"
+include "/home/localhost8080/.gtkrc-2.0.mine"
 
 # -- THEME AUTO-WRITTEN BY gtk-theme-switch2 DO NOT EDIT

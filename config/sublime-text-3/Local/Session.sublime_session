@@ -1,17 +1,22 @@
 {
 	"folder_history":
 	[
+		"/home/localhost8080/development/chocolate",
+		"/home/localhost8080/development/defacto",
+		"/home/localhost8080/Desktop/seamillhydro.co.uk",
+		"/home/localhost8080/Documents/clients",
+		"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/Theme - Default",
 		"/Users/localhost8080/Documents/Dropbox/development/sublime-text-numix",
 		"/home/localhost/.config",
 		"/home/localhost/zend-eclipse-php/workspace/mybpos",
 		"/home/localhost/zend-eclipse-php/workspace/kelly"
 	],
-	"last_version": 3065,
-	"last_window_id": 18,
+	"last_version": 3083,
+	"last_window_id": 32,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 774.0,
+		"new_window_height": 480.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -20,12 +25,32 @@
 				[
 				]
 			},
-			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
+				"height": 392.0,
+				"last_filter": "pac",
 				"selected_items":
 				[
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Preferences: Browse Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
 					[
 						"g pus",
 						"Git: Push"
@@ -75,14 +100,6 @@
 						"Git: Quick Add"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
 						"git add",
 						"Git: Add..."
 					],
@@ -127,7 +144,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 457.0
+				"width": 593.0
 			},
 			"console":
 			{
@@ -164,6 +181,27 @@
 			},
 			"file_history":
 			[
+				"/home/localhost8080/Documents/clients/ambulance/ambulance.txt",
+				"/home/localhost8080/Documents/clients/chocolate/giftcards - todo",
+				"/home/localhost8080/Documents/clients/churchill/churchill",
+				"/tmp/mozilla_localhost80800/log_from_2015-10-01_to_2015-10-21.txt",
+				"/home/localhost8080/Downloads/AffiliateService",
+				"/home/localhost8080/Downloads/FullscreenForm/index.html",
+				"/home/localhost8080/Desktop/zero.1.sql",
+				"/home/localhost8080/Desktop/grep_strings.txt",
+				"/home/localhost8080/Desktop/seamillhydro.co.uk/subdomains/events/httpdocs/page/129.html",
+				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/manual.conf",
+				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/usr/local/psa/admin/conf/templates/custom/domain/domainVirtualHost.php",
+				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/jk.conf",
+				"/run/user/1000/gvfs/sftp:host=109.108.132.118,user=root/etc/httpd/conf.d/php.conf",
+				"/run/user/1000/gvfs/sftp:host=109.108.132.118,user=root/etc/httpd/conf.d/zz010_psa_httpd.conf",
+				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/zz010_psa_httpd.conf",
+				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf/httpd.conf",
+				"/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/localhost8080/.mysql/workbench/connections.xml",
+				"/home/localhost8080/Desktop/week b4 holiday",
+				"/home/localhost8080/Documents/clients/nestegg/william - nest egg",
+				"/home/localhost8080/Downloads/905583_dentist.sql",
 				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
@@ -241,7 +279,7 @@
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
@@ -255,6 +293,36 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"'] ",
+					"span",
+					"pull-right",
+					"&nbsp;",
+					"<img src=\"http://hoyanet.co.uk/images/hoya/common/sym_list3.gif\" alt=\"\" border=\"0\" />",
+					"http://hoyanet.co.uk/images/blind.gif",
+					"></a>",
+					"<p>&nbsp;</p>",
+					"</td>",
+					"</tr>\n        </tbody>\n    </table>",
+					"<td class=\"text\" align=\"left\">",
+					"<td>",
+					"<td class=\"text\" width=\"100%\">",
+					"<td valign=\"top\">",
+					"<tr>",
+					" <tbody>",
+					"<div class=\"col-xs-12 col-sm-6\">",
+					"</td>",
+					"<td>",
+					"form",
+					"sym",
+					"<p>",
+					"109.108.132.177",
+					"case ",
+					"</td></tr>';",
+					"</td><td><h3>",
+					"$text .= '<tr><td>",
+					"=    ",
+					"' ",
+					" ",
 					"echo '",
 					"'postcode'",
 					"	",
@@ -305,6 +373,16 @@
 				"regex": false,
 				"replace_history":
 				[
+					" pull-right text-right",
+					" ",
+					"</li><li>",
+					"",
+					"<div class=\"col-xs-12 col-sm-6 col-md-4\">",
+					"</div>",
+					"<div class=\"col-xs-12 col-sm-6\">",
+					"<p class=\"col-xs-12\">",
+					" 109.108.132.119",
+					" ",
 					"",
 					"postcode",
 					"",
@@ -330,7 +408,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 22.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -353,14 +431,16 @@
 			{
 				"height": 373.0
 			},
+			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 40.0
+				"height": 74.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -369,6 +449,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -377,6 +458,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -386,13 +468,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 320.0,
+			"side_bar_width": 275.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1244.0
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -401,35 +483,42 @@
 			{
 				"selected_items":
 				[
+					[
+						"page",
+						"pagebuilder"
+					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 597,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nMarkdownEditing:\n---------------\n\n  # MarkdownEditing 2.1.1 Changelog\n  \n  Your _MarkdownEditing_ plugin is updated. Enjoy new version. For any type of feedback you can use [GitHub issues][issues].\n  \n  ## Bug Fixes\n  \n  * Lists containing list bullet characters (*, -, +) now can be properly indented.\n  * Some footnotes related commands are fixed.\n  * <_script_> code blocks now break markdown syntax hightlight less often (but still buggy).\n  \n  ## New Features\n  \n  * \"Paste as link\"(shortcut: ctrl+super+v(PC)/super+alt+v(MAC)) no longer requires a selection.\n  * ***Bold and italic*** rendering is now supported.\n  \n  P.S. We now have [@felixhao28][] in the project's team. He has already done a\n  great job with long-waiting bugs and issues in the issue list. Thanks and\n  welcome Felix!\n  \n  [issues]: https://github.com/SublimeText-Markdown/MarkdownEditing/issues\n  [@felixhao28]: https://github.com/felixhao28\n  \n  ",
-					"settings":
-					{
-						"buffer_size": 976,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"scratch": true
-					}
-				}
 			],
 			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
+				"height": 392.0,
+				"last_filter": "pac",
 				"selected_items":
 				[
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: in",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Preferences: Browse Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
 					[
 						"g pus",
 						"Git: Push"
@@ -479,14 +568,6 @@
 						"Git: Quick Add"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
 						"git add",
 						"Git: Add..."
 					],
@@ -531,7 +612,7 @@
 						"Package Control: List Packages"
 					]
 				],
-				"width": 457.0
+				"width": 593.0
 			},
 			"console":
 			{
@@ -566,8 +647,60 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/home/localhost8080/Documents/clients"
+			],
 			"file_history":
 			[
+				"/home/localhost8080/Downloads/magazine.htm",
+				"/home/localhost8080/Desktop/Orders_151218_1613_43.xml",
+				"/home/localhost8080/Desktop/Orders_151218_1615_43.xml",
+				"/home/localhost8080/Documents/clients/eureka/visual - things.txt",
+				"/home/localhost8080/Desktop/todo",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/testing.md",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/responsive views.md",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/team_category_sitemap_validator.html",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/portfolio_sitemap_validator.html",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/post_sitemap_validator.html",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/events_category_sitemap_validator.html",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/news_category_sitemap_validator.html",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/post_tag_sitemap_validator.html",
+				"/home/localhost8080/bin/xml-sitemap-to-html/sitemap-xml-to-html-validator",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/events_sitemap_validator.html",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/category_sitemap_validator.html",
+				"/home/localhost8080/Desktop/news_sitemap_validator.html",
+				"/home/localhost8080/Desktop/post_sitemap_validator.html",
+				"/home/localhost8080/bin/xml-sitemap-to-html/w3c-check",
+				"/home/localhost8080/bin/w3c-check",
+				"/home/localhost8080/Desktop/page_sitemap_validator.html",
+				"/home/localhost8080/Documents/clients/eureka/w3c testing/validator for pages.txt",
+				"/home/localhost8080/Desktop/eureka_wp.1.sql",
+				"/home/localhost8080/Downloads/backup-sb-plasteringglasgow_co_uk-2015_11_20-04_57pm-full-mz4czq1xmk/wp-content/uploads/backupbuddy_temp/mz4czq1xmk/wp_sbplasteringglasgowcommentmeta.sql",
+				"/home/localhost8080/Desktop/new.txt",
+				"/home/localhost8080/Desktop/old.txt",
+				"/home/localhost8080/Desktop/sally-worldpay.html",
+				"/home/localhost8080/Documents/clients/ambulance/ambulance.txt",
+				"/home/localhost8080/Documents/clients/chocolate/giftcards - todo",
+				"/home/localhost8080/Documents/clients/churchill/churchill",
+				"/tmp/mozilla_localhost80800/log_from_2015-10-01_to_2015-10-21.txt",
+				"/home/localhost8080/Downloads/AffiliateService",
+				"/home/localhost8080/Downloads/FullscreenForm/index.html",
+				"/home/localhost8080/Desktop/zero.1.sql",
+				"/home/localhost8080/Desktop/grep_strings.txt",
+				"/home/localhost8080/Desktop/seamillhydro.co.uk/subdomains/events/httpdocs/page/129.html",
+				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/manual.conf",
+				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/usr/local/psa/admin/conf/templates/custom/domain/domainVirtualHost.php",
+				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/jk.conf",
+				"/run/user/1000/gvfs/sftp:host=109.108.132.118,user=root/etc/httpd/conf.d/php.conf",
+				"/run/user/1000/gvfs/sftp:host=109.108.132.118,user=root/etc/httpd/conf.d/zz010_psa_httpd.conf",
+				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/zz010_psa_httpd.conf",
+				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf/httpd.conf",
+				"/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/localhost8080/.mysql/workbench/connections.xml",
+				"/home/localhost8080/Desktop/week b4 holiday",
+				"/home/localhost8080/Documents/clients/nestegg/william - nest egg",
+				"/home/localhost8080/Downloads/905583_dentist.sql",
 				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
 				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
@@ -645,7 +778,7 @@
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
@@ -659,6 +792,71 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"   ./",
+					"Desktop",
+					"──[16:15:16]─[localhost8080@kali]──> xml-sitemap-to-html $ >> ",
+					"value “v:url”",
+					"<br />",
+					"value “v:url”",
+					"<br />",
+					"value",
+					"<br />",
+					"value “v:url”",
+					"<br />",
+					"value “v:url”",
+					"<br />",
+					"value “v:url”",
+					"<br />",
+					"<br/>",
+					"value “v:url”",
+					"<br />",
+					"value “v:url”",
+					"url”",
+					"<br />",
+					"Error",
+					"<br />",
+					"Error",
+					"<br />",
+					"Error",
+					"pre>",
+					"value",
+					" ",
+					"  ",
+					"       ",
+					"privacy",
+					"NaN\"",
+					"postmeta",
+					"info@adeogroup.co.uk",
+					"'] ",
+					"span",
+					"pull-right",
+					"&nbsp;",
+					"<img src=\"http://hoyanet.co.uk/images/hoya/common/sym_list3.gif\" alt=\"\" border=\"0\" />",
+					"http://hoyanet.co.uk/images/blind.gif",
+					"></a>",
+					"<p>&nbsp;</p>",
+					"</td>",
+					"</tr>\n        </tbody>\n    </table>",
+					"<td class=\"text\" align=\"left\">",
+					"<td>",
+					"<td class=\"text\" width=\"100%\">",
+					"<td valign=\"top\">",
+					"<tr>",
+					" <tbody>",
+					"<div class=\"col-xs-12 col-sm-6\">",
+					"</td>",
+					"<td>",
+					"form",
+					"sym",
+					"<p>",
+					"109.108.132.177",
+					"case ",
+					"</td></tr>';",
+					"</td><td><h3>",
+					"$text .= '<tr><td>",
+					"=    ",
+					"' ",
+					" ",
 					"echo '",
 					"'postcode'",
 					"	",
@@ -709,6 +907,22 @@
 				"regex": false,
 				"replace_history":
 				[
+					"./",
+					"",
+					"<br />\n",
+					"blockquote>",
+					"",
+					"dentists@defactodentists.com",
+					" pull-right text-right",
+					" ",
+					"</li><li>",
+					"",
+					"<div class=\"col-xs-12 col-sm-6 col-md-4\">",
+					"</div>",
+					"<div class=\"col-xs-12 col-sm-6\">",
+					"<p class=\"col-xs-12\">",
+					" 109.108.132.119",
+					" ",
 					"",
 					"postcode",
 					"",
@@ -732,72 +946,17 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/home/localhost8080/Documents/clients"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 1,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 597,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"WordCountSyntax": "json",
-									"auto_complete": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 976,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										976,
-										976
-									]
-								],
-								"settings":
-								{
-									"WordCountSyntax": "plain text",
-									"auto_indent": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 558.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -848,16 +1007,18 @@
 			{
 				"height": 373.0
 			},
-			"position": "0,0,0,0,0,188,161,1432,935,3360,1050",
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,3360,1050",
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 74.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -866,6 +1027,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -874,6 +1036,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -887,12 +1050,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 320.0,
+			"side_bar_width": 254.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 18,
+			"window_id": 22,
 			"workspace_name": ""
 		}
 	],

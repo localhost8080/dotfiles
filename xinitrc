@@ -37,4 +37,4 @@ xautolock -detectsleep &
 . ${HOME}/.xinitrc.local
 
 # Start xmonad
-exec xmonad
+#exec xmonad

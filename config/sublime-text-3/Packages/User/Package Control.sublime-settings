@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -7,18 +8,17 @@
 		"CodeFormatter",
 		"DashDoc",
 		"DocBlockr",
+		"Filter Lines",
 		"GitGutter",
 		"LESS",
 		"MarkdownEditing",
-		"Numix Theme",
 		"Package Control",
 		"Phpcs",
 		"PHPUnit Completions",
 		"SideBarGit",
 		"SublimeCodeIntel",
 		"SublimeGit",
-		"Theme - Soda SolarizedDark",
-		"Theme - Sodarized",
+		"Theme - Spacegray",
 		"WordCount"
 	]
 }
