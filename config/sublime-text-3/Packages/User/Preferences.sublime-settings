@@ -20,7 +20,11 @@
 	],
 	"tab_size": 4,
 	"tabs_small": true,
+<<<<<<< HEAD
 	"theme": "Spacegray Light.sublime-theme",
+=======
+	"theme": "Spacegray Eighties.sublime-theme",
+>>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,

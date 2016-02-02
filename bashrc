@@ -1,7 +1,7 @@
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
-
+export CLICOLOR=1
 # If not running interactively, don't do anything
 case $- in
     *i*) ;;
@@ -82,6 +82,11 @@ if [ -x /usr/bin/dircolors ]; then
     alias grep='grep --color=auto'
     alias fgrep='fgrep --color=auto'
     alias egrep='egrep --color=auto'
+fi
+
+if [ "$(uname)" == "Darwin" ]; then
+    # Do something under Mac OS X platform
+    alias ls='ls -G'
 fi
 
 # some more ls aliases

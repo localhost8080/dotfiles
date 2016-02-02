@@ -1,157 +1,87 @@
 {
 	"folder_history":
 	[
-		"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/Theme - Default",
-		"/Users/localhost8080/Documents/Dropbox/development/sublime-text-numix",
-		"/home/localhost/.config",
-		"/home/localhost/zend-eclipse-php/workspace/mybpos",
-		"/home/localhost/zend-eclipse-php/workspace/kelly"
+		"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation",
+		"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes",
+		"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis",
+		"/Users/localhost8080/Documents/Dropbox/development/multiloquent",
+		"/Users/localhost8080/Documents/Dropbox/development/dotfiles",
+		"/Users/localhost8080/Documents/Dropbox/development/jonathansblog_app/JonathansBlog",
+		"/Users/localhost8080/Documents/Dropbox/development/adeo/com.adeogroup.ae",
+		"/Volumes/Jonathansblog/public_html"
 	],
-	"last_version": 3065,
-	"last_window_id": 21,
+	"last_version": 3083,
+	"last_window_id": 252,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 774.0,
+		"new_window_height": 855.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"param",
+						"parameters"
+					]
 				]
 			},
-			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
 			"command_palette":
 			{
 				"height": 400.0,
+				"last_filter": "pac ins",
 				"selected_items":
 				[
 					[
-						"g pus",
-						"Git: Push"
-					],
-					[
-						"g q c",
-						"Git: Quick Commit"
-					],
-					[
-						"g q a",
-						"Git: Quick Add"
-					],
-					[
-						"q c",
-						"Git: Quick Commit"
-					],
-					[
-						"comm",
-						"Git: Commit"
-					],
-					[
-						"qui",
-						"Git: Quick Add"
-					],
-					[
-						"git pu",
-						"Git: Push"
-					],
-					[
-						"git comm",
-						"Git: Quick Commit"
-					],
-					[
-						"quic",
-						"Git: Quick Add"
-					],
-					[
-						"git q",
-						"Git: Quick Add"
-					],
-					[
-						"git",
-						"Git: Commit"
-					],
-					[
-						"git:add",
-						"Git: Quick Add"
-					],
-					[
-						"insta",
+						"pac ins",
 						"Package Control: Install Package"
 					],
 					[
-						"package",
+						"pac",
 						"Package Control: Install Package"
-					],
-					[
-						"git add",
-						"Git: Add..."
-					],
-					[
-						"git pus",
-						"Git: Push"
-					],
-					[
-						"git qui",
-						"Git: Quick Commit"
-					],
-					[
-						"git qu",
-						"Git: Quick Commit"
-					],
-					[
-						"git a",
-						"Git: Add..."
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"git commit",
-						"Git: Commit"
+						"pack ins",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"PHP Code Sniffer: Sniff this file"
+					],
+					[
+						"code",
+						"CodeFormatter: Format Code"
 					],
 					[
 						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"package install",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"package ",
 						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
 					]
 				],
-				"width": 457.0
+				"width": 754.0
 			},
 			"console":
 			{
-				"height": 284.0,
+				"height": 0.0,
 				"history":
 				[
-					"window.run_command(\"git_quick_add\");",
-					"self.window.run_command(\"git_quick_add\");",
-					"sublime.log_commands(True)",
-					"self.window.run_command(\"git_add_choice\")",
-					"sublime.log_commands(False)",
-					"sublime.run_command(\"git_add_choice\")",
-					"cls",
-					"clear",
-					"sublime.run_command(\"git_push\")",
-					"ApplicationCommand: sublime.run_command(\"git_push\")",
-					"sublime.log_commands(True)",
-					"view.run_command(\"git_quick_commit\");",
-					"view.run_command(\"git_add\");",
-					"\"command\": \"git_add\"",
-					"command: \"git_add\"",
-					"git_add",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
 				]
 			},
 			"distraction_free":
@@ -165,984 +95,134 @@
 			},
 			"file_history":
 			[
+				"/Users/localhost8080/Desktop/what to do for my test things.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/07_platforms/PHP register globals fix.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/wordpress-csv-table.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/joomla.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/drupal.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/wordpress.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/drupal.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/joomla.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/CVE-2014-3704.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/04_classification/06 defensive programming techniques",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/10006213-fc20-4655-9e7d-f1fb7832f2c9/public_html/wp-content/themes/enfinity/scripts/mailer/mailer.php",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/10006213-fc20-4655-9e7d-f1fb7832f2c9/public_html/test.php",
+				"/Users/localhost8080/Documents/Dropbox/development/xml-sitemap-to-html/w3c-check",
+				"/Users/localhost8080/Documents/Dropbox/development/xml-sitemap-to-html/sitemap-xml-to-html-validator",
+				"/Users/localhost8080/Desktop/page-sitemap.xml",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/CVE-2015-2292.md",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/d0a54792-d98c-49e7-92fb-7dfd678e6a6e/vmfs/volumes/ssd/centos/centos.vmx",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/06_tools/02 tool comparison.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/06_tools/havij.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/01 tools background",
+				"/Users/localhost8080/bin/make_thesis",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/wordpress_cve.csv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/wordpress_cve.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/01 scope of sql injection.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/03 classification.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/04 examples of each type.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/05 sql injection prevention techniques.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/01 CWE : CVE - what are they.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2005-1687.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2005-1810.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2005-2108.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2007-0233.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/list of exploitable urls.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/arachni.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/armitage.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/burp suite.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/manual.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/metasploit.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/nessus.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/Nikto.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/openvas.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/Owasp-Zap.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/sqlmp.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/sqlninja.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/tools list.csv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/vega.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/w3af.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/03 recent high profile cases/01 tmobile.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/02 attack vectors.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/01 intro/01 toc.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/02 outline/02 impact of sqli.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/02 outline/01 outline.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/01 intro/02 background.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/php - versions.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/software archives.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/wordpress.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/platforms to test sqli.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/01 measuring - grounded theory.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/02 Measuring - collecting results.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/03 quantitive analysis.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/04 initial - wizard mode.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/09 experiment design/experiment design.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/08 planning/01 orginisation.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/08 planning/02 marking.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/dvwa.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/tools/vega.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/tools/Owasp-Zap.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/tools/nessus.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/classification/sql injection prevention techniques.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/CVE/wordpress_cve.csv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/CVE/CWE : CVE - what are they.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/classification/examples of each type.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/classification/classification.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/CVE/places to inject sql.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/experiment design/experiment design.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/outline - aims/outline.md",
+				"/Users/localhost8080/Desktop/examples of each type.html",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/w3af.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/sqlninja.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/metasploit.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/burp suite.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/armitage.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/arachni.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/nessus.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/openvas.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/sqlmp.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/orginisation.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/measuring/quantitive analysis.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/classification/examples of each type.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/CVE/CWE : CVE - what are they.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/CVE/Measuring - collecting results.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/marking.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/manual.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/measuring/measuring - grounded theory",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/platforms/dvwa.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/dvwa.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/classification.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/plan - outline of thesis.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/places to inject sql.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1687.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/sqlmp.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/arachni.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/sqlninja.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/openvas.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/platforms to test sqli.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/places to inject sql.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-2108.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/list of exploitable urls.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2007-0233.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/wordpress_cve.csv",
+				"/Users/localhost8080/Desktop/metasploit.txt",
+				"/Users/localhost8080/Desktop/nessus.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/software archives",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/php - versions",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1687",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/tools/commandline-commands - tool settings ",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810 (White Space Conflict)",
+				"/Users/localhost8080/Desktop/nessus",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810 ",
+				"/Users/localhost8080/Desktop/metasploit",
 				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/header.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/contact-us.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/run-multiple-commands.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
-				"/home/localhost/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/refer.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilderPOP.php",
-				"/home/localhost/Desktop/todo:",
-				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
-				"/home/localhost/Desktop/need to prune the tagadab server of old sites:",
-				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/ferrari/card_details.php",
-				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
-				"/home/localhost/Desktop/wine_reviews_bak.sql",
-				"/home/localhost/Desktop/ALTER TABLE `shp_disc`",
-				"/home/localhost/dumps/dubai-en.sql",
-				"/home/localhost/Downloads/ATT00001.txt",
-				"/home/localhost/.bashrc",
-				"/home/localhost/Downloads/wine_export_1.csv",
-				"/home/localhost/Downloads/ATT00001 (1).txt",
-				"/home/localhost/.config/openbox/rc.xml",
-				"/home/localhost/Desktop/Product_Prices_inc_VAT.csv",
-				"/home/localhost/Desktop/simsalabim-sisyphus-68a3739/README.md",
-				"/home/localhost/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/localhost/dumps/ecommerce-test.sql",
-				"/home/localhost/dumps/ecommerce-test/ecommerce_test_shp_sku_brand.sql",
-				"/home/localhost/Desktop/spf records to check",
-				"/home/localhost/Desktop/cosmo/cosmositebackup11-7-14/.htaccess",
-				"/home/localhost/Downloads/alexshanks (1).txt",
-				"/home/localhost/Downloads/alexshanks.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/web.config.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/README.txt",
-				"/home/localhost/Downloads/giglab email log.txt",
-				"/home/localhost/dumps/kelly.sql",
-				"/home/localhost/Desktop/error_log",
-				"/home/localhost/Desktop/fpsg-dev-functions.php",
-				"/home/localhost/Desktop/fpsg-live-functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/computer-megastore/lib/basket_cl.php",
-				"/home/localhost/dumps/hb_blog.sql",
-				"/home/localhost/dumps/smiths.sql",
-				"/home/localhost/dumps/happy_updated.sql",
-				"/home/localhost/dumps/ict.sql",
-				"/home/localhost/dumps/zdf.sql",
-				"/home/localhost/Desktop/cat7.html",
-				"/home/localhost/Desktop/integral_form.html",
-				"/home/localhost/Desktop/template.xml",
-				"/home/localhost/dumps/fpsg.sql",
-				"/home/localhost/Desktop/rsi_style.xslt",
-				"/home/localhost/Desktop/tident_template.csv",
-				"/home/localhost/Desktop/barcodes.sql.csv",
-				"/home/localhost/Desktop/computer-megastore.csv",
-				"/home/localhost/Desktop/build steps for email class:",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_tagadab_subdomain",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_local",
-				"/home/localhost/Desktop/Redirects.txt",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/Redirects.txt",
-				"/home/localhost/Desktop/information needed",
-				"/home/localhost/Downloads/uni/q4b.txt",
-				"/home/localhost/Downloads/uni/q4a.txt",
-				"/home/localhost/Downloads/uni/q3.txt",
-				"/home/localhost/Downloads/uni/q2a.txt",
-				"/home/localhost/Desktop/snag_list.csv",
-				"/home/localhost/Desktop/301-bbb.csv"
-			],
-			"find":
-			{
-				"height": 22.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"212,212,212",
-					"222,222,222",
-					"echo '",
-					"'postcode'",
-					"	",
-					"sku_id",
-					"where",
-					"sv.sku_id",
-					"	",
-					"wpr01086",
-					"	",
-					"		",
-					"	",
-					"		",
-					"\n",
-					"  ",
-					"	",
-					"		",
-					"div",
-					"<span></span>",
-					"<div></div>",
-					"<span></span>",
-					"<span><div></div></span>",
-					"&nbsp;",
-					"<div><span><div>&nbsp;</div></span></div>",
-					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
-					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
-					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
-					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
-					"<span >",
-					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
-					"    ",
-					"www_page",
-					"	",
-					"		",
-					"£",
-					"/",
-					"£",
-					"and",
-					"_gaq",
-					"function n",
-					","
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"227,228,230",
-					"",
-					"postcode",
-					"",
-					"sku_id;",
-					" where",
-					"v.sku_id",
-					"",
-					" ",
-					"p",
-					"",
-					"<span>",
-					"",
-					"-",
-					"",
-					"or",
-					" "
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 22.0
-			},
-			"input":
-			{
-				"height": 34.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.git":
-			{
-				"height": 118.0
-			},
-			"output.git-commit":
-			{
-				"height": 118.0
-			},
-			"output.git-push":
-			{
-				"height": 373.0
-			},
-			"replace":
-			{
-				"height": 40.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 320.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1244.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 597,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 400.0,
-				"selected_items":
-				[
-					[
-						"g pus",
-						"Git: Push"
-					],
-					[
-						"g q c",
-						"Git: Quick Commit"
-					],
-					[
-						"g q a",
-						"Git: Quick Add"
-					],
-					[
-						"q c",
-						"Git: Quick Commit"
-					],
-					[
-						"comm",
-						"Git: Commit"
-					],
-					[
-						"qui",
-						"Git: Quick Add"
-					],
-					[
-						"git pu",
-						"Git: Push"
-					],
-					[
-						"git comm",
-						"Git: Quick Commit"
-					],
-					[
-						"quic",
-						"Git: Quick Add"
-					],
-					[
-						"git q",
-						"Git: Quick Add"
-					],
-					[
-						"git",
-						"Git: Commit"
-					],
-					[
-						"git:add",
-						"Git: Quick Add"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"git add",
-						"Git: Add..."
-					],
-					[
-						"git pus",
-						"Git: Push"
-					],
-					[
-						"git qui",
-						"Git: Quick Commit"
-					],
-					[
-						"git qu",
-						"Git: Quick Commit"
-					],
-					[
-						"git a",
-						"Git: Add..."
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"git commit",
-						"Git: Commit"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"package install",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"package ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 457.0
-			},
-			"console":
-			{
-				"height": 284.0,
-				"history":
-				[
-					"window.run_command(\"git_quick_add\");",
-					"self.window.run_command(\"git_quick_add\");",
-					"sublime.log_commands(True)",
-					"self.window.run_command(\"git_add_choice\")",
-					"sublime.log_commands(False)",
-					"sublime.run_command(\"git_add_choice\")",
-					"cls",
-					"clear",
-					"sublime.run_command(\"git_push\")",
-					"ApplicationCommand: sublime.run_command(\"git_push\")",
-					"sublime.log_commands(True)",
-					"view.run_command(\"git_quick_commit\");",
-					"view.run_command(\"git_add\");",
-					"\"command\": \"git_add\"",
-					"command: \"git_add\"",
-					"git_add",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/header.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/contact-us.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/run-multiple-commands.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
-				"/home/localhost/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/refer.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilderPOP.php",
-				"/home/localhost/Desktop/todo:",
-				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
-				"/home/localhost/Desktop/need to prune the tagadab server of old sites:",
-				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/ferrari/card_details.php",
-				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
-				"/home/localhost/Desktop/wine_reviews_bak.sql",
-				"/home/localhost/Desktop/ALTER TABLE `shp_disc`",
-				"/home/localhost/dumps/dubai-en.sql",
-				"/home/localhost/Downloads/ATT00001.txt",
-				"/home/localhost/.bashrc",
-				"/home/localhost/Downloads/wine_export_1.csv",
-				"/home/localhost/Downloads/ATT00001 (1).txt",
-				"/home/localhost/.config/openbox/rc.xml",
-				"/home/localhost/Desktop/Product_Prices_inc_VAT.csv",
-				"/home/localhost/Desktop/simsalabim-sisyphus-68a3739/README.md",
-				"/home/localhost/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/localhost/dumps/ecommerce-test.sql",
-				"/home/localhost/dumps/ecommerce-test/ecommerce_test_shp_sku_brand.sql",
-				"/home/localhost/Desktop/spf records to check",
-				"/home/localhost/Desktop/cosmo/cosmositebackup11-7-14/.htaccess",
-				"/home/localhost/Downloads/alexshanks (1).txt",
-				"/home/localhost/Downloads/alexshanks.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/web.config.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/README.txt",
-				"/home/localhost/Downloads/giglab email log.txt",
-				"/home/localhost/dumps/kelly.sql",
-				"/home/localhost/Desktop/error_log",
-				"/home/localhost/Desktop/fpsg-dev-functions.php",
-				"/home/localhost/Desktop/fpsg-live-functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/computer-megastore/lib/basket_cl.php",
-				"/home/localhost/dumps/hb_blog.sql",
-				"/home/localhost/dumps/smiths.sql",
-				"/home/localhost/dumps/happy_updated.sql",
-				"/home/localhost/dumps/ict.sql",
-				"/home/localhost/dumps/zdf.sql",
-				"/home/localhost/Desktop/cat7.html",
-				"/home/localhost/Desktop/integral_form.html",
-				"/home/localhost/Desktop/template.xml",
-				"/home/localhost/dumps/fpsg.sql",
-				"/home/localhost/Desktop/rsi_style.xslt",
-				"/home/localhost/Desktop/tident_template.csv",
-				"/home/localhost/Desktop/barcodes.sql.csv",
-				"/home/localhost/Desktop/computer-megastore.csv",
-				"/home/localhost/Desktop/build steps for email class:",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_tagadab_subdomain",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_local",
-				"/home/localhost/Desktop/Redirects.txt",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/Redirects.txt",
-				"/home/localhost/Desktop/information needed",
-				"/home/localhost/Downloads/uni/q4b.txt",
-				"/home/localhost/Downloads/uni/q4a.txt",
-				"/home/localhost/Downloads/uni/q3.txt",
-				"/home/localhost/Downloads/uni/q2a.txt",
-				"/home/localhost/Desktop/snag_list.csv",
-				"/home/localhost/Desktop/301-bbb.csv"
-			],
-			"find":
-			{
-				"height": 22.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"echo '",
-					"'postcode'",
-					"	",
-					"sku_id",
-					"where",
-					"sv.sku_id",
-					"	",
-					"wpr01086",
-					"	",
-					"		",
-					"	",
-					"		",
-					"\n",
-					"  ",
-					"	",
-					"		",
-					"div",
-					"<span></span>",
-					"<div></div>",
-					"<span></span>",
-					"<span><div></div></span>",
-					"&nbsp;",
-					"<div><span><div>&nbsp;</div></span></div>",
-					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
-					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
-					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
-					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
-					"<span >",
-					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
-					"    ",
-					"www_page",
-					"	",
-					"		",
-					"£",
-					"/",
-					"£",
-					"and",
-					"_gaq",
-					"function n",
-					","
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"",
-					"postcode",
-					"",
-					"sku_id;",
-					" where",
-					"v.sku_id",
-					"",
-					" ",
-					"p",
-					"",
-					"<span>",
-					"",
-					"-",
-					"",
-					"or",
-					" "
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 597,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										455,
-										455
-									]
-								],
-								"settings":
-								{
-									"WordCountShouldRun": false,
-									"WordCountSyntax": "json",
-									"auto_complete": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"WordCountShouldRun": true,
-									"WordCountSyntax": "plain text",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 22.0
-			},
-			"input":
-			{
-				"height": 34.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.git":
-			{
-				"height": 118.0
-			},
-			"output.git-commit":
-			{
-				"height": 118.0
-			},
-			"output.git-push":
-			{
-				"height": 373.0
-			},
-			"position": "0 191 11 1244 796 0 0 1440 877 ",
-			"project": "",
-			"replace":
-			{
-				"height": 40.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 320.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 19,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Users/localhost8080/Documents/Dropbox/development/sublime-text-numix/Numix Blue.sublime-theme",
-					"settings":
-					{
-						"buffer_size": 28211,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 400.0,
-				"selected_items":
-				[
-					[
-						"g pus",
-						"Git: Push"
-					],
-					[
-						"g q c",
-						"Git: Quick Commit"
-					],
-					[
-						"g q a",
-						"Git: Quick Add"
-					],
-					[
-						"q c",
-						"Git: Quick Commit"
-					],
-					[
-						"comm",
-						"Git: Commit"
-					],
-					[
-						"qui",
-						"Git: Quick Add"
-					],
-					[
-						"git pu",
-						"Git: Push"
-					],
-					[
-						"git comm",
-						"Git: Quick Commit"
-					],
-					[
-						"quic",
-						"Git: Quick Add"
-					],
-					[
-						"git q",
-						"Git: Quick Add"
-					],
-					[
-						"git",
-						"Git: Commit"
-					],
-					[
-						"git:add",
-						"Git: Quick Add"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"git add",
-						"Git: Add..."
-					],
-					[
-						"git pus",
-						"Git: Push"
-					],
-					[
-						"git qui",
-						"Git: Quick Commit"
-					],
-					[
-						"git qu",
-						"Git: Quick Commit"
-					],
-					[
-						"git a",
-						"Git: Add..."
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"git commit",
-						"Git: Commit"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"package install",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"package ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 457.0
-			},
-			"console":
-			{
-				"height": 284.0,
-				"history":
-				[
-					"window.run_command(\"git_quick_add\");",
-					"self.window.run_command(\"git_quick_add\");",
-					"sublime.log_commands(True)",
-					"self.window.run_command(\"git_add_choice\")",
-					"sublime.log_commands(False)",
-					"sublime.run_command(\"git_add_choice\")",
-					"cls",
-					"clear",
-					"sublime.run_command(\"git_push\")",
-					"ApplicationCommand: sublime.run_command(\"git_push\")",
-					"sublime.log_commands(True)",
-					"view.run_command(\"git_quick_commit\");",
-					"view.run_command(\"git_add\");",
-					"\"command\": \"git_add\"",
-					"command: \"git_add\"",
-					"git_add",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/Users/localhost8080/Documents/Dropbox/development/sublime-text-numix"
-			],
-			"file_history":
-			[
-				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/header.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/contact-us.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/run-multiple-commands.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
-				"/home/localhost/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/refer.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilderPOP.php",
-				"/home/localhost/Desktop/todo:",
-				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
-				"/home/localhost/Desktop/need to prune the tagadab server of old sites:",
-				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/ferrari/card_details.php",
-				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
-				"/home/localhost/Desktop/wine_reviews_bak.sql",
-				"/home/localhost/Desktop/ALTER TABLE `shp_disc`",
-				"/home/localhost/dumps/dubai-en.sql",
-				"/home/localhost/Downloads/ATT00001.txt",
-				"/home/localhost/.bashrc",
-				"/home/localhost/Downloads/wine_export_1.csv",
-				"/home/localhost/Downloads/ATT00001 (1).txt",
-				"/home/localhost/.config/openbox/rc.xml",
-				"/home/localhost/Desktop/Product_Prices_inc_VAT.csv",
-				"/home/localhost/Desktop/simsalabim-sisyphus-68a3739/README.md",
-				"/home/localhost/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/localhost/dumps/ecommerce-test.sql",
-				"/home/localhost/dumps/ecommerce-test/ecommerce_test_shp_sku_brand.sql",
-				"/home/localhost/Desktop/spf records to check",
-				"/home/localhost/Desktop/cosmo/cosmositebackup11-7-14/.htaccess",
-				"/home/localhost/Downloads/alexshanks (1).txt",
-				"/home/localhost/Downloads/alexshanks.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/web.config.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/README.txt",
-				"/home/localhost/Downloads/giglab email log.txt",
-				"/home/localhost/dumps/kelly.sql",
-				"/home/localhost/Desktop/error_log",
-				"/home/localhost/Desktop/fpsg-dev-functions.php",
-				"/home/localhost/Desktop/fpsg-live-functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/computer-megastore/lib/basket_cl.php",
-				"/home/localhost/dumps/hb_blog.sql",
-				"/home/localhost/dumps/smiths.sql",
-				"/home/localhost/dumps/happy_updated.sql",
-				"/home/localhost/dumps/ict.sql",
-				"/home/localhost/dumps/zdf.sql",
-				"/home/localhost/Desktop/cat7.html",
-				"/home/localhost/Desktop/integral_form.html",
-				"/home/localhost/Desktop/template.xml",
-				"/home/localhost/dumps/fpsg.sql",
-				"/home/localhost/Desktop/rsi_style.xslt",
-				"/home/localhost/Desktop/tident_template.csv",
-				"/home/localhost/Desktop/barcodes.sql.csv",
-				"/home/localhost/Desktop/computer-megastore.csv",
-				"/home/localhost/Desktop/build steps for email class:",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_tagadab_subdomain",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_local",
-				"/home/localhost/Desktop/Redirects.txt",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/Redirects.txt",
-				"/home/localhost/Desktop/information needed",
-				"/home/localhost/Downloads/uni/q4b.txt",
-				"/home/localhost/Downloads/uni/q4a.txt",
-				"/home/localhost/Downloads/uni/q3.txt",
-				"/home/localhost/Downloads/uni/q2a.txt",
-				"/home/localhost/Desktop/snag_list.csv",
-				"/home/localhost/Desktop/301-bbb.csv"
+				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/Users/localhost8080/Desktop/txt",
+				"/Users/localhost8080/Downloads/changelog.txt",
+				"/Users/localhost8080/Library/Containers/it.bloop.airmail2/Data/Library/Application Support/Airmail/General/Tmp/changelog.txt",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/metadata.php"
 			],
 			"find":
 			{
@@ -1160,51 +240,58 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"212,212,212",
-					"222,222,222",
-					"echo '",
-					"'postcode'",
+					" ",
+					"html",
 					"	",
-					"sku_id",
-					"where",
-					"sv.sku_id",
-					"	",
-					"wpr01086",
-					"	",
-					"		",
-					"	",
-					"		",
-					"\n",
+					"~~~php",
+					"fifilename",
+					"lename",
+					".|",
+					"||",
 					"  ",
-					"	",
-					"		",
-					"div",
-					"<span></span>",
-					"<div></div>",
-					"<span></span>",
-					"<span><div></div></span>",
-					"&nbsp;",
-					"<div><span><div>&nbsp;</div></span></div>",
-					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
-					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
-					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
-					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
-					"<span >",
-					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
-					"    ",
-					"www_page",
-					"	",
-					"		",
-					"£",
-					"/",
-					"£",
-					"and",
-					"_gaq",
-					"function n",
-					","
+					",",
+					"|",
+					",",
+					"•   ",
+					"<li><em>-- maybe some cve&#39;s for them</em></li>",
+					"<li><em>-- examples in php code</em></li>",
+					"password",
+					"•   ",
+					"-  ",
+					"'",
+					"94.1.122.171",
+					"94.1.122.171 ",
+					"F3",
+					"94.1.122.171",
+					"37.238.93.203",
+					"   ,",
+					"'    ",
+					"https",
+					"//",
+					"//89.145.89.1/~alastair",
+					"{",
+					"}",
+					"\n}",
+					"}",
+					"http://",
+					">",
+					"&gt;",
+					"<",
+					"</pre>",
+					"<pre>",
+					"</pre>",
+					"<pre class=\"language-bash\">",
+					"[/code]",
+					"[code language=bash]",
+					"0;34m",
+					"-",
+					"\\342\\224\\200",
+					"165",
+					"$sq_color",
+					"xmlrpc",
+					"xml",
+					"amelia",
+					")\n    {"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1212,23 +299,464 @@
 				"regex": false,
 				"replace_history":
 				[
-					"227,228,230",
+					" \n",
+					"|",
+					"~~~bash",
+					"filename",
 					"",
-					"postcode",
-					"",
-					"sku_id;",
-					" where",
-					"v.sku_id",
-					"",
-					" ",
-					"p",
-					"",
-					"<span>",
-					"",
+					"|",
+					",",
+					"|",
+					"- ",
 					"-",
 					"",
-					"or",
-					" "
+					"- ",
+					"\"",
+					"',",
+					"'",
+					"/",
+					"{\n ",
+					"\n} ",
+					"}\n  ",
+					"}\\n",
+					"&gt;",
+					"&lt;",
+					"&gt;",
+					"</code></pre>",
+					"<pre><code class=\"language-bash\">",
+					"</code></pre>",
+					"<pre><code class=\"language-bash\">",
+					"</pre>",
+					"<pre class=\"language-bash\">",
+					"0;32m",
+					"\\342\\224\\200",
+					"-",
+					"\\[\\033[0;34m\\]",
+					"){"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 22.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 92.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 319.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1051.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"param",
+						"parameters"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/.gitignore",
+					"settings":
+					{
+						"buffer_size": 11,
+						"line_ending": "Unix",
+						"name": "cookie.txt"
+					}
+				},
+				{
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/run_sqlmap",
+					"settings":
+					{
+						"buffer_size": 145,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/urllist.txt",
+					"settings":
+					{
+						"buffer_size": 120,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/authenticate-dvwa",
+					"settings":
+					{
+						"buffer_size": 603,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "pac ins",
+				"selected_items":
+				[
+					[
+						"pac ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack ins",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"PHP Code Sniffer: Sniff this file"
+					],
+					[
+						"code",
+						"CodeFormatter: Format Code"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 754.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation"
+			],
+			"file_history":
+			[
+				"/Users/localhost8080/Desktop/what to do for my test things.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/07_platforms/PHP register globals fix.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/wordpress-csv-table.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/joomla.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/drupal.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/wordpress.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/drupal.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/joomla.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/CVE-2014-3704.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/04_classification/06 defensive programming techniques",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/10006213-fc20-4655-9e7d-f1fb7832f2c9/public_html/wp-content/themes/enfinity/scripts/mailer/mailer.php",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/10006213-fc20-4655-9e7d-f1fb7832f2c9/public_html/test.php",
+				"/Users/localhost8080/Documents/Dropbox/development/xml-sitemap-to-html/w3c-check",
+				"/Users/localhost8080/Documents/Dropbox/development/xml-sitemap-to-html/sitemap-xml-to-html-validator",
+				"/Users/localhost8080/Desktop/page-sitemap.xml",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/CVE-2015-2292.md",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/d0a54792-d98c-49e7-92fb-7dfd678e6a6e/vmfs/volumes/ssd/centos/centos.vmx",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/06_tools/02 tool comparison.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/06_tools/havij.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/01 tools background",
+				"/Users/localhost8080/bin/make_thesis",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/wordpress_cve.csv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/wordpress_cve.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/01 scope of sql injection.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/03 classification.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/04 examples of each type.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/05 sql injection prevention techniques.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/01 CWE : CVE - what are they.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2005-1687.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2005-1810.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2005-2108.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2007-0233.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/list of exploitable urls.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/arachni.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/armitage.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/burp suite.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/manual.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/metasploit.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/nessus.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/Nikto.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/openvas.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/Owasp-Zap.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/sqlmp.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/sqlninja.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/tools list.csv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/vega.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/w3af.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/03 recent high profile cases/01 tmobile.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/02 attack vectors.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/01 intro/01 toc.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/02 outline/02 impact of sqli.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/02 outline/01 outline.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/01 intro/02 background.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/php - versions.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/software archives.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/wordpress.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/platforms to test sqli.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/01 measuring - grounded theory.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/02 Measuring - collecting results.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/03 quantitive analysis.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/04 initial - wizard mode.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/09 experiment design/experiment design.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/08 planning/01 orginisation.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/08 planning/02 marking.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/dvwa.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/tools/vega.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/tools/Owasp-Zap.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/tools/nessus.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/classification/sql injection prevention techniques.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/CVE/wordpress_cve.csv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/CVE/CWE : CVE - what are they.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/classification/examples of each type.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/classification/classification.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/CVE/places to inject sql.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/experiment design/experiment design.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/outline - aims/outline.md",
+				"/Users/localhost8080/Desktop/examples of each type.html",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/w3af.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/sqlninja.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/metasploit.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/burp suite.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/armitage.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/arachni.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/nessus.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/openvas.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/sqlmp.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/orginisation.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/measuring/quantitive analysis.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/classification/examples of each type.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/CVE/CWE : CVE - what are they.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/CVE/Measuring - collecting results.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/marking.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/manual.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/measuring/measuring - grounded theory",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/platforms/dvwa.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/dvwa.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/classification.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/plan - outline of thesis.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/places to inject sql.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1687.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/sqlmp.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/arachni.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/sqlninja.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/openvas.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/platforms to test sqli.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/places to inject sql.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-2108.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/list of exploitable urls.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2007-0233.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/wordpress_cve.csv",
+				"/Users/localhost8080/Desktop/metasploit.txt",
+				"/Users/localhost8080/Desktop/nessus.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/software archives",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/php - versions",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1687",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/tools/commandline-commands - tool settings ",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810 (White Space Conflict)",
+				"/Users/localhost8080/Desktop/nessus",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810 ",
+				"/Users/localhost8080/Desktop/metasploit",
+				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/Users/localhost8080/Desktop/txt",
+				"/Users/localhost8080/Downloads/changelog.txt",
+				"/Users/localhost8080/Library/Containers/it.bloop.airmail2/Data/Library/Application Support/Airmail/General/Tmp/changelog.txt",
+				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/metadata.php"
+			],
+			"find":
+			{
+				"height": 22.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" ",
+					"html",
+					"	",
+					"~~~php",
+					"fifilename",
+					"lename",
+					".|",
+					"||",
+					"  ",
+					",",
+					"|",
+					",",
+					"•   ",
+					"<li><em>-- maybe some cve&#39;s for them</em></li>",
+					"<li><em>-- examples in php code</em></li>",
+					"password",
+					"•   ",
+					"-  ",
+					"'",
+					"94.1.122.171",
+					"94.1.122.171 ",
+					"F3",
+					"94.1.122.171",
+					"37.238.93.203",
+					"   ,",
+					"'    ",
+					"https",
+					"//",
+					"//89.145.89.1/~alastair",
+					"{",
+					"}",
+					"\n}",
+					"}",
+					"http://",
+					">",
+					"&gt;",
+					"<",
+					"</pre>",
+					"<pre>",
+					"</pre>",
+					"<pre class=\"language-bash\">",
+					"[/code]",
+					"[code language=bash]",
+					"0;34m",
+					"-",
+					"\\342\\224\\200",
+					"165",
+					"$sq_color",
+					"xmlrpc",
+					"xml",
+					"amelia",
+					")\n    {"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					" \n",
+					"|",
+					"~~~bash",
+					"filename",
+					"",
+					"|",
+					",",
+					"|",
+					"- ",
+					"-",
+					"",
+					"- ",
+					"\"",
+					"',",
+					"'",
+					"/",
+					"{\n ",
+					"\n} ",
+					"}\n  ",
+					"}\\n",
+					"&gt;",
+					"&lt;",
+					"&gt;",
+					"</code></pre>",
+					"<pre><code class=\"language-bash\">",
+					"</code></pre>",
+					"<pre><code class=\"language-bash\">",
+					"</pre>",
+					"<pre class=\"language-bash\">",
+					"0;32m",
+					"\\342\\224\\200",
+					"-",
+					"\\[\\033[0;34m\\]",
+					"){"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1239,74 +767,135 @@
 			"folders":
 			[
 				{
-					"follow_symlinks": true,
-					"path": "/Users/localhost8080/Documents/Dropbox/development/sublime-text-numix"
+					"path": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/localhost8080/Documents/Dropbox/development/sublime-text-numix/Numix Blue.sublime-theme",
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/.gitignore",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 28211,
+								"buffer_size": 11,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										11262,
-										11262
-									]
-								],
-								"settings":
-								{
-									"WordCountShouldRun": false,
-									"WordCountSyntax": "json",
-									"auto_complete": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 6621.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
+										11,
+										11
 									]
 								],
 								"settings":
 								{
 									"WordCountShouldRun": true,
 									"WordCountSyntax": "plain text",
+									"auto_name": "cookie.txt",
 									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/run_sqlmap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 145,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										56,
+										56
+									]
+								],
+								"settings":
+								{
+									"WordCountShouldRun": true,
+									"WordCountSyntax": "shell-unix-generic",
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/urllist.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 120,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										119,
+										119
+									]
+								],
+								"settings":
+								{
+									"WordCountShouldRun": true,
+									"WordCountSyntax": "markdown",
+									"auto_complete": false,
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
 							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/authenticate-dvwa",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 603,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										432,
+										432
+									]
+								],
+								"settings":
+								{
+									"WordCountShouldRun": true,
+									"WordCountSyntax": "shell-unix-generic",
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1347,28 +936,18 @@
 			{
 				"height": 0.0
 			},
-			"output.git":
-			{
-				"height": 118.0
-			},
-			"output.git-commit":
-			{
-				"height": 118.0
-			},
-			"output.git-push":
-			{
-				"height": 373.0
-			},
-			"position": "0 186 68 1244 796 0 0 1440 877 ",
+			"pinned_build_system": "",
+			"position": "0 57 0 1171 877 0 0 1440 877 ",
 			"project": "",
 			"replace":
 			{
-				"height": 72.0
+				"height": 40.0
 			},
 			"save_all_on_build": true,
 			"select_file":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1377,6 +956,7 @@
 			"select_project":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1385,6 +965,7 @@
 			"select_symbol":
 			{
 				"height": 0.0,
+				"last_filter": "",
 				"selected_items":
 				[
 				],
@@ -1398,12 +979,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 320.0,
+			"side_bar_width": 319.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 20,
+			"window_id": 252,
 			"workspace_name": ""
 		}
 	],

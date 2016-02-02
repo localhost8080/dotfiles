@@ -4,4 +4,5 @@ rm -rf documentation/
 git pull
 #phpdoc --template="zend" -d . -t ./documentation/
 mkdir documentation
-phpuml . -o documentation -i .git -f htmlnew
+#phpuml . -o documentation -i .git -f htmlnew
+apigen generate -s . -d documentation
