@@ -6,7 +6,11 @@
 	"installed_packages":
 	[
 		"Base16 Color Schemes",
+		"GitGutter",
+		"LESS",
+		"MarkdownEditing",
 		"Material Theme",
-		"Package Control"
+		"Package Control",
+		"Theme - Spacegray"
 	]
 }
