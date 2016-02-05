@@ -5,27 +5,8 @@
 	],
 	"installed_packages":
 	[
-		"CodeFormatter",
-		"DashDoc",
-		"DocBlockr",
-		"Filter Lines",
-		"GitGutter",
-		"LESS",
-		"MarkdownEditing",
-		"Package Control",
-		"Phpcs",
-		"PHPUnit Completions",
-		"SideBarGit",
-		"SublimeCodeIntel",
-		"SublimeGit",
-<<<<<<< HEAD
-=======
-		"Theme - El Capitan",
-		"Theme - Soda SolarizedDark",
-		"Theme - Sodarized",
-		"Theme - Spaceblack",
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
-		"Theme - Spacegray",
-		"WordCount"
+		"Base16 Color Schemes",
+		"Material Theme",
+		"Package Control"
 	]
 }

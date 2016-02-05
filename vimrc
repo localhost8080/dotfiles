@@ -31,8 +31,11 @@ Bundle 'Lokaltog/powerline'
 Bundle 'derekwyatt/vim-scala'
 Bundle 'b4winckler/vim-objc'
 Plugin 'StanAngeloff/php.vim'
+Plugin 'chriskempson/base16-vim'
 
 filetype plugin indent on
+
+let base16colorspace=256
 
 " powerline
 set rtp+=~/.vim/bundle/powerline/powerline/bindings/vim
@@ -43,7 +46,7 @@ set noshowmode
 syntax enable
 " if has('gui_running')
 set background=dark
-colorscheme solarized
+colorscheme base16-default
 " else
 " set background=light
 " endif

@@ -1,24 +1,7 @@
 {
 	"folder_history":
 	[
-<<<<<<< HEAD
-		"/home/localhost8080/development/chocolate",
-		"/home/localhost8080/development/defacto",
-		"/home/localhost8080/Desktop/seamillhydro.co.uk",
-		"/home/localhost8080/Documents/clients",
-		"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/Theme - Default",
-		"/Users/localhost8080/Documents/Dropbox/development/sublime-text-numix",
-		"/home/localhost/.config",
-		"/home/localhost/zend-eclipse-php/workspace/mybpos",
-		"/home/localhost/zend-eclipse-php/workspace/kelly"
-	],
-	"last_version": 3083,
-	"last_window_id": 32,
-	"log_indexing": false,
-	"settings":
-	{
-		"new_window_height": 480.0,
-=======
+		"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation",
 		"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes",
 		"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis",
 		"/Users/localhost8080/Documents/Dropbox/development/multiloquent",
@@ -28,12 +11,11 @@
 		"/Volumes/Jonathansblog/public_html"
 	],
 	"last_version": 3083,
-	"last_window_id": 236,
+	"last_window_id": 254,
 	"log_indexing": false,
 	"settings":
 	{
 		"new_window_height": 855.0,
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -52,95 +34,22 @@
 			"build_varint": "",
 			"command_palette":
 			{
-<<<<<<< HEAD
-				"height": 392.0,
-				"last_filter": "pac",
-				"selected_items":
-				[
-					[
-						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Preferences: Browse Packages"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"g pus",
-						"Git: Push"
-					],
-					[
-						"g q c",
-						"Git: Quick Commit"
-					],
-					[
-						"g q a",
-						"Git: Quick Add"
-					],
-					[
-						"q c",
-						"Git: Quick Commit"
-					],
-					[
-						"comm",
-						"Git: Commit"
-					],
-					[
-						"qui",
-						"Git: Quick Add"
-					],
-					[
-						"git pu",
-						"Git: Push"
-					],
-					[
-						"git comm",
-						"Git: Quick Commit"
-					],
-					[
-						"quic",
-						"Git: Quick Add"
-					],
-					[
-						"git q",
-						"Git: Quick Add"
-					],
-					[
-						"git",
-						"Git: Commit"
-					],
-					[
-						"git:add",
-						"Git: Quick Add"
-					],
-					[
-						"git add",
-						"Git: Add..."
-					],
-					[
-						"git pus",
-						"Git: Push"
-					],
-					[
-						"git qui",
-						"Git: Quick Commit"
-					],
-					[
-						"git qu",
-						"Git: Quick Commit"
-=======
 				"height": 400.0,
-				"last_filter": "pac ins",
+				"last_filter": "pack",
 				"selected_items":
 				[
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pac in",
+						"Package Control: Install Package"
+					],
 					[
 						"pac ins",
 						"Package Control: Install Package"
@@ -152,7 +61,6 @@
 					[
 						"install",
 						"Package Control: Install Package"
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
 					],
 					[
 						"pack ins",
@@ -167,23 +75,11 @@
 						"CodeFormatter: Format Code"
 					],
 					[
-						"pack",
-						"Package Control: List Packages"
-					],
-					[
 						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"pack inst",
 						"Package Control: Install Package"
 					]
 				],
-<<<<<<< HEAD
-				"width": 593.0
-=======
-				"width": 754.0
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
+				"width": 457.0
 			},
 			"console":
 			{
@@ -203,29 +99,26 @@
 			},
 			"file_history":
 			[
-<<<<<<< HEAD
-				"/home/localhost8080/Documents/clients/ambulance/ambulance.txt",
-				"/home/localhost8080/Documents/clients/chocolate/giftcards - todo",
-				"/home/localhost8080/Documents/clients/churchill/churchill",
-				"/tmp/mozilla_localhost80800/log_from_2015-10-01_to_2015-10-21.txt",
-				"/home/localhost8080/Downloads/AffiliateService",
-				"/home/localhost8080/Downloads/FullscreenForm/index.html",
-				"/home/localhost8080/Desktop/zero.1.sql",
-				"/home/localhost8080/Desktop/grep_strings.txt",
-				"/home/localhost8080/Desktop/seamillhydro.co.uk/subdomains/events/httpdocs/page/129.html",
-				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/manual.conf",
-				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/usr/local/psa/admin/conf/templates/custom/domain/domainVirtualHost.php",
-				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/jk.conf",
-				"/run/user/1000/gvfs/sftp:host=109.108.132.118,user=root/etc/httpd/conf.d/php.conf",
-				"/run/user/1000/gvfs/sftp:host=109.108.132.118,user=root/etc/httpd/conf.d/zz010_psa_httpd.conf",
-				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/zz010_psa_httpd.conf",
-				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf/httpd.conf",
-				"/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost8080/.mysql/workbench/connections.xml",
-				"/home/localhost8080/Desktop/week b4 holiday",
-				"/home/localhost8080/Documents/clients/nestegg/william - nest egg",
-				"/home/localhost8080/Downloads/905583_dentist.sql",
-=======
+				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/.gitignore",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/urllist.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/run_sqlmap",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/authenticate-dvwa",
+				"/Users/localhost8080/Desktop/what to do for my test things.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/07_platforms/PHP register globals fix.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/wordpress-csv-table.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/joomla.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/drupal.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/wordpress.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/drupal.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/joomla.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/CVE-2014-3704.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/04_classification/06 defensive programming techniques",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/10006213-fc20-4655-9e7d-f1fb7832f2c9/public_html/wp-content/themes/enfinity/scripts/mailer/mailer.php",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/10006213-fc20-4655-9e7d-f1fb7832f2c9/public_html/test.php",
+				"/Users/localhost8080/Documents/Dropbox/development/xml-sitemap-to-html/w3c-check",
+				"/Users/localhost8080/Documents/Dropbox/development/xml-sitemap-to-html/sitemap-xml-to-html-validator",
+				"/Users/localhost8080/Desktop/page-sitemap.xml",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/CVE-2015-2292.md",
 				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/d0a54792-d98c-49e7-92fb-7dfd678e6a6e/vmfs/volumes/ssd/centos/centos.vmx",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/06_tools/02 tool comparison.md",
@@ -333,36 +226,11 @@
 				"/Users/localhost8080/Desktop/nessus",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810 ",
 				"/Users/localhost8080/Desktop/metasploit",
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
-				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/Users/localhost8080/Desktop/txt",
-				"/Users/localhost8080/Downloads/changelog.txt",
-				"/Users/localhost8080/Library/Containers/it.bloop.airmail2/Data/Library/Application Support/Airmail/General/Tmp/changelog.txt",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/metadata.php",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/comments.php",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/breadcrumb.php",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/.travis.yml",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/ruleset.xml",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/featuredimage.php",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/header.php",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/functions.php",
-				"/Users/localhost8080/Documents/Dropbox/development/multiloquent/multiloquent-base.php",
-				"/Users/localhost8080/Documents/Dropbox/development/jonathansblog_app/JonathansBlog/www/css/index.css",
-				"/Users/localhost8080/Documents/Dropbox/development/jonathansblog_app/JonathansBlog/www/index.html",
-				"/Users/localhost8080/Downloads/A Song of Ice and Fire (Audio Books 1-5 - Complete)/info.txt",
-				"/Users/localhost8080/Desktop/dd-wrt  block hosts with someonewhocares.org block",
-				"/Users/localhost8080/Desktop/dd-wrt dnsmasq",
-				"/Users/localhost8080/Desktop/dd-wrt custom prompt",
-				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/10006213-fc20-4655-9e7d-f1fb7832f2c9/public_html/.htaccess"
+				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
 			],
 			"find":
 			{
-<<<<<<< HEAD
-				"height": 39.0
-=======
-				"height": 22.0
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
+				"height": 29.0
 			},
 			"find_in_files":
 			{
@@ -376,57 +244,14 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-<<<<<<< HEAD
-					"'] ",
-					"span",
-					"pull-right",
-					"&nbsp;",
-					"<img src=\"http://hoyanet.co.uk/images/hoya/common/sym_list3.gif\" alt=\"\" border=\"0\" />",
-					"http://hoyanet.co.uk/images/blind.gif",
-					"></a>",
-					"<p>&nbsp;</p>",
-					"</td>",
-					"</tr>\n        </tbody>\n    </table>",
-					"<td class=\"text\" align=\"left\">",
-					"<td>",
-					"<td class=\"text\" width=\"100%\">",
-					"<td valign=\"top\">",
-					"<tr>",
-					" <tbody>",
-					"<div class=\"col-xs-12 col-sm-6\">",
-					"</td>",
-					"<td>",
-					"form",
-					"sym",
-					"<p>",
-					"109.108.132.177",
-					"case ",
-					"</td></tr>';",
-					"</td><td><h3>",
-					"$text .= '<tr><td>",
-					"=    ",
-					"' ",
 					" ",
-					"echo '",
-					"'postcode'",
+					"html",
 					"	",
-					"sku_id",
-					"where",
-					"sv.sku_id",
-					"	",
-					"wpr01086",
-					"	",
-					"		",
-					"	",
-					"		",
-					"\n",
-=======
 					"~~~php",
 					"fifilename",
 					"lename",
 					".|",
 					"||",
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
 					"  ",
 					",",
 					"|",
@@ -478,21 +303,10 @@
 				"regex": false,
 				"replace_history":
 				[
-<<<<<<< HEAD
-					" pull-right text-right",
-					" ",
-					"</li><li>",
-					"",
-					"<div class=\"col-xs-12 col-sm-6 col-md-4\">",
-					"</div>",
-					"<div class=\"col-xs-12 col-sm-6\">",
-					"<p class=\"col-xs-12\">",
-					" 109.108.132.119",
-					" ",
-=======
+					" \n",
+					"|",
 					"~~~bash",
 					"filename",
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
 					"",
 					"|",
 					",",
@@ -532,7 +346,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 29.0
 			},
 			"input":
 			{
@@ -543,25 +357,10 @@
 			{
 				"height": 0.0
 			},
-<<<<<<< HEAD
-			"output.git":
-			{
-				"height": 118.0
-			},
-			"output.git-commit":
-			{
-				"height": 118.0
-			},
-			"output.git-push":
-			{
-				"height": 373.0
-			},
-=======
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 74.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -595,607 +394,16 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-<<<<<<< HEAD
-			"side_bar_width": 275.0,
-=======
-			"side_bar_width": 215.0,
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
+			"side_bar_width": 319.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-<<<<<<< HEAD
-		"new_window_width": 640.0
+		"new_window_width": 1171.0
 	},
 	"windows":
 	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"page",
-						"pagebuilder"
-					]
-				]
-			},
-			"buffers":
-			[
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "pac",
-				"selected_items":
-				[
-					[
-						"pac",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Preferences: Browse Packages"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"g pus",
-						"Git: Push"
-					],
-					[
-						"g q c",
-						"Git: Quick Commit"
-					],
-					[
-						"g q a",
-						"Git: Quick Add"
-					],
-					[
-						"q c",
-						"Git: Quick Commit"
-					],
-					[
-						"comm",
-						"Git: Commit"
-					],
-					[
-						"qui",
-						"Git: Quick Add"
-					],
-					[
-						"git pu",
-						"Git: Push"
-					],
-					[
-						"git comm",
-						"Git: Quick Commit"
-					],
-					[
-						"quic",
-						"Git: Quick Add"
-					],
-					[
-						"git q",
-						"Git: Quick Add"
-					],
-					[
-						"git",
-						"Git: Commit"
-					],
-					[
-						"git:add",
-						"Git: Quick Add"
-					],
-					[
-						"git add",
-						"Git: Add..."
-					],
-					[
-						"git pus",
-						"Git: Push"
-					],
-					[
-						"git qui",
-						"Git: Quick Commit"
-					],
-					[
-						"git qu",
-						"Git: Quick Commit"
-					],
-					[
-						"git a",
-						"Git: Add..."
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"git commit",
-						"Git: Commit"
-					],
-					[
-						"pack",
-						"Package Control: Install Package"
-					],
-					[
-						"package install",
-						"Package Control: Install Package"
-					],
-					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
-						"package ",
-						"Package Control: List Packages"
-					]
-				],
-				"width": 593.0
-			},
-			"console":
-			{
-				"height": 284.0,
-				"history":
-				[
-					"window.run_command(\"git_quick_add\");",
-					"self.window.run_command(\"git_quick_add\");",
-					"sublime.log_commands(True)",
-					"self.window.run_command(\"git_add_choice\")",
-					"sublime.log_commands(False)",
-					"sublime.run_command(\"git_add_choice\")",
-					"cls",
-					"clear",
-					"sublime.run_command(\"git_push\")",
-					"ApplicationCommand: sublime.run_command(\"git_push\")",
-					"sublime.log_commands(True)",
-					"view.run_command(\"git_quick_commit\");",
-					"view.run_command(\"git_add\");",
-					"\"command\": \"git_add\"",
-					"command: \"git_add\"",
-					"git_add",
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/home/localhost8080/Documents/clients"
-			],
-			"file_history":
-			[
-				"/home/localhost8080/Downloads/magazine.htm",
-				"/home/localhost8080/Desktop/Orders_151218_1613_43.xml",
-				"/home/localhost8080/Desktop/Orders_151218_1615_43.xml",
-				"/home/localhost8080/Documents/clients/eureka/visual - things.txt",
-				"/home/localhost8080/Desktop/todo",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/testing.md",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/responsive views.md",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/team_category_sitemap_validator.html",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/portfolio_sitemap_validator.html",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/post_sitemap_validator.html",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/events_category_sitemap_validator.html",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/news_category_sitemap_validator.html",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/post_tag_sitemap_validator.html",
-				"/home/localhost8080/bin/xml-sitemap-to-html/sitemap-xml-to-html-validator",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/events_sitemap_validator.html",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/w3c_validator_tests/category_sitemap_validator.html",
-				"/home/localhost8080/Desktop/news_sitemap_validator.html",
-				"/home/localhost8080/Desktop/post_sitemap_validator.html",
-				"/home/localhost8080/bin/xml-sitemap-to-html/w3c-check",
-				"/home/localhost8080/bin/w3c-check",
-				"/home/localhost8080/Desktop/page_sitemap_validator.html",
-				"/home/localhost8080/Documents/clients/eureka/w3c testing/validator for pages.txt",
-				"/home/localhost8080/Desktop/eureka_wp.1.sql",
-				"/home/localhost8080/Downloads/backup-sb-plasteringglasgow_co_uk-2015_11_20-04_57pm-full-mz4czq1xmk/wp-content/uploads/backupbuddy_temp/mz4czq1xmk/wp_sbplasteringglasgowcommentmeta.sql",
-				"/home/localhost8080/Desktop/new.txt",
-				"/home/localhost8080/Desktop/old.txt",
-				"/home/localhost8080/Desktop/sally-worldpay.html",
-				"/home/localhost8080/Documents/clients/ambulance/ambulance.txt",
-				"/home/localhost8080/Documents/clients/chocolate/giftcards - todo",
-				"/home/localhost8080/Documents/clients/churchill/churchill",
-				"/tmp/mozilla_localhost80800/log_from_2015-10-01_to_2015-10-21.txt",
-				"/home/localhost8080/Downloads/AffiliateService",
-				"/home/localhost8080/Downloads/FullscreenForm/index.html",
-				"/home/localhost8080/Desktop/zero.1.sql",
-				"/home/localhost8080/Desktop/grep_strings.txt",
-				"/home/localhost8080/Desktop/seamillhydro.co.uk/subdomains/events/httpdocs/page/129.html",
-				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/manual.conf",
-				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/usr/local/psa/admin/conf/templates/custom/domain/domainVirtualHost.php",
-				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/jk.conf",
-				"/run/user/1000/gvfs/sftp:host=109.108.132.118,user=root/etc/httpd/conf.d/php.conf",
-				"/run/user/1000/gvfs/sftp:host=109.108.132.118,user=root/etc/httpd/conf.d/zz010_psa_httpd.conf",
-				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf.d/zz010_psa_httpd.conf",
-				"/run/user/1000/gvfs/sftp:host=31.172.254.114,user=root/etc/httpd/conf/httpd.conf",
-				"/home/localhost8080/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost8080/.mysql/workbench/connections.xml",
-				"/home/localhost8080/Desktop/week b4 holiday",
-				"/home/localhost8080/Documents/clients/nestegg/william - nest egg",
-				"/home/localhost8080/Downloads/905583_dentist.sql",
-				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_5.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_4.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_3.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_1.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/page_template_2.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilder.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/header.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/contact-us.php",
-				"/home/localhost/.config/sublime-text-3/Packages/User/run-multiple-commands.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.py",
-				"/home/localhost/.config/sublime-text-3/Packages/User/git-commit-and-push.sublime-macro",
-				"/home/localhost/.config/sublime-text-3/Packages/User/SublimeGit.sublime-settings",
-				"/home/localhost/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/refer.php",
-				"/home/localhost/zend-eclipse-php/workspace/mybpos/pageBuilderPOP.php",
-				"/home/localhost/Desktop/todo:",
-				"/home/localhost/.config/sublime-text-3/Packages/User/phpcs.sublime-settings",
-				"/home/localhost/Desktop/need to prune the tagadab server of old sites:",
-				"/home/localhost/zend-eclipse-php/workspace/redback_bootstrap/lib/functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/ferrari/card_details.php",
-				"/home/localhost/Desktop/welcome to adeo, here is how our process works",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/adeo_dev_projects.txt",
-				"/home/localhost/Desktop/wine_reviews_bak.sql",
-				"/home/localhost/Desktop/ALTER TABLE `shp_disc`",
-				"/home/localhost/dumps/dubai-en.sql",
-				"/home/localhost/Downloads/ATT00001.txt",
-				"/home/localhost/.bashrc",
-				"/home/localhost/Downloads/wine_export_1.csv",
-				"/home/localhost/Downloads/ATT00001 (1).txt",
-				"/home/localhost/.config/openbox/rc.xml",
-				"/home/localhost/Desktop/Product_Prices_inc_VAT.csv",
-				"/home/localhost/Desktop/simsalabim-sisyphus-68a3739/README.md",
-				"/home/localhost/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
-				"/home/localhost/dumps/ecommerce-test.sql",
-				"/home/localhost/dumps/ecommerce-test/ecommerce_test_shp_sku_brand.sql",
-				"/home/localhost/Desktop/spf records to check",
-				"/home/localhost/Desktop/cosmo/cosmositebackup11-7-14/.htaccess",
-				"/home/localhost/Downloads/alexshanks (1).txt",
-				"/home/localhost/Downloads/alexshanks.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/web.config.txt",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/109.108.132.174/var/www/vhosts/cosmotiles.co.uk/subdomains/showroom/README.txt",
-				"/home/localhost/Downloads/giglab email log.txt",
-				"/home/localhost/dumps/kelly.sql",
-				"/home/localhost/Desktop/error_log",
-				"/home/localhost/Desktop/fpsg-dev-functions.php",
-				"/home/localhost/Desktop/fpsg-live-functions.php",
-				"/home/localhost/zend-eclipse-php/workspace/computer-megastore/lib/basket_cl.php",
-				"/home/localhost/dumps/hb_blog.sql",
-				"/home/localhost/dumps/smiths.sql",
-				"/home/localhost/dumps/happy_updated.sql",
-				"/home/localhost/dumps/ict.sql",
-				"/home/localhost/dumps/zdf.sql",
-				"/home/localhost/Desktop/cat7.html",
-				"/home/localhost/Desktop/integral_form.html",
-				"/home/localhost/Desktop/template.xml",
-				"/home/localhost/dumps/fpsg.sql",
-				"/home/localhost/Desktop/rsi_style.xslt",
-				"/home/localhost/Desktop/tident_template.csv",
-				"/home/localhost/Desktop/barcodes.sql.csv",
-				"/home/localhost/Desktop/computer-megastore.csv",
-				"/home/localhost/Desktop/build steps for email class:",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_tagadab_subdomain",
-				"/home/localhost/zend-eclipse-php/workspace/RemoteSystemsTempFiles/192.168.1.133/usr/local/bin/deploy_to_local",
-				"/home/localhost/Desktop/Redirects.txt",
-				"/home/localhost/Documents/INSTRUCTIONS/adeo instructions/Redirects.txt",
-				"/home/localhost/Desktop/information needed",
-				"/home/localhost/Downloads/uni/q4b.txt",
-				"/home/localhost/Downloads/uni/q4a.txt",
-				"/home/localhost/Downloads/uni/q3.txt",
-				"/home/localhost/Downloads/uni/q2a.txt",
-				"/home/localhost/Desktop/snag_list.csv",
-				"/home/localhost/Desktop/301-bbb.csv"
-			],
-			"find":
-			{
-				"height": 39.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"   ./",
-					"Desktop",
-					"──[16:15:16]─[localhost8080@kali]──> xml-sitemap-to-html $ >> ",
-					"value “v:url”",
-					"<br />",
-					"value “v:url”",
-					"<br />",
-					"value",
-					"<br />",
-					"value “v:url”",
-					"<br />",
-					"value “v:url”",
-					"<br />",
-					"value “v:url”",
-					"<br />",
-					"<br/>",
-					"value “v:url”",
-					"<br />",
-					"value “v:url”",
-					"url”",
-					"<br />",
-					"Error",
-					"<br />",
-					"Error",
-					"<br />",
-					"Error",
-					"pre>",
-					"value",
-					" ",
-					"  ",
-					"       ",
-					"privacy",
-					"NaN\"",
-					"postmeta",
-					"info@adeogroup.co.uk",
-					"'] ",
-					"span",
-					"pull-right",
-					"&nbsp;",
-					"<img src=\"http://hoyanet.co.uk/images/hoya/common/sym_list3.gif\" alt=\"\" border=\"0\" />",
-					"http://hoyanet.co.uk/images/blind.gif",
-					"></a>",
-					"<p>&nbsp;</p>",
-					"</td>",
-					"</tr>\n        </tbody>\n    </table>",
-					"<td class=\"text\" align=\"left\">",
-					"<td>",
-					"<td class=\"text\" width=\"100%\">",
-					"<td valign=\"top\">",
-					"<tr>",
-					" <tbody>",
-					"<div class=\"col-xs-12 col-sm-6\">",
-					"</td>",
-					"<td>",
-					"form",
-					"sym",
-					"<p>",
-					"109.108.132.177",
-					"case ",
-					"</td></tr>';",
-					"</td><td><h3>",
-					"$text .= '<tr><td>",
-					"=    ",
-					"' ",
-					" ",
-					"echo '",
-					"'postcode'",
-					"	",
-					"sku_id",
-					"where",
-					"sv.sku_id",
-					"	",
-					"wpr01086",
-					"	",
-					"		",
-					"	",
-					"		",
-					"\n",
-					"  ",
-					"	",
-					"		",
-					"div",
-					"<span></span>",
-					"<div></div>",
-					"<span></span>",
-					"<span><div></div></span>",
-					"&nbsp;",
-					"<div><span><div>&nbsp;</div></span></div>",
-					" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo2\"",
-					" style=\"font-family:&quot;Times New Roman&quot;,&quot;serif&quot;\"",
-					" style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;\"",
-					" style=\"font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;background:white\"",
-					" style=\"color:red;border:none windowtext 1.0pt;padding:0cm;background:white\"",
-					"<span >",
-					"style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,&quot;sans-serif&quot;;color:#1F497D;mso-fareast-language:EN-US\"",
-					"    ",
-					"www_page",
-					"	",
-					"		",
-					"£",
-					"/",
-					"£",
-					"and",
-					"_gaq",
-					"function n",
-					","
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"./",
-					"",
-					"<br />\n",
-					"blockquote>",
-					"",
-					"dentists@defactodentists.com",
-					" pull-right text-right",
-					" ",
-					"</li><li>",
-					"",
-					"<div class=\"col-xs-12 col-sm-6 col-md-4\">",
-					"</div>",
-					"<div class=\"col-xs-12 col-sm-6\">",
-					"<p class=\"col-xs-12\">",
-					" 109.108.132.119",
-					" ",
-					"",
-					"postcode",
-					"",
-					"sku_id;",
-					" where",
-					"v.sku_id",
-					"",
-					" ",
-					"p",
-					"",
-					"<span>",
-					"",
-					"-",
-					"",
-					"or",
-					" "
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/home/localhost8080/Documents/clients"
-				}
-			],
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 34.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.git":
-			{
-				"height": 118.0
-			},
-			"output.git-commit":
-			{
-				"height": 118.0
-			},
-			"output.git-push":
-			{
-				"height": 373.0
-			},
-			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,3360,1050",
-			"project": "",
-			"replace":
-			{
-				"height": 74.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 254.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 22,
-			"workspace_name": ""
-		}
-=======
-		"new_window_width": 976.0
-	},
-	"windows":
-	[
->>>>>>> 4c854d768a7419b593cde2b7731c7b31fda60d78
 	],
 	"workspaces":
 	{
