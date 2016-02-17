@@ -1,8 +1,8 @@
 {
 	"folder_history":
 	[
-		"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation",
 		"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes",
+		"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation",
 		"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis",
 		"/Users/localhost8080/Documents/Dropbox/development/multiloquent",
 		"/Users/localhost8080/Documents/Dropbox/development/dotfiles",
@@ -10,8 +10,8 @@
 		"/Users/localhost8080/Documents/Dropbox/development/adeo/com.adeogroup.ae",
 		"/Volumes/Jonathansblog/public_html"
 	],
-	"last_version": 3083,
-	"last_window_id": 255,
+	"last_version": 3103,
+	"last_window_id": 258,
 	"log_indexing": false,
 	"settings":
 	{
@@ -34,17 +34,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 400.0,
-				"last_filter": "pack",
+				"height": 311.0,
+				"last_filter": "pack inst",
 				"selected_items":
 				[
 					[
-						"pack",
-						"Package Control: Remove Package"
-					],
-					[
 						"pack inst",
 						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
 					],
 					[
 						"pac in",
@@ -79,7 +79,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 457.0
+				"width": 583.0
 			},
 			"console":
 			{
@@ -99,6 +99,30 @@
 			},
 			"file_history":
 			[
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_netsparker",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_absinthe",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_exploitmyunion",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_marathon_tool",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sql_power_injector",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_ironwasp",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_zap",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlbrute",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_unibrute",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_openvas",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_vega",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_the_mole",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlsus",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlix",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlihunter",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlguard",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlcheck",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqfe3_sql_injector",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_pixy",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_metasploit",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_jsql",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_enema_sql",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_bsql_hacker",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/08_experiment/06-included_and_excluded-tools.md",
 				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/.gitignore",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/urllist.txt",
@@ -202,31 +226,7 @@
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/dvwa.md",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/classification.md",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/plan - outline of thesis.md",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/places to inject sql.md",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1687.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/sqlmp.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/arachni.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/sqlninja.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/openvas.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/platforms to test sqli.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/places to inject sql.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-2108.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/list of exploitable urls.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2007-0233.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/wordpress_cve.csv",
-				"/Users/localhost8080/Desktop/metasploit.txt",
-				"/Users/localhost8080/Desktop/nessus.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/software archives",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/php - versions",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1687",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/tools/commandline-commands - tool settings ",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810 (White Space Conflict)",
-				"/Users/localhost8080/Desktop/nessus",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810 ",
-				"/Users/localhost8080/Desktop/metasploit",
-				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/places to inject sql.md"
 			],
 			"find":
 			{
@@ -244,6 +244,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"''",
 					" ",
 					"html",
 					"	",
@@ -303,6 +304,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"null",
 					" \n",
 					"|",
 					"~~~bash",
@@ -400,7 +402,7 @@
 			{
 			}
 		},
-		"new_window_width": 1171.0
+		"new_window_width": 1405.0
 	},
 	"windows":
 	[
@@ -418,22 +420,11 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/04_tools/01-tools-background.md",
 					"settings":
 					{
-						"buffer_size": 462,
+						"buffer_size": 24,
 						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nGitGutter\n---------\n\n  Thanks for installing Git Gutter!!!\n  \n  👣 Follow me: @jisaacks\n  \n  \n  😍 Love Git Gutter? Want to support development?\n  \n  I've teamed up with Wes Bos to offer the following discounts:\n  \n  \n  --> $10 OFF Sublime Text Power User.\n  \n  Become amazing with Sublime Text with this book + video series. 📖📹\n  \n  👉 SublimeTextBook.com/friend/GITGUTTER\n  💰 Use the coupon code GITGUTTER for $10 off 💵\n  \n  \n  --> $10 OFF React for Beginners\n  \n  Upgrade your JavaScript skills. \n  Learn React.js in just a couple of afternoons. 📹\n  \n  👉 ReactForBeginners.com/friend/GITGUTTER\n  💰 Use the coupon code GITGUTTER for $10 off 💵\n  \n  \n  Join 3,000 other developers already learning React.js with Wes Bos.\n  \n  These are fantastic resources - 100% money back guarantee! 🌟\n\n\nMarkdownEditing\n---------------\n\n  # MarkdownEditing\n  \n  Markdown plugin for Sublime Text. Provides a decent Markdown color scheme (light and dark) with more __robust__ syntax highlighting and useful Markdown editing features for Sublime Text. 3 flavors are supported: Standard Markdown, __GitHub flavored Markdown__, MultiMarkdown.\n  \n  ![MarkdownEditing][github]\n  \n  [Dark][github 2] and [yellow][github 3] theme available.\n  \n  ## Overview\n  \n  * [Features](#features)\n  * [Key Bindings](#key-bindings)\n  * [GFM Specific Features](#gfm-specific-features)\n  * [Commands for Command Palette](#commands-for-command-palette)\n  * [Installation](#installation)\n  * [Configuration](#configuration)\n  * [Tips](#tips)\n  * [Similar Plugins](#similar-plugins)\n  * [Known Bugs](#known-bugs)\n  * [Contributing](#contributing)\n  * [Credits](#credits)\n  * [Donation](#donation)\n  * [License](#license)\n  \n  ## Features\n  \n  * Asterisks and underscores are autopaired and will wrap selected text\n      - If you start an empty pair and hit backspace, both elements are deleted\n      - If you start an empty pair and hit space, the right element is deleted\n  * Backticks are paired\n  * At the end of a list item, pressing <kbd>Enter</kbd> will automatically insert the new list item bullet.\n      - Pressing <kbd>Tab</kbd> on the blank list item will indent it and switch the list bullet to another one (Order is `*`, `-`, `+` in a cycle).\n      - Pressing <kbd>Shift</kbd> <kbd>Tab</kbd> on the blank list item will unindent it in the same way as above.\n      - Sequential <kbd>Tab</kbd> s or <kbd>Shift</kbd> <kbd>Tab</kbd> s are supported.\n      - You can disable automatic bullet switching or choose which bullets to be used, in your settings file.\n      - If a list item contains a [GFM task][GFM], pressing <kbd>Enter</kbd> at the end of the line will continue with a new blank task.\n  * At the end of a blockquote line, pressing <kbd>Enter</kbd> will automatically extend blockquote.\n  * Selecting some text and pressing <kbd>&gt;</kbd> will convert it to blockquote. The first and the last line don't have to be fully selected; partial select works, too.\n  * Left bracket pairing is modified to eliminate the selection and leave the cursor at a point where you can insert a `[]` or `()` pair for a link\n  * Displays Markdown headers in the Project Symbol List (<kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>R</kbd>). They will start with `#`, so you will know they belong to markdown files at a glance. Also they will be on top of the list because of the presedence of `#`.\n  * <kbd>~</kbd> wraps selected text with `~~` (strikethrough).\n  * Typing `#` when there's a selection will surround it with `#` to make it a headline. Multiple presses add additional hashes, increasing the level of the header. Once you hit 6 hashes, it will reset to 0 on the next press. The `mde.match_header_hashes` will determine if the `#` are mirrored on both sides or just at the beginning of the line.\n  * Typing return at the end of a line that begins with hashmarks will insert closing hashmarks on the headline. They're not required for Markdown, it's just aesthetics, and you can change the `mde.match_header_hashes` option in your settings to disable.\n  * Setext-style headers can be completed with `Tab`. That is, typing `Tab` on a line containing only `=` or `-` characters will add or remove enough characters to it to match the length of the line above.\n  * New documents will be named automatically based on the first header.\n  \n  ## Key Bindings\n  \n  | OS X | Windows/Linux | Description |\n  |------|---------------|-------------|\n  | <kbd>⌘</kbd><kbd>⌥</kbd><kbd>V</kbd> | <kbd>Ctrl</kbd><kbd>Win</kbd><kbd>V</kbd> | Pastes the contents of the clipboard as an inline link on selected text.\n  | <kbd>⌘</kbd><kbd>⌥</kbd><kbd>R</kbd> | <kbd>Ctrl</kbd><kbd>Win</kbd><kbd>R</kbd> | Pastes the contents of the clipboard as a reference link.\n  | <kbd>⌘</kbd><kbd>⌥</kbd><kbd>K</kbd> | <kbd>Ctrl</kbd><kbd>Win</kbd><kbd>K</kbd> | Inserts a standard inline link.\n  | <kbd>⌘</kbd><kbd>⇧</kbd><kbd>K</kbd> | <kbd>Shift</kbd><kbd>Win</kbd><kbd>K</kbd> | Inserts an inline image.\n  | <kbd>⌘</kbd><kbd>⌥</kbd><kbd>B</kbd> <kbd>⌘</kbd><kbd>⌥</kbd><kbd>I</kbd> | <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>B</kbd> <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>I</kbd> | These are bound to bold and italic. They work both with and without selections. If there is no selection, they will just transform the word under the cursor. These keybindings will unbold/unitalicize selection if it is already bold/italic.\n  | <kbd>⌘</kbd><kbd>^</kbd><kbd>1...6</kbd> | <kbd>Ctrl</kbd><kbd>1...6</kbd> | These will add the corresponding number of hashmarks for headlines. Works on blank lines and selected text in tandem with the above headline tools. If you select an entire existing headline, the current hashmarks will be removed and replaced with the header level you requested. This command respects the `mde.match_header_hashes` preference setting.\n  | <kbd>⌘</kbd><kbd>⇧</kbd><kbd>6</kbd> | <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>6</kbd> | Inserts a footnote and jump to its definition. If your cursor is in a definition, it will jump back to the marker.\n  | <kbd>⌥</kbd><kbd>⇧</kbd><kbd>F</kbd> | <kbd>Alt</kbd><kbd>Shift</kbd><kbd>F</kbd> | Locates footnote markers without definitions and inserts their markers for the definition.\n  | <kbd>⌥</kbd><kbd>⇧</kbd><kbd>G</kbd> | <kbd>Alt</kbd><kbd>Shift</kbd><kbd>G</kbd> | Locates link references without definitions and inserts their labels at the bottom for the definition.\n  \n  ## GFM Specific Features\n  \n  Underscores in words doesn't mess with bold or italic style:\n  \n  ![underscore-in-words][github 5]\n  \n  Fenced code blocks gets syntax highlighting inside:\n  \n  ![fenced-code-block][github 6]\n  \n  Keyboard shortcuts gets highlighted like in GitHub:\n  \n  ![keyboard-shortcut][github 7]\n  \n  Strikethrough is supported:\n  \n  ![strikethrough][github 8]\n  \n  ## Commands for Command Palette\n  \n  ### Fix Underlined Headers\n  \n  Adjusts every setext-style header to add or remove `=` or `-` characters as needed to match the lengths of their header text.\n  \n  ### Convert Underlined Headers to ATX\n  \n  Converts every setext-style header into an ATX style header. If something is selected only the headers in the selections will be converted, otherwise the conversion will be applied to the whole view.\n  \n  ### Add Missing Link Labels\n  \n  Scans document for referenced link usages (`[some link][some_ref]` and `[some link][]`) and checks if they are all defined. If there are undefined link references, command will automatically create their definition snippet at the bottom of the file.\n  \n  ### Markdown Lint\n  \n  Performs lint on current Markdown file. See [lint rules](lint_docs/RULES.md). Some of the linting rules are customizable via user settings file.\n  \n  ### Switch List Bullet Type\n  \n  Switches the highlighted list between numbered and bulleted style.\n  \n  ## Installation\n  \n  > __Important Note About Installation__\n  > \n  > Are you getting this error after installation: _**Error loading syntax file** \"Packages/Markdown/Markdown.tmLanguage\": Unable to open Packages/Markdown/Markdown.tmLanguage_? This is caused by open markdown files at the install time. You have to __manually change their syntax to your newly installed Markdown syntax__. Read the below paragraph for more details on this.\n  \n  _Note_: Sublime text has a native tiny package for Markdown. However, when MarkdownEditing is enabled, native package causes some conflicts. For this reason, MarkdownEditing will automatically disable it. Since it doesn't bring anything new over MarkdownEditing, this is not a loss. But remember, when you disable MarkdownEditing, you have to reenable the native one manually (if you want).\n  \n  If you are using Sublime Text 2, you have to disable the native package _manually_. To do that, add `Markdown` to your `ignored_packages` list in ST user settings:\n  \n      \"ignored_packages\": [..., \"Markdown\"],\n  \n  ### Package Control\n  \n  The preferred method of installation is via [Sublime Package Control][wbond].\n  \n  1. [Install Sublime Package Control][wbond 2]\n  2. From inside Sublime Text, open Package Control's Command Pallet: <kbd>CTRL</kbd> <kbd>SHIFT</kbd> <kbd>P</kbd> (Windows, Linux) or <kbd>CMD</kbd> <kbd>SHIFT</kbd> <kbd>P</kbd> on Mac.\n  3. Type `install package` and hit Return. A list of available packages will be displayed.\n  4. Type `MarkdownEditing` and hit Return. The package will be downloaded to the appropriate directory.\n  5. Restart Sublime Text to complete installation. Open a Markdown file and this custom theme. The features listed above should now be available.\n  \n  ### Manual Installation\n  \n  1. Download or clone this repository to a directory `MarkdownEditing` in the Sublime Text Packages directory for your platform:\n      * Mac: `git clone https://github.com/SublimeText-Markdown/MarkdownEditing.git ~/Library/Application\\ Support/Sublime\\ Text\\ 2/Packages/MarkdownEditing`\n      * Windows: `git clone https://github.com/SublimeText-Markdown/MarkdownEditing.git %APPDATA%\\Sublime/ Text/ 2/\\MarkdownEditing`\n      * Linux: `git clone https://github.com/SublimeText-Markdown/MarkdownEditing.git ~/.Sublime\\ Text\\ 2/Packages/MarkdownEditing`\n  2. Restart Sublime Text to complete installation. Open a Markdown file and this custom theme. The features listed above should now be available.\n  \n  ## Configuration\n  \n  The plugin contains 3 different Markdown flavors: Standard Markdown, GitHub flavored Markdown, MultiMarkdown. Default is GitHub flavored Markdown. If you want to set another one as default, open a Markdown file and select your flavor from the menu: `View > Syntax > Open all with current extension as`. You're done.\n  \n  You may want to have a look at the default settings files. They are located at:\n  \n      Packages/MarkdownEditing/Markdown.sublime-settings         [GitHub flavored Markdown]\n      Packages/MarkdownEditing/Markdown (Standard).sublime-settings\n      Packages/MarkdownEditing/MultiMarkdown.sublime-settings\n  \n  If you want to override any of the default settings, you can open the appropriate user settings file using the `Preferences > Package Settings > Markdown Editing` menu. Each flavor has a different settings file.\n  \n  Bold and italic markers are configurable through ST shell variables. You can use `Preferences > Package Settings > Markdown Editing` menu to see the default settings file. In order to override it, copy & paste its content into the user settings file (`Packages/User/Bold and Italic Markers.tmPreferences`) from the menu and make your edits. It is pretty straightforward.\n  \n  In order to activate the dark or the yellow theme, put one of these lines to your user settings file of the flavor (`Packages/User/[flavor].sublime-settings`):\n  \n      \"color_scheme\": \"Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme\",\n      \"color_scheme\": \"Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme\",\n  \n  If you want to go with your already existing theme, you can reenable it with the same method as above. Keep in mind that, that theme may not cover all the parts of the Markdown syntax that this plugin defines.\n  \n  By default, when you install the plugin, files with these extensions will be assigned to Markdown syntax: \"md\", \"txt\", \"mdown\", \"markdown\", \"markdn\". If you want to prevent any of these extensions to be opened as Markdown, follow these steps:\n  \n  1. Click on the language menu at bottom right\n  2. Select \"Open all with current extension as\"\n  3. Choose your preferred syntax for that extension\n  \n  ## Tips\n  \n  We are maintaining a [tips section][tips] in our [Wiki][]. Jump there to learn from others or share your experiences with others.\n  \n  ## Similar Plugins\n  \n  * [Knockdown][]\n  \n       Knockdown offers useful Markdown features and a custom Markdown theme. All of its unique features except its theme are ported to MarkdownEditing and some of them are actually improved further in MarkdownEditing.\n  * [Sublime Markdown Extended][]\n  * [SmartMarkdown][]\n  \n  ## Known Bugs\n  \n  * Setext-style headers (`===` and `---`) do not show up in the symbol list. This is due to a Sublime Text limitation (see [#158][]). However, we are able to put a placeholder to indicate the existence of the header. We encourage you to use Atx-style headers (`#`).\n  \n  * Installing for the first time while having markdown files opened may cause MarkdownEditing to behave unexpectedly on those files. Close and reopen those files to fix it.\n  \n  ## Contributing\n  \n  See `CONTRIBUTING.md` file.\n  \n  ## Credits\n  \n  MarkdownEditing was originally created by [Brett Terpstra][brettterpstra] and has become a community project with the goal of consolidating the best features from the varied collection of Markdown packages for Sublime Text. Current development is headed up by [Ali Ayas][github 9].\n  \n  Related blog posts from Brett:\n  * http://brettterpstra.com/2012/05/17/markdown-editing-for-sublime-text-2-humble-beginnings/\n  * http://brettterpstra.com/2013/11/23/markdownediting-for-sublime-text-updates/\n  \n  This plugin contains portions of code from [Knockdown][].\n  \n  Footnote commands were submitted by [J. Nicholas Geist][github 4] and originated at [geekabouttown][geekabouttown].\n  \n  ## Donation\n  \n  You can support [contributors](https://github.com/SublimeText-Markdown/MarkdownEditing/graphs/contributors) of this project individually. Every contributor is welcomed to add his/her line below with any content. Ordering shall be alphabetically by GitHub username.\n  \n  * [@maliayas](https://github.com/maliayas): <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=W2NXRPD43YSCU&amp;lc=TR&amp;item_name=open-source&amp;item_number=markdown-editing&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted\"><img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif\" alt=\"[paypal]\" /></a> ![donation received](http://maliayas.com/business/donation/badge.php?project=markdown_editing)\n  \n  ## License\n  \n  MarkdownEditing is released under the [MIT License][opensource].\n  \n  [TableEditor]:                 https://github.com/vkocubinsky/SublimeTableEditor\n  [Knockdown]:                   https://github.com/aziz/knockdown/\n  [Sublime Markdown Extended]:   https://github.com/jonschlinkert/sublime-markdown-extended\n  [SmartMarkdown]:               https://github.com/demon386/SmartMarkdown\n  [Typewriter]:                  https://github.com/alehandrof/Typewriter\n  [OpenUrl]:                     https://github.com/noahcoad/open-url\n  [brettterpstra]: http://brettterpstra.com\n  [geekabouttown]: http://geekabouttown.com/posts/sublime-text-2-markdown-footnote-goodness\n  [github]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/light.png\n  [github 2]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/dark.png\n  [github 3]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/yellow.png\n  [github 4]: https://github.com/jngeist\n  [github 5]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/underscore-in-words.png\n  [github 6]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/fenced-code-block.png\n  [github 7]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/keyboard-shortcut.png\n  [github 8]: https://raw.github.com/SublimeText-Markdown/MarkdownEditing/master/screenshots/strikethrough.png\n  [github 9]: https://github.com/maliayas\n  [opensource]: http://www.opensource.org/licenses/MIT\n  [wbond]: http://wbond.net/sublime_packages/package_control\n  [wbond 2]: http://wbond.net/sublime_packages/package_control/installation\n  [FullScreenStatus]: https://github.com/maliayas/SublimeText_FullScreenStatus\n  [macstories]: http://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/\n  [tips]: https://github.com/SublimeText-Markdown/MarkdownEditing/wiki/Tips\n  [Wiki]: https://github.com/SublimeText-Markdown/MarkdownEditing/wiki\n  [GFM]: https://help.github.com/articles/github-flavored-markdown\n  [#158]: https://github.com/SublimeText-Markdown/MarkdownEditing/issues/158\n\n\nTheme - Spacegray\n-----------------\n\n  Thanks for installing Spacegray!\n  \n  \n  How to activate\n  ===============\n  \n  Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).\n  \n  Spacegray comes in different flavors, based on Base16 color schemes. You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.\n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  \n  Spacegray\n  ---------\n  \n  Default flavor based on Base16 Ocean Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.dark.tmTheme\"\n      }\n  \n  \n  Spacegray Light\n  ---------------\n  \n  Light variation based on Base16 Ocean Light color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Light.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.light.tmTheme\"\n      }\n  \n  \n  Spacegray Eighties\n  ------------------\n  \n  A variation based on Base16 Eighties Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Eighties.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-eighties.dark.tmTheme\"\n      }\n  \n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n",
-					"settings":
-					{
-						"buffer_size": 18599,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
 					}
 				}
 			],
@@ -444,7 +435,7 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 153.0,
+				"height": 311.0,
 				"last_filter": "pack inst",
 				"selected_items":
 				[
@@ -489,7 +480,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 449.0
+				"width": 583.0
 			},
 			"console":
 			{
@@ -507,8 +498,39 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/04_tools",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/08_experiment"
+			],
 			"file_history":
 			[
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_netsparker",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_absinthe",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_exploitmyunion",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_marathon_tool",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sql_power_injector",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_ironwasp",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_zap",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlbrute",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_unibrute",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_openvas",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_vega",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_the_mole",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlsus",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlix",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlihunter",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlguard",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlcheck",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqfe3_sql_injector",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_pixy",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_metasploit",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_jsql",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_enema_sql",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_bsql_hacker",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/08_experiment/06-included_and_excluded-tools.md",
 				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/.gitignore",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/urllist.txt",
@@ -612,31 +634,7 @@
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/dvwa.md",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/classification.md",
 				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/planning/plan - outline of thesis.md",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/places to inject sql.md",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1687.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/sqlmp.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/arachni.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/sqlninja.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/openvas.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/misc/platforms to test sqli.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/places to inject sql.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-2108.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/list of exploitable urls.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2007-0233.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/wordpress_cve.csv",
-				"/Users/localhost8080/Desktop/metasploit.txt",
-				"/Users/localhost8080/Desktop/nessus.txt",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/software archives",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/php - versions",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1687",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/tools/commandline-commands - tool settings ",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810 (White Space Conflict)",
-				"/Users/localhost8080/Desktop/nessus",
-				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/CVE-2005-1810 ",
-				"/Users/localhost8080/Desktop/metasploit",
-				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/CVE/places to inject sql.md"
 			],
 			"find":
 			{
@@ -654,6 +652,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"''",
 					" ",
 					"html",
 					"	",
@@ -713,6 +712,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"null",
 					" \n",
 					"|",
 					"~~~bash",
@@ -754,6 +754,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes"
+				}
+			],
 			"groups":
 			[
 				{
@@ -762,61 +768,30 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/04_tools/01-tools-background.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 462,
+								"buffer_size": 24,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										459,
-										459
+										20,
+										20
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScript/JSON.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 18599,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										18599,
-										18599
-									]
-								],
-								"settings":
-								{
-									"auto_indent": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_width": 2,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -858,7 +833,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0 117 0 1171 877 0 0 1440 877 ",
+			"position": "0 35 0 1405 877 0 0 1440 877 ",
 			"project": "",
 			"replace":
 			{
@@ -905,7 +880,767 @@
 			"template_settings":
 			{
 			},
-			"window_id": 255,
+			"window_id": 258,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"f",
+						"find"
+					],
+					[
+						"log",
+						"logfile"
+					],
+					[
+						"zap",
+						"zaproxy"
+					],
+					[
+						"param",
+						"parameters"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/jonathans_scanner.py",
+					"settings":
+					{
+						"buffer_size": 2415,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "#!/usr/bin/env python\nfrom jonathans_scanner import jonathans_scanner\n\ndef main():\n\n    name = 'w3af'\n\n    scanner = jonathans_scanner(name)\n\n    for url in scanner.urls:\n	    print url\n	    scanner.setUrls(url)\n\n	    #bbqsql takes input from a config file, we'll generate it here\n	    with open('w3af.script', \"w\") as configfile:\n\n			print >> configfile,  \"target\\n\"\n			print >> configfile,  \"set target \"+url+\"\\n\"\n			print >> configfile,  \"back\\n\"\n\n			print >> configfile,  \"http-settings\\n\"\n			print >> configfile,  \"set cookie_jar_file \"+scanner.cookiefile+\"\\n\"\n			print >> configfile,  \"set proxy_address 127.0.0.1\\n\"\n			print >> configfile,  \"set proxy_port 8080\\n\"\n			print >> configfile,  \"back\\n\"\n\n			print >> configfile,  \"plugins\\n\"\n			print >> configfile,  \"audit sqli\\n\"\n			print >> configfile,  \"audit blind_sqli\\n\"\n			print >> configfile,  \"audit config blind_sqli\\n\"\n			print >> configfile,  \"set eq_limit 0.89\\n\"\n			print >> configfile,  \"crawl config web_spider\\n\"\n			print >> configfile,  \"set ignore_regex *logout*.*\\n\"\n			print >> configfile,  \"set only_forward True\\n\"\n\n			print >> configfile,  \"back\\n\"\n			print >> configfile,  \"back\\n\"\n\n			print >> configfile,  \"output text_file\\n\"\n			print >> configfile,  \"output config text_file\\n\"\n			print >> configfile,  \"set output_file \"+scanner.logfile+\"\\n\"\n			print >> configfile,  \"set verbose True\\n\"\n\n			print >> configfile,  \"back\\n\"\n			print >> configfile,  \"back\\n\"\n\n			print >> configfile,  \"start\\n\"\n			print >> configfile,  \"back\\n\"\n			print >> configfile,  \"exit\\n\"\n\n	    cmd = ['/usr/bin/w3af_console', '-s', 'w3af.script']\n	    cmd = ' '.join(cmd)\n\n	    test = scanner.begin(cmd)\n\nif __name__ == '__main__':\n    main()\n\n\n\n\n\n\n",
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_w3af",
+					"file_size": 1712,
+					"file_write_time": 131001335280000000,
+					"settings":
+					{
+						"buffer_size": 1705,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/authenticate-dvwa",
+					"settings":
+					{
+						"buffer_size": 1386,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_arachni",
+					"settings":
+					{
+						"buffer_size": 526,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_bbqsql",
+					"settings":
+					{
+						"buffer_size": 1392,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_nikto",
+					"settings":
+					{
+						"buffer_size": 448,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlmap",
+					"settings":
+					{
+						"buffer_size": 475,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Yaaaay :)\n\n\nDaddymouses loves mousey :D\n",
+					"settings":
+					{
+						"buffer_size": 40,
+						"line_ending": "Unix",
+						"name": "Yaaaay :)"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 311.0,
+				"last_filter": "pack inst",
+				"selected_items":
+				[
+					[
+						"pack inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac in",
+						"Package Control: Install Package"
+					],
+					[
+						"pac ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack ins",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"PHP Code Sniffer: Sniff this file"
+					],
+					[
+						"code",
+						"CodeFormatter: Format Code"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 583.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/crawler-tests",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/reports"
+			],
+			"file_history":
+			[
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_wapiti",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_arachni",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_bbqsql",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_nikto",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlmap",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/authenticate-dvwa",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/reports/sqlmap/README.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_w3af",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/burpsuite",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/cleanup",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_zap",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/reports/w3af/README.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/reports/nikto/README.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/wordpress1-5-urls.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/dvwa-urls.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/reports/arachni/README.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/urllist.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/reports/wapiti/README.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_netsparker",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_absinthe",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_exploitmyunion",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_marathon_tool",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sql_power_injector",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_ironwasp",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlbrute",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_unibrute",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_openvas",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_vega",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_the_mole",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlsus",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlix",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlihunter",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlguard",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlcheck",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqfe3_sql_injector",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_pixy",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_metasploit",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_jsql",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_enema_sql",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_bsql_hacker",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/08_experiment/06-included_and_excluded-tools.md",
+				"/Users/localhost8080/dotfiles/config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/.gitignore",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/urllist.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/run_sqlmap",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/authenticate-dvwa",
+				"/Users/localhost8080/Desktop/what to do for my test things.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/07_platforms/PHP register globals fix.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/wordpress-csv-table.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/joomla.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/drupal.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/wordpress.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/drupal.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/joomla.tsv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/CVE-2014-3704.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/04_classification/06 defensive programming techniques",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/10006213-fc20-4655-9e7d-f1fb7832f2c9/public_html/wp-content/themes/enfinity/scripts/mailer/mailer.php",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/10006213-fc20-4655-9e7d-f1fb7832f2c9/public_html/test.php",
+				"/Users/localhost8080/Documents/Dropbox/development/xml-sitemap-to-html/w3c-check",
+				"/Users/localhost8080/Documents/Dropbox/development/xml-sitemap-to-html/sitemap-xml-to-html-validator",
+				"/Users/localhost8080/Desktop/page-sitemap.xml",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/05_CVE/CVE-2015-2292.md",
+				"/private/var/folders/7y/dqv47k6x67q1lls3hsbpmlh00000gn/T/d0a54792-d98c-49e7-92fb-7dfd678e6a6e/vmfs/volumes/ssd/centos/centos.vmx",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/06_tools/02 tool comparison.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/markdown/06_tools/havij.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/01 tools background",
+				"/Users/localhost8080/bin/make_thesis",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/wordpress_cve.csv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/wordpress_cve.txt",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/01 scope of sql injection.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/03 classification.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/04 examples of each type.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/05 sql injection prevention techniques.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/01 CWE : CVE - what are they.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2005-1687.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2005-1810.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2005-2108.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/CVE-2007-0233.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/05 CVE/list of exploitable urls.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/arachni.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/armitage.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/burp suite.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/manual.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/metasploit.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/nessus.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/Nikto.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/openvas.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/Owasp-Zap.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/sqlmp.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/sqlninja.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/tools list.csv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/vega.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/06 tools/w3af.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/03 recent high profile cases/01 tmobile.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/04 classification/02 attack vectors.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/01 intro/01 toc.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/02 outline/02 impact of sqli.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/02 outline/01 outline.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/01 intro/02 background.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/php - versions.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/software archives.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/wordpress.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/platforms to test sqli.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/01 measuring - grounded theory.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/02 Measuring - collecting results.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/03 quantitive analysis.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/10 measuring/04 initial - wizard mode.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/09 experiment design/experiment design.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/08 planning/01 orginisation.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/08 planning/02 marking.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/07 platforms/dvwa.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/tools/vega.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/tools/Owasp-Zap.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/tools/nessus.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/classification/sql injection prevention techniques.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/CVE/wordpress_cve.csv",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/CVE/CWE : CVE - what are they.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/classification/examples of each type.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/classification/classification.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/CVE/places to inject sql.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/experiment design/experiment design.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/background/outline - aims/outline.md",
+				"/Users/localhost8080/Desktop/examples of each type.html",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/w3af.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/sqlninja.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/metasploit.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/burp suite.md",
+				"/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/notes/tools/armitage.md"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 115.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" >> w3af.script",
+					"echo -n",
+					"logfile",
+					"pwd",
+					"__location__",
+					"''",
+					" ",
+					"html",
+					"	",
+					"~~~php",
+					"fifilename",
+					"lename",
+					".|",
+					"||",
+					"  ",
+					",",
+					"|",
+					",",
+					"•   ",
+					"<li><em>-- maybe some cve&#39;s for them</em></li>",
+					"<li><em>-- examples in php code</em></li>",
+					"password",
+					"•   ",
+					"-  ",
+					"'",
+					"94.1.122.171",
+					"94.1.122.171 ",
+					"F3",
+					"94.1.122.171",
+					"37.238.93.203",
+					"   ,",
+					"'    ",
+					"https",
+					"//",
+					"//89.145.89.1/~alastair",
+					"{",
+					"}",
+					"\n}",
+					"}",
+					"http://",
+					">",
+					"&gt;",
+					"<",
+					"</pre>",
+					"<pre>",
+					"</pre>",
+					"<pre class=\"language-bash\">",
+					"[/code]",
+					"[code language=bash]",
+					"0;34m",
+					"-",
+					"\\342\\224\\200",
+					"165",
+					"$sq_color",
+					"xmlrpc",
+					"xml",
+					"amelia",
+					")\n    {"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"print >> configfile, ",
+					"self.pwd",
+					"pwd",
+					"null",
+					" \n",
+					"|",
+					"~~~bash",
+					"filename",
+					"",
+					"|",
+					",",
+					"|",
+					"- ",
+					"-",
+					"",
+					"- ",
+					"\"",
+					"',",
+					"'",
+					"/",
+					"{\n ",
+					"\n} ",
+					"}\n  ",
+					"}\\n",
+					"&gt;",
+					"&lt;",
+					"&gt;",
+					"</code></pre>",
+					"<pre><code class=\"language-bash\">",
+					"</code></pre>",
+					"<pre><code class=\"language-bash\">",
+					"</pre>",
+					"<pre class=\"language-bash\">",
+					"0;32m",
+					"\\342\\224\\200",
+					"-",
+					"\\[\\033[0;34m\\]",
+					"){"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 7,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/jonathans_scanner.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2415,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										999,
+										999
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 730.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_w3af",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1705,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										540,
+										540
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 541.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/authenticate-dvwa",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1386,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										984,
+										984
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_arachni",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 526,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										350,
+										350
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_bbqsql",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1392,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										1392
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_nikto",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 448,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										272,
+										272
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/localhost8080/Documents/Dropbox/uni/MSc Thesis/apps/msc-automation/specified-url-tests/run_sqlmap",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 475,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										218,
+										218
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 40,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										40,
+										40
+									]
+								],
+								"settings":
+								{
+									"auto_name": "Yaaaay :)",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 35 0 1405 877 0 0 1440 877 ",
+			"project": "",
+			"replace":
+			{
+				"height": 78.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 319.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 257,
 			"workspace_name": ""
 		}
 	],

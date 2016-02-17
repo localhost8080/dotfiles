@@ -4,6 +4,7 @@
 	"color_scheme": "Packages/Base16 Color Schemes/base16-eighties.dark.tmTheme",
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -16,5 +17,5 @@
 	"material_theme_contrast_mode": true,
 	"material_theme_small_tab": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Spacegray Eighties.sublime-theme",
+	"theme": "Spacegray Eighties.sublime-theme"
 }
