@@ -1,8 +1,0 @@
-{
-	"phpcs_executable_path" : "/usr/local/bin/phpcs",
-	"phpmd_executable_path" : "/usr/local/bin/phpmd",
-	"phpcs_additional_args": {
-        "--standard": "~/bin/ruleset.xml",
-
-    },
-}
