@@ -1,14 +1,14 @@
 #!/bin/sh
 
 # script to get the bootswatch files and folder structure and put it into the multiloquent styles folder
-cd ~/tmp/bootswatch
+cd ~/git/bootswatch
 git pull
-themes=(cerulean cosmo cyborg darkly flatly journal lumen paper readable sandstone simplex slate spacelab superhero united yeti)
+themes=(cerulean cosmo cyborg darkly flatly journal lumen sandstone simplex slate spacelab superhero united yeti)
 for theme in "${themes[@]}"
 do
-    cd /var/www/vhosts/wordpress/wp-content/themes/multiloquent/bootstrap/css
+    cd ~/git/multiloquent/bootstrap/css
     rm -rf $theme
-    cp -r ~/tmp/bootswatch/$theme $theme
+    cp -r ~/git/bootswatch/dist/$theme $theme
     cd $theme 
     rm -f index.html bootswatch.less variables.less thumbnail.png bootstrap.css
     cd ..
@@ -16,11 +16,13 @@ do
 done
 
 # default ones - into multiloquent folder and bootstrap folder
-cp ~/tmp/bootswatch/bower_components/bootstrap/dist/css/bootstrap.min.css /var/www/vhosts/wordpress/wp-content/themes/multiloquent/bootstrap/css/bootstrap/
-cp ~/tmp/bootswatch/bower_components/bootstrap/dist/css/bootstrap.min.css /var/www/vhosts/wordpress/wp-content/themes/multiloquent/bootstrap/css/multiloquent/
-cp ~/tmp/bootswatch/bower_components/bootstrap/dist/js/bootstrap.min.js /var/www/vhosts/wordpress/wp-content/themes/multiloquent/bootstrap/js/
+cd ~/git/bootstrap 
+git pull
+cp ~/git/bootstrap/dist/css/bootstrap.min.css ~/git/multiloquent/bootstrap/css/bootstrap/
+cp ~/git/bootstrap/dist/css/bootstrap.min.css ~/git/multiloquent/bootstrap/css/multiloquent/
+cp ~/git/bootstrap/dist/js/bootstrap.min.js ~/git/multiloquent/bootstrap/js/
 
-cd /var/www/vhosts/wordpress/wp-content/themes/multiloquent
+cd ~/git/multiloquent
 rm -rf documentation
 rm -f multiloquent.zip
 git add --all .

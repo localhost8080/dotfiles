@@ -1,5 +1,5 @@
 #/bin/sh
-cd /var/www/vhosts/wordpress/wp-content/themes/multiloquent
+cd ~/git/multiloquent
 rm -rf documentation/
 git pull
 #phpdoc --template="zend" -d . -t ./documentation/

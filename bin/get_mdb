@@ -1,0 +1,18 @@
+#!/bin/sh
+
+# script to get the bootswatch files and folder structure and put it into the multiloquent styles folder
+cd ~/git/mdb
+git pull
+
+cd ~/git/multiloquent/bootstrap/css
+rm -rf mdb
+cp -r ~/git/bootstrap-material-design mdb
+cd mdb
+
+
+cd ~/git/multiloquent
+rm -rf documentation
+rm -f multiloquent.zip
+git add --all .
+git commit -m "update to material design themes"
+git push origin master
