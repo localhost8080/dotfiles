@@ -1,13 +1,15 @@
 #!/bin/sh
 
 # script to get the bootswatch files and folder structure and put it into the multiloquent styles folder
-cd ~/git/mdb
+cd ~/git/bootstrap-material-design
 git pull
 
 cd ~/git/multiloquent/bootstrap/css
 rm -rf mdb
 cp -r ~/git/bootstrap-material-design mdb
 cd mdb
+rm -rf .git
+rm .gitignore
 
 
 cd ~/git/multiloquent
